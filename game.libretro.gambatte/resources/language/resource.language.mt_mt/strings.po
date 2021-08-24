@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n==1 ? 0 : n==0 || ( n%100>1 && n%100<11) ? 1 : (n%100>10 && n%100<20 ) ? 2 : 3;\n"
 
+msgctxt "Addon Summary"
+msgid "Nintendo - Game Boy / Color (Gambatte) v0.5.0-netlink"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Gambatte is an accuracy-focused, open-source, cross-platform Game Boy Color emulator written in C++.
+
+Supported files: .gb, .gbc, .dmg"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""

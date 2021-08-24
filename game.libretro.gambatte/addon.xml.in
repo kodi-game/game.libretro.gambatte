@@ -26,6 +26,6 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Nintendo - Game Boy / Color (Gambatte) v0.5.0-netlink</summary>
-		<description lang="en_GB">Gambatte is an accuracy-focused, open-source, cross-platform Game Boy Color emulator written in C++.</description>
+		<description lang="en_GB">Gambatte is an accuracy-focused, open-source, cross-platform Game Boy Color emulator written in C++.Supported files: .gb, .gbc, .dmg</description>
 	</extension>
 </addon>

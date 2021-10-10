@@ -25,6 +25,10 @@ msgctxt "Addon Description"
 msgid "Gambatte is an accuracy-focused, open-source, cross-platform Game Boy Color emulator written in C++."
 msgstr ""
 
+msgctxt "Addon Disclaimer"
+msgid "Game Boy and Game Boy Color are registered trademarks of Nintendo of America, Inc. Gambatte is not affiliated with or endorsed by any of the companies mentioned."
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "설정"

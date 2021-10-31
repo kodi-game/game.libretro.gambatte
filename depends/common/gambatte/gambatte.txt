@@ -1,1 +1,1 @@
-gambatte https://github.com/libretro/gambatte-libretro/archive/9ae0cdfb368d02665a6d9d478a9418b2e199b218.tar.gz
+gambatte https://github.com/libretro/gambatte-libretro/archive/2a409acacd9a79a43d3b7ee1d6a035becd388b2d.tar.gz

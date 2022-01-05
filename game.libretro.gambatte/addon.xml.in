@@ -26,7 +26,9 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Nintendo - Game Boy / Color (Gambatte) v0.5.0-netlink</summary>
+		<description lang="da_DK">Gambatte er fokuseret på nøjagtighed og er en open source Game Boy Color-emulator på tværs af platforme skrevet i C++.</description>
 		<description lang="en_GB">Gambatte is an accuracy-focused, open-source, cross-platform Game Boy Color emulator written in C++.</description>
+		<disclaimer lang="da_DK">Game Boy og Game Boy Color er registrerede varemærker tilhørende Nintendo of America, Inc. Gambatte er ikke tilknyttet eller godkendt af nogen af de nævnte virksomheder.</disclaimer>
 		<disclaimer lang="en_GB">Game Boy and Game Boy Color are registered trademarks of Nintendo of America, Inc. Gambatte is not affiliated with or endorsed by any of the companies mentioned.</disclaimer>
 	</extension>
 </addon>

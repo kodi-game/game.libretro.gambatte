@@ -62,16 +62,16 @@ msgid "Color Correction - Frontlight Position"
 msgstr "Farvekorrektion - Position for frontlys"
 
 msgctxt "#30008"
-msgid "Dark Filter Level (percent)"
-msgstr "Mørkt filterniveau (procent)"
+msgid "Dark Filter Level (%)"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Emulated Hardware (restart)"
-msgstr "Emuleret hardware (genstart)"
+msgid "Emulated Hardware (Restart Required)"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Use Official Bootloader (restart)"
-msgstr "Brug officiel bootloader (genstart)"
+msgid "Use Official Bootloader (Restart Required)"
+msgstr ""
 
 msgctxt "#30011"
 msgid "Interframe Blending"
@@ -86,12 +86,12 @@ msgid "Turbo Button Period"
 msgstr "Periode for turboknap"
 
 msgctxt "#30014"
-msgid "Gamepad Rumble Strength"
-msgstr "Styrke på gamepad rystelser"
+msgid "Controller Rumble Strength"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Game Boy Link Mode"
-msgstr "Game Boy linktilstand"
+msgid "Game Link Mode"
+msgstr ""
 
 msgctxt "#30016"
 msgid "Network Link Port"
@@ -144,3 +144,23 @@ msgstr "Netværkets link-serveradresse pt. 11: x__.___.___.___"
 msgctxt "#30028"
 msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
 msgstr "Netværkets link-serveradresse pt. 12: x__.___.___.___"
+
+#~ msgctxt "#30008"
+#~ msgid "Dark Filter Level (percent)"
+#~ msgstr "Mørkt filterniveau (procent)"
+
+#~ msgctxt "#30009"
+#~ msgid "Emulated Hardware (restart)"
+#~ msgstr "Emuleret hardware (genstart)"
+
+#~ msgctxt "#30010"
+#~ msgid "Use Official Bootloader (restart)"
+#~ msgstr "Brug officiel bootloader (genstart)"
+
+#~ msgctxt "#30014"
+#~ msgid "Gamepad Rumble Strength"
+#~ msgstr "Styrke på gamepad rystelser"
+
+#~ msgctxt "#30015"
+#~ msgid "Game Boy Link Mode"
+#~ msgstr "Game Boy linktilstand"

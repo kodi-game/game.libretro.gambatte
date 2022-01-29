@@ -62,15 +62,15 @@ msgid "Color Correction - Frontlight Position"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Dark Filter Level (percent)"
+msgid "Dark Filter Level (%)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Emulated Hardware (restart)"
+msgid "Emulated Hardware (Restart Required)"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Use Official Bootloader (restart)"
+msgid "Use Official Bootloader (Restart Required)"
 msgstr ""
 
 msgctxt "#30011"
@@ -86,11 +86,11 @@ msgid "Turbo Button Period"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Gamepad Rumble Strength"
+msgid "Controller Rumble Strength"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Game Boy Link Mode"
+msgid "Game Link Mode"
 msgstr ""
 
 msgctxt "#30016"

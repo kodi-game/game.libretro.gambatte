@@ -50,100 +50,204 @@ msgid "> TWB64 - Pack 2 Palette"
 msgstr "> TWB64 - Pakke 2 palette"
 
 msgctxt "#30005"
-msgid "Color Correction"
-msgstr "Farvekorrektion"
+msgid "> PixelShift - Pack 1 Palette"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Color Correction Mode"
-msgstr "Tilstand for farvekorrektion"
+msgid "Color Correction"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Color Correction - Frontlight Position"
-msgstr "Farvekorrektion - Position for frontlys"
+msgid "Color Correction Mode"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Dark Filter Level (%)"
-msgstr "Mørkt filterniveau (%)"
+msgid "Color Correction - Frontlight Position"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Emulated Hardware (Restart Required)"
-msgstr "Emuleret hardware (genstart påkrævet)"
+msgid "Dark Filter Level (%)"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Use Official Bootloader (Restart Required)"
-msgstr "Brug officiel bootloader (genstart påkrævet)"
+msgid "Interframe Blending"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Interframe Blending"
-msgstr "Interframe-blanding"
+msgid "Audio Resampler"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Allow Opposing Directions"
-msgstr "Tillad modsatte retninger"
+msgid "Emulated Hardware (Restart Required)"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Turbo Button Period"
-msgstr "Periode for turboknap"
+msgid "Use Official Bootloader (Restart Required)"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Controller Rumble Strength"
-msgstr "Styrke for controllerens rumble"
+msgid "Allow Opposing Directions"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Game Link Mode"
-msgstr "Tilstand for spilforbindelse"
+msgid "Turbo Button Period"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Network Link Port"
-msgstr "Netværkets linkport"
+msgid "Controller Rumble Strength"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Network Link Server Address Pt. 01: x__.___.___.___"
-msgstr "Netværkets link-serveradresse pt. 01: x__.___.___.___"
+msgid "Game Link Mode"
+msgstr ""
 
 msgctxt "#30018"
-msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
-msgstr "Netværkets link-serveradresse pt. 02: x__.___.___.___"
+msgid "Network Link Port"
+msgstr ""
 
 msgctxt "#30019"
-msgid "Network Link Server Address Pt. 03: __x.___.___.___"
-msgstr "Netværkets link-serveradresse pt. 03: x__.___.___.___"
+msgid "Network Link Server Address Pt. 01: x__.___.___.___"
+msgstr ""
 
 msgctxt "#30020"
-msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
-msgstr "Netværkets link-serveradresse pt. 04: x__.___.___.___"
+msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
+msgstr ""
 
 msgctxt "#30021"
-msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
-msgstr "Netværkets link-serveradresse pt. 05: x__.___.___.___"
+msgid "Network Link Server Address Pt. 03: __x.___.___.___"
+msgstr ""
 
 msgctxt "#30022"
-msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
-msgstr "Netværkets link-serveradresse pt. 06: x__.___.___.___"
+msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
+msgstr ""
 
 msgctxt "#30023"
-msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
-msgstr "Netværkets link-serveradresse pt. 07: x__.___.___.___"
+msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
+msgstr ""
 
 msgctxt "#30024"
-msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
-msgstr "Netværkets link-serveradresse pt. 08: x__.___.___.___"
+msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
+msgstr ""
 
 msgctxt "#30025"
-msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
-msgstr "Netværkets link-serveradresse pt. 09: x__.___.___.___"
+msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
+msgstr ""
 
 msgctxt "#30026"
-msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
-msgstr "Netværkets link-serveradresse pt. 10: x__.___.___.___"
+msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
+msgstr ""
 
 msgctxt "#30027"
-msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
-msgstr "Netværkets link-serveradresse pt. 11: x__.___.___.___"
+msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
+msgstr ""
 
 msgctxt "#30028"
+msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
+msgstr ""
+
+msgctxt "#30030"
 msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
-msgstr "Netværkets link-serveradresse pt. 12: x__.___.___.___"
+msgstr ""
+
+#~ msgctxt "#30005"
+#~ msgid "Color Correction"
+#~ msgstr "Farvekorrektion"
+
+#~ msgctxt "#30006"
+#~ msgid "Color Correction Mode"
+#~ msgstr "Tilstand for farvekorrektion"
+
+#~ msgctxt "#30007"
+#~ msgid "Color Correction - Frontlight Position"
+#~ msgstr "Farvekorrektion - Position for frontlys"
+
+#~ msgctxt "#30008"
+#~ msgid "Dark Filter Level (%)"
+#~ msgstr "Mørkt filterniveau (%)"
+
+#~ msgctxt "#30009"
+#~ msgid "Emulated Hardware (Restart Required)"
+#~ msgstr "Emuleret hardware (genstart påkrævet)"
+
+#~ msgctxt "#30010"
+#~ msgid "Use Official Bootloader (Restart Required)"
+#~ msgstr "Brug officiel bootloader (genstart påkrævet)"
+
+#~ msgctxt "#30011"
+#~ msgid "Interframe Blending"
+#~ msgstr "Interframe-blanding"
+
+#~ msgctxt "#30012"
+#~ msgid "Allow Opposing Directions"
+#~ msgstr "Tillad modsatte retninger"
+
+#~ msgctxt "#30013"
+#~ msgid "Turbo Button Period"
+#~ msgstr "Periode for turboknap"
+
+#~ msgctxt "#30014"
+#~ msgid "Controller Rumble Strength"
+#~ msgstr "Styrke for controllerens rumble"
+
+#~ msgctxt "#30015"
+#~ msgid "Game Link Mode"
+#~ msgstr "Tilstand for spilforbindelse"
+
+#~ msgctxt "#30016"
+#~ msgid "Network Link Port"
+#~ msgstr "Netværkets linkport"
+
+#~ msgctxt "#30017"
+#~ msgid "Network Link Server Address Pt. 01: x__.___.___.___"
+#~ msgstr "Netværkets link-serveradresse pt. 01: x__.___.___.___"
+
+#~ msgctxt "#30018"
+#~ msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
+#~ msgstr "Netværkets link-serveradresse pt. 02: x__.___.___.___"
+
+#~ msgctxt "#30019"
+#~ msgid "Network Link Server Address Pt. 03: __x.___.___.___"
+#~ msgstr "Netværkets link-serveradresse pt. 03: x__.___.___.___"
+
+#~ msgctxt "#30020"
+#~ msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
+#~ msgstr "Netværkets link-serveradresse pt. 04: x__.___.___.___"
+
+#~ msgctxt "#30021"
+#~ msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
+#~ msgstr "Netværkets link-serveradresse pt. 05: x__.___.___.___"
+
+#~ msgctxt "#30022"
+#~ msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
+#~ msgstr "Netværkets link-serveradresse pt. 06: x__.___.___.___"
+
+#~ msgctxt "#30023"
+#~ msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
+#~ msgstr "Netværkets link-serveradresse pt. 07: x__.___.___.___"
+
+#~ msgctxt "#30024"
+#~ msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
+#~ msgstr "Netværkets link-serveradresse pt. 08: x__.___.___.___"
+
+#~ msgctxt "#30025"
+#~ msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
+#~ msgstr "Netværkets link-serveradresse pt. 09: x__.___.___.___"
+
+#~ msgctxt "#30026"
+#~ msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
+#~ msgstr "Netværkets link-serveradresse pt. 10: x__.___.___.___"
+
+#~ msgctxt "#30027"
+#~ msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
+#~ msgstr "Netværkets link-serveradresse pt. 11: x__.___.___.___"
+
+#~ msgctxt "#30028"
+#~ msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
+#~ msgstr "Netværkets link-serveradresse pt. 12: x__.___.___.___"
 
 #~ msgctxt "#30008"
 #~ msgid "Dark Filter Level (percent)"

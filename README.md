@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.gambatte/resources/icon.png)
+![Nintendo - Game Boy / Color (Gambatte) icon](game.libretro.gambatte/resources/icon.png)
 
 ### Fanart
 
@@ -21,9 +21,9 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.gambatte/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.gambatte/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.gambatte/resources/screenshot-03.jpg)
+![Nintendo - Game Boy / Color (Gambatte) screenshot](game.libretro.gambatte/resources/screenshot-01.jpg)
+![Nintendo - Game Boy / Color (Gambatte) screenshot](game.libretro.gambatte/resources/screenshot-02.jpg)
+![Nintendo - Game Boy / Color (Gambatte) screenshot](game.libretro.gambatte/resources/screenshot-03.jpg)
 
 ### Disclaimer
 

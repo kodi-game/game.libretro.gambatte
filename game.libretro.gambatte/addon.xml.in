@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.gambatte"
 		name="Nintendo - Game Boy / Color (Gambatte)"
-		version="0.5.0.39"
+		version="0.5.0.40"
 		provider-name="Sinamas">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -25,7 +25,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
-		<summary lang="en_GB">Nintendo - Game Boy / Color (Gambatte) v0.5.0-netlink</summary>
+		<summary lang="en_GB">Nintendo - Game Boy / Color (Gambatte)</summary>
 		<description lang="da_DK">Gambatte er fokuseret på nøjagtighed og er en open source Game Boy Color-emulator på tværs af platforme skrevet i C++.</description>
 		<description lang="de_DE">Gambatte ist ein auf Genauigkeit ausgerichteter, quelloffener, plattformübergreifender Game Boy Color-Emulator, der in C++ geschrieben wurde.</description>
 		<description lang="en_GB">Gambatte is an accuracy-focused, open-source, cross-platform Game Boy Color emulator written in C++.</description>

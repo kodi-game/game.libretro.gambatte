@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.gambatte.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.gambatte)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.gambatte?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-gambatte)
-
 # Nintendo - Game Boy / Color (Gambatte)
 
 ### Description

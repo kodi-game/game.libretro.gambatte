@@ -153,6 +153,10 @@ msgctxt "#30030"
 msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
 msgstr "网络链路服务器地址 Pt. 12: ___.___.___.__x"
 
+msgctxt "#30031"
+msgid "> TWB64 - Pack 3 Palette"
+msgstr ""
+
 #~ msgctxt "#30013"
 #~ msgid "Turbo Button Period"
 #~ msgstr "Turbo 按钮周期"

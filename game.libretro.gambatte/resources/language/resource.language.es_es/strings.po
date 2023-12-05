@@ -152,3 +152,7 @@ msgstr "Dirección del Servidor de Enlace de Red Pt. 11: x__.___.___.___"
 msgctxt "#30030"
 msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
 msgstr "Dirección del Servidor de Enlace de Red Pt. 12: x__.___.___.___"
+
+msgctxt "#30031"
+msgid "> TWB64 - Pack 3 Palette"
+msgstr ""

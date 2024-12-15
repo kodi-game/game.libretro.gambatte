@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Game Boy and Game Boy Color are registered trademarks of Nintendo of America, Inc. Gambatte is not affiliated with or endorsed by any of the companies mentioned."
 msgstr "Game Boy e Game Boy Color sono marchi registrati di Nintendo of America, Inc. Gambatte non è affiliato o approvato da nessuna delle società citate."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Impostazioni"
-
 msgctxt "#30001"
 msgid "GB Colorization"
 msgstr "Colorazione GB"
@@ -156,3 +152,7 @@ msgstr "Collegamento di rete Indirizzo server Pt. 12: ___.___.___.__x"
 msgctxt "#30031"
 msgid "> TWB64 - Pack 3 Palette"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"

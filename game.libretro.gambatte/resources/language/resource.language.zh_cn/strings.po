@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Game Boy and Game Boy Color are registered trademarks of Nintendo of America, Inc. Gambatte is not affiliated with or endorsed by any of the companies mentioned."
 msgstr "Game Boy 和 Game Boy Color 是美国任天堂股份有限公司的注册商标。Gambatte 与上述任何公司均无关联或背书。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "GB Colorization"
 msgstr "GB 着色"
@@ -156,6 +152,10 @@ msgstr "网络链路服务器地址 Pt. 12: ___.___.___.__x"
 msgctxt "#30031"
 msgid "> TWB64 - Pack 3 Palette"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
 
 #~ msgctxt "#30013"
 #~ msgid "Turbo Button Period"

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.gambatte\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-12 12:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-gambatte/sv_se/>\n"
 "Language: sv_se\n"
@@ -29,129 +29,159 @@ msgctxt "Addon Disclaimer"
 msgid "Game Boy and Game Boy Color are registered trademarks of Nintendo of America, Inc. Gambatte is not affiliated with or endorsed by any of the companies mentioned."
 msgstr "Game Boy och Game Boy Color är registrerade varumärken som tillhör Nintendo of America, Inc. Gambatte är inte anslutet till eller stöds av något av de nämnda företagen."
 
+#, fuzzy
 msgctxt "#30001"
 msgid "GB Colorization"
-msgstr ""
+msgstr "GB Färgsättning"
 
 msgctxt "#30002"
 msgid "Internal Palette"
-msgstr ""
+msgstr "Intern palett"
 
+#, fuzzy
 msgctxt "#30003"
 msgid "> TWB64 - Pack 1 Palette"
-msgstr ""
+msgstr "> TWB64 - Förpackning 1 palett"
 
+#, fuzzy
 msgctxt "#30004"
 msgid "> TWB64 - Pack 2 Palette"
-msgstr ""
+msgstr "> TWB64 - Paket 2 Palett"
 
+#, fuzzy
 msgctxt "#30005"
 msgid "> PixelShift - Pack 1 Palette"
-msgstr ""
+msgstr "> PixelShift - Paket 1 Palett"
 
+#, fuzzy
 msgctxt "#30006"
 msgid "Color Correction"
-msgstr ""
+msgstr "Färgkorrigering"
 
+#, fuzzy
 msgctxt "#30007"
 msgid "Color Correction Mode"
-msgstr ""
+msgstr "Färgkorrigeringsläge"
 
+#, fuzzy
 msgctxt "#30008"
 msgid "Color Correction - Frontlight Position"
-msgstr ""
+msgstr "Färgkorrigering - Frontlight-position"
 
+#, fuzzy
 msgctxt "#30009"
 msgid "Dark Filter Level (%)"
-msgstr ""
+msgstr "Mörkfilternivå (%)"
 
+#, fuzzy
 msgctxt "#30010"
 msgid "Interframe Blending"
-msgstr ""
+msgstr "Blandning mellan bildrutor"
 
+#, fuzzy
 msgctxt "#30011"
 msgid "Audio Resampler"
-msgstr ""
+msgstr "Ljudåterförstärkare"
 
+#, fuzzy
 msgctxt "#30012"
 msgid "Emulated Hardware (Restart Required)"
-msgstr ""
+msgstr "Emulerad maskinvara (omstart krävs)"
 
+#, fuzzy
 msgctxt "#30013"
 msgid "Use Official Bootloader (Restart Required)"
-msgstr ""
+msgstr "Använd officiell bootloader (omstart krävs)"
 
+#, fuzzy
 msgctxt "#30014"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "Tillåt motsatta riktningar"
 
+#, fuzzy
 msgctxt "#30015"
 msgid "Turbo Button Period"
-msgstr ""
+msgstr "Turbo-knappen Period"
 
+#, fuzzy
 msgctxt "#30016"
 msgid "Controller Rumble Strength"
-msgstr ""
+msgstr "Controller Rumble Styrka"
 
+#, fuzzy
 msgctxt "#30017"
 msgid "Game Link Mode"
-msgstr ""
+msgstr "Spellänk-läge"
 
+#, fuzzy
 msgctxt "#30018"
 msgid "Network Link Port"
-msgstr ""
+msgstr "Port för nätverkslänk"
 
+#, fuzzy
 msgctxt "#30019"
 msgid "Network Link Server Address Pt. 01: x__.___.___.___"
-msgstr ""
+msgstr "Serveradress för nätverkslänk Pt. 01: x__.___.___.___.___"
 
+#, fuzzy
 msgctxt "#30020"
 msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
-msgstr ""
+msgstr "Serveradress för nätverkslänk Pt. 02: _x_.___.___.___.___"
 
+#, fuzzy
 msgctxt "#30021"
 msgid "Network Link Server Address Pt. 03: __x.___.___.___"
-msgstr ""
+msgstr "Serveradress för nätverkslänk Pt. 03: __x.___.___.___.___"
 
+#, fuzzy
 msgctxt "#30022"
 msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
-msgstr ""
+msgstr "Serveradress för nätverkslänk Pt. 04: ___.x__.___.___"
 
+#, fuzzy
 msgctxt "#30023"
 msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
-msgstr ""
+msgstr "Serveradress för nätverkslänk Pt. 05: ___._x_.___.___"
 
+#, fuzzy
 msgctxt "#30024"
 msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
-msgstr ""
+msgstr "Serveradress för nätverkslänk Pt. 06: ___.__x.___.___"
 
+#, fuzzy
 msgctxt "#30025"
 msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
-msgstr ""
+msgstr "Serveradress för nätverkslänk Pt. 07: ___.___.x__.___"
 
+#, fuzzy
 msgctxt "#30026"
 msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
-msgstr ""
+msgstr "Serveradress för nätverkslänk Pt. 08: ___.___._x_.___"
 
+#, fuzzy
 msgctxt "#30027"
 msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
-msgstr ""
+msgstr "Serveradress för nätverkslänk Pt. 09: ___.___.__x.___"
 
+#, fuzzy
 msgctxt "#30028"
 msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
-msgstr ""
+msgstr "Serveradress för nätverkslänk Pt. 10: ___.___.___.x__"
 
+#, fuzzy
 msgctxt "#30029"
 msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
-msgstr ""
+msgstr "Serveradress för nätverkslänk Pt. 11: ___.___.___._x_"
 
+#, fuzzy
 msgctxt "#30030"
 msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
-msgstr ""
+msgstr "Serveradress för nätverkslänk Pt. 12: ___.___.___.___.__x"
 
+#, fuzzy
 msgctxt "#30031"
 msgid "> TWB64 - Pack 3 Palette"
-msgstr ""
+msgstr "> TWB64 - Paket 3 Palett"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

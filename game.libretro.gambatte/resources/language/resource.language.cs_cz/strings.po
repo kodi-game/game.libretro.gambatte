@@ -360,3 +360,11 @@ msgstr "11. číslice IP adresy vzdáleného síťového serveru Game Linku. Pou
 msgctxt "#30083"
 msgid "12th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
 msgstr "12. číslice IP adresy vzdáleného síťového serveru Game Linku. Používá se pouze, když je „Režim Game Link“ nastaven na „Network Client“."
+
+msgctxt "#30084"
+msgid "GB"
+msgstr ""
+
+msgctxt "#30085"
+msgid "GBA"
+msgstr ""

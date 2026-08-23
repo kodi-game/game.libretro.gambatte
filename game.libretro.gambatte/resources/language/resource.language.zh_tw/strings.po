@@ -360,3 +360,11 @@ msgstr ""
 msgctxt "#30083"
 msgid "12th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
 msgstr ""
+
+msgctxt "#30084"
+msgid "GB"
+msgstr ""
+
+msgctxt "#30085"
+msgid "GBA"
+msgstr ""

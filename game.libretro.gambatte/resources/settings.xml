@@ -8,7 +8,7 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 							<option label="30033">auto</option>
 							<option label="30034">GBC</option>
 							<option label="30035">SGB</option>
@@ -470,7 +470,7 @@
 						<options>
 							<option label="30044">GBC only</option>
 							<option label="30045">always</option>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -523,7 +523,7 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 							<option label="30055">mix</option>
 							<option label="30056">lcd_ghosting</option>
 							<option label="30057">lcd_ghosting_fast</option>
@@ -547,10 +547,10 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
-							<option>GB</option>
-							<option>GBC</option>
-							<option>GBA</option>
+							<option label="16316">Auto</option>
+							<option label="30084">GB</option>
+							<option label="30034">GBC</option>
+							<option label="30085">GBA</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -560,8 +560,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
-							<option>disabled</option>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -571,8 +571,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -728,8 +728,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
-							<option>disabled</option>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />

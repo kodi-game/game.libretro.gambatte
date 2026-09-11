@@ -31,7 +31,7 @@ msgstr "Game Boy 和 Game Boy Color 是美国任天堂股份有限公司的注�
 
 msgctxt "#30001"
 msgid "GB Colorization"
-msgstr "GB 着色"
+msgstr "GB 色彩化"
 
 msgctxt "#30002"
 msgid "Internal Palette"
@@ -51,19 +51,19 @@ msgstr "> PixelShift - Pack 1 调色板"
 
 msgctxt "#30006"
 msgid "Color Correction"
-msgstr "颜色校正"
+msgstr "色彩校正"
 
 msgctxt "#30007"
 msgid "Color Correction Mode"
-msgstr "颜色校正模式"
+msgstr "色彩校正模式"
 
 msgctxt "#30008"
 msgid "Color Correction - Frontlight Position"
-msgstr "颜色校正 - 正照光位置"
+msgstr "色彩校正 - 前灯位置"
 
 msgctxt "#30009"
 msgid "Dark Filter Level (%)"
-msgstr "暗滤光片级别（%）"
+msgstr "暗部滤镜级别（%）"
 
 msgctxt "#30010"
 msgid "Interframe Blending"
@@ -75,7 +75,7 @@ msgstr "音频重采样器"
 
 msgctxt "#30012"
 msgid "Emulated Hardware (Restart Required)"
-msgstr "仿真硬件（需要重新启动）"
+msgstr "模拟硬件（需重启）"
 
 msgctxt "#30013"
 msgid "Use Official Bootloader (Restart Required)"
@@ -83,83 +83,83 @@ msgstr "使用官方引导加载程序（需要重新启动）"
 
 msgctxt "#30014"
 msgid "Allow Opposing Directions"
-msgstr "允许反向"
+msgstr "允许反向方向"
 
 msgctxt "#30015"
 msgid "Turbo Button Period"
-msgstr "Turbo 按钮周期"
+msgstr "连发按钮周期"
 
 msgctxt "#30016"
 msgid "Controller Rumble Strength"
-msgstr "控制器隆隆声强度"
+msgstr "控制器震动强度"
 
 msgctxt "#30017"
 msgid "Game Link Mode"
-msgstr "游戏链接模式"
+msgstr "游戏连接模式"
 
 msgctxt "#30018"
 msgid "Network Link Port"
-msgstr "网络链路端口"
+msgstr "游戏连接端口"
 
 msgctxt "#30019"
 msgid "Network Link Server Address Pt. 01: x__.___.___.___"
-msgstr "网络链路服务器地址 Pt. 01: x__.___.___.___"
+msgstr "网络连接服务器地址 Pt. 01:  x__.___.___.___"
 
 msgctxt "#30020"
 msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
-msgstr "网络链路服务器地址 Pt. 02: _x_.___.___.___"
+msgstr "网络连接服务器地址 Pt. 02: x__.___.___.___"
 
 msgctxt "#30021"
 msgid "Network Link Server Address Pt. 03: __x.___.___.___"
-msgstr "网络链路服务器地址 Pt. 03: __x.___.___.___"
+msgstr "网络连接服务器地址 Pt. 03: x__.___.___.___"
 
 msgctxt "#30022"
 msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
-msgstr "网络链路服务器地址 Pt. 04: ___.x__.___.___"
+msgstr "网络连接服务器地址 Pt. 04: x__.___.___.___"
 
 msgctxt "#30023"
 msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
-msgstr "网络链路服务器地址 Pt. 05: ___._x_.___.___"
+msgstr "网络连接服务器地址 Pt. 05: x__.___.___.___"
 
 msgctxt "#30024"
 msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
-msgstr "网络链路服务器地址 Pt. 06: ___.__x.___.___"
+msgstr "网络连接服务器地址 Pt. 06: x__.___.___.___"
 
 msgctxt "#30025"
 msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
-msgstr "网络链路服务器地址 Pt. 07: ___.___.x__.___"
+msgstr "网络连接服务器地址 Pt. 07: x__.___.___.___"
 
 msgctxt "#30026"
 msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
-msgstr "网络链路服务器地址 Pt. 08: ___.___._x_.___"
+msgstr "网络连接服务器地址 Pt. 08: x__.___.___.___"
 
 msgctxt "#30027"
 msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
-msgstr "网络链路服务器地址 Pt. 09: ___.___.__x.___"
+msgstr "网络连接服务器地址 Pt. 09: x__.___.___.___"
 
 msgctxt "#30028"
 msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
-msgstr "网络链路服务器地址 Pt. 10: ___.___.___.x__"
+msgstr "网络连接服务器地址 Pt. 10:  x__.___.___.___"
 
 msgctxt "#30029"
 msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
-msgstr "网络链路服务器地址 Pt. 11: ___.___.___._x_"
+msgstr "网络连接服务器地址 Pt. 11:  x__.___.___.___"
 
 msgctxt "#30030"
 msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
-msgstr "网络链路服务器地址 Pt. 12: ___.___.___.__x"
+msgstr "网络连接服务器地址 Pt. 12:  x__.___.___.___"
 
 msgctxt "#30031"
 msgid "> TWB64 - Pack 3 Palette"
-msgstr "> TWB64 - 第 3 套调色板"
+msgstr "> TWB64 - Pack 3 调色板"
 
 msgctxt "#30032"
 msgid "Enables colorization of Game Boy games. 'Auto' selects the 'best' (most colorful/appropriate) palette. 'GBC' selects game-specific Game Boy Color palette if defined, otherwise 'GBC - Dark Green'. 'SGB' selects game-specific Super Game Boy palette if defined, otherwise 'SGB - 1A'. 'Internal' uses 'Internal Palette' core option. 'Custom' loads user-created palette from system directory."
-msgstr ""
+msgstr "启用 Game Boy 游戏的色彩化功能。“自动”会选取“最佳”（最鲜艳/最合适）的调色板。“GBC”会在游戏有预设的 SGB/GBC 调色板时选择特定于该游戏的 Game Boy Color 调色板，否则选择“GBC - 深绿色”。“SGB”会在游戏有预设的 SGB 调色板时选择特定于该游戏的 Super Game Boy 调色板，否则选择“SGB - 1A”。“内部”使用“内部调色板”核心选项。“自定义”从系统目录加载用户创建的调色板。"
 
 msgctxt "#30033"
 msgid "Auto"
-msgstr ""
+msgstr "自动"
 
 msgctxt "#30034"
 msgid "GBC"
@@ -171,95 +171,95 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "Internal"
-msgstr ""
+msgstr "内部"
 
 msgctxt "#30037"
 msgid "Custom"
-msgstr ""
+msgstr "自定义"
 
 msgctxt "#30038"
 msgid "Selects palette used for colorizing Game Boy games when 'GB Colorization' is set to 'Internal', or when 'GB Colorization' is set to 'Auto' and game has no pre-defined SGB/GBC palette. 'GB' palettes mimic the display of original Game Boy hardware. 'GBC' palettes are identical to the built-in presets of the Game Boy Color. 'SGB' palettes are identical to the built-in presets of the Super Game Boy."
-msgstr ""
+msgstr "当“GB 色彩化”设为“内部”，或当“GB 色彩化”设为“自动”且游戏没有预设的 SGB/GBC 调色板时，选择用于为 Game Boy 游戏着色的调色板。“GB”调色板模拟原始 Game Boy 硬件的显示效果。“GBC”调色板与 Game Boy Color 内置预设完全相同。“SGB”调色板与 Super Game Boy 内置预设完全相同。"
 
 msgctxt "#30039"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 1'."
-msgstr ""
+msgstr "当“内部调色板”设为“TWB64 - Pack 1”时，选择内部色彩化调色板。"
 
 msgctxt "#30040"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 2'."
-msgstr ""
+msgstr "当“内部调色板”设为“TWB64 - Pack 2”时，选择内部色彩化调色板。"
 
 msgctxt "#30041"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 3'."
-msgstr ""
+msgstr "当“内部调色板”设为“TWB64 - Pack 3”时，选择内部色彩化调色板。"
 
 msgctxt "#30042"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'PixelShift - Pack 1'."
-msgstr ""
+msgstr "当“内部调色板”设为“PixelShift - Pack 1”时，选择内部色彩化调色板。"
 
 msgctxt "#30043"
 msgid "Adjusts output colors to match the display of real Game Boy Color hardware. 'GBC Only' ensures that correction will only be applied when playing Game Boy Color games, or when using a Game Boy Color palette to colorize a Game Boy game. 'Always' applies color correction to all content, and will produce unexpected/suboptimal results when using 'GB' or 'SGB' internal color palettes."
-msgstr ""
+msgstr "调整输出颜色以匹配真实 Game Boy Color 硬件的显示效果。“仅 GBC”确保校正仅在玩 Game Boy Color 游戏或使用 Game Boy Color 调色板为 Game Boy 游戏着色时应用。“始终”会对所有内容应用色彩校正，在使用“GB”或“SGB”内部调色板时可能会产生意外/次优结果。"
 
 msgctxt "#30044"
 msgid "GBC Only"
-msgstr ""
+msgstr "仅 GBC"
 
 msgctxt "#30045"
 msgid "Always"
-msgstr ""
+msgstr "始终"
 
 msgctxt "#30046"
 msgid "Specifies method used when performing color correction. 'Accurate' produces output almost indistinguishable from a real Game Boy Color LCD panel. 'Fast' merely darkens colors and reduces saturation, and may be used on low-end hardware if the 'Accurate' method is too slow."
-msgstr ""
+msgstr "指定执行色彩校正时使用的方法。“精确”产生的输出与真实的 Game Boy Color LCD 面板几乎无法区分。“快速”仅使颜色变暗并降低饱和度，如果“精确”方法太慢，可在低端硬件上使用。"
 
 msgctxt "#30047"
 msgid "Accurate"
-msgstr ""
+msgstr "精确"
 
 msgctxt "#30048"
 msgid "Fast"
-msgstr ""
+msgstr "快速"
 
 msgctxt "#30049"
 msgid "Simulates the physical response of the Game Boy Color LCD panel when illuminated from different angles. 'Central' represents standard color reproduction. 'Above Screen' increases brightness. 'Below Screen' reduces brightness. This setting only applies when 'Color Correction Mode' is set to 'Accurate'."
-msgstr ""
+msgstr "模拟 Game Boy Color LCD 面板在从不同角度照射时的物理响应。“中央”代表标准色彩再现。“屏幕上方”增加亮度。“屏幕下方”降低亮度。此设置仅在“色彩校正模式”设为“精确”时适用。"
 
 msgctxt "#30050"
 msgid "Central"
-msgstr ""
+msgstr "中央"
 
 msgctxt "#30051"
 msgid "Above Screen"
-msgstr ""
+msgstr "屏幕上方"
 
 msgctxt "#30052"
 msgid "Below Screen"
-msgstr ""
+msgstr "屏幕下方"
 
 msgctxt "#30053"
 msgid "Enable luminosity-based brightness reduction. May be used to avoid glare/eye strain when playing games with white backgrounds, which are intended for display on a non-backlit Game Boy Color and can therefore appear uncomfortably bright when viewed on a modern backlit screen."
-msgstr ""
+msgstr "启用基于亮度的亮度降低功能。可用于避免在玩带有白色背景的游戏时（这些游戏旨在显示在非背光的 Game Boy Color 上，因此在现代背光屏幕上观看时可能显得过于刺眼）出现眩光/眼睛疲劳。"
 
 msgctxt "#30054"
 msgid "Simulates LCD ghosting effects. 'Simple' performs a 50:50 mix of the current and previous frames. 'LCD Ghosting' mimics natural LCD response times by combining multiple buffered frames. 'Simple' blending is required when playing games that rely on LCD ghosting for transparency effects (Wave Race, Ballistic, Chikyuu Kaihou Gun ZAS...)."
-msgstr ""
+msgstr "模拟 LCD 残影效果。“简单”对当前和前一帧进行 50:50 的混合。“LCD 残影（精确）”通过组合多个缓冲帧来模拟自然的 LCD 响应时间。当玩依赖 LCD 残影实现透明效果的游戏时（如《波浪赛车》、《弹珠台》、《超级机器人大战ZAS...》），需要使用“简单”混合。"
 
 msgctxt "#30055"
 msgid "Simple"
-msgstr ""
+msgstr "简单"
 
 msgctxt "#30056"
 msgid "LCD Ghosting (Accurate)"
-msgstr ""
+msgstr "LCD 残影（精确）"
 
 msgctxt "#30057"
 msgid "LCD Ghosting (Fast)"
-msgstr ""
+msgstr "LCD 残影（快速）"
 
 msgctxt "#30058"
 msgid "Specify which algorithm to use when resampling generated audio (the Game Boy audio rate is limited only by its CPU write speed, such that 'native' frequencies are impractical on modern sound devices and must be downsampled). 'Sinc' produces the highest quality. 'Cosine' improves performance on low-end hardware."
-msgstr ""
+msgstr "指定在重采样生成的音频时使用的算法（Game Boy 音频速率仅受其 CPU 写入速度限制，因此“原生”频率在现代音响设备上不切实际，必须进行降采样）。“Sinc”产生最高质量。“Cosine”在低端硬件上提升性能。"
 
 msgctxt "#30059"
 msgid "Sinc"
@@ -271,95 +271,95 @@ msgstr ""
 
 msgctxt "#30061"
 msgid "Specify which type of hardware to emulate. 'Auto' is recommended. Selecting 'GBA' unlocks extra features in certain 'GBA Enhanced' Game Boy Color games (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...)."
-msgstr ""
+msgstr "指定要模拟的硬件类型。“自动”是推荐选项。选择“GBA”会在某些“GBA 增强版”Game Boy Color 游戏中解锁额外功能（如《仙乐》、《温蒂 - 每个女巫之路》、《塞尔达传说：季节之章/年龄之章》等）。"
 
 msgctxt "#30062"
 msgid "Enable support for official Game Boy and Game Boy Color bootloaders, with corresponding start-up logo animations."
-msgstr ""
+msgstr "启用对官方 Game Boy 和 Game Boy Color 引导程序的支持，并附带相应的启动动画。"
 
 msgctxt "#30063"
 msgid "Enabling this will allow pressing/quickly alternating/holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "启用此功能将允许同时按压/快速交替按压/按住左右（或上下）方向键。这可能会导致基于运动的故障。"
 
 msgctxt "#30064"
 msgid "Specify the repeat interval (in frames) when holding down the Turbo A/B buttons."
-msgstr ""
+msgstr "指定按住 Turbo A/B 按钮时的重复间隔（以帧为单位）。"
 
 msgctxt "#30065"
 msgid "Enables haptic feedback effects for supported games (Pokemon Pinball, Perfect Dark...)."
-msgstr ""
+msgstr "为支持的游戏（如《宝可梦弹珠台》、《完美黑暗》等）启用触觉反馈效果。"
 
 msgctxt "#30066"
 msgid "Show Game Link Settings"
-msgstr ""
+msgstr "显示游戏连接设置"
 
 msgctxt "#30067"
 msgid "Enable configuration of networked Game Link (multiplayer) options. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "启用网络化游戏连接（多人游戏）选项的配置。注意：可能需要切换快速菜单才能使此设置生效。"
 
 msgctxt "#30068"
 msgid "Game Link"
-msgstr ""
+msgstr "游戏链接"
 
 msgctxt "#30069"
 msgid "Change networked Game Link (multiplayer) settings."
-msgstr ""
+msgstr "更改网络化游戏连接（多人游戏）设置。"
 
 msgctxt "#30070"
 msgid "When enabling networked Game Link functionality, specify whether current instance should run as a server or client."
-msgstr ""
+msgstr "当启用网络化游戏连接功能时，指定当前实例应作为服务器还是客户端运行。"
 
 msgctxt "#30071"
 msgid "Specify port used for Game Link network communication."
-msgstr ""
+msgstr "指定用于游戏连接网络通信的端口。"
 
 msgctxt "#30072"
 msgid "1st digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "远程游戏连接网络服务器 IP 地址的第一位数字。仅当“游戏连接模式”设为“网络客户端”时使用。"
 
 msgctxt "#30073"
 msgid "2nd digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "远程游戏连接网络服务器 IP 地址的第二位数字。仅当“游戏连接模式”设为“网络客户端”时使用。"
 
 msgctxt "#30074"
 msgid "3rd digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "远程游戏连接网络服务器 IP 地址的第三位数字。仅当“游戏连接模式”设为“网络客户端”时使用。"
 
 msgctxt "#30075"
 msgid "4th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "远程游戏连接网络服务器 IP 地址的第四位数字。仅当“游戏连接模式”设为“网络客户端”时使用。"
 
 msgctxt "#30076"
 msgid "5th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "远程游戏连接网络服务器 IP 地址的第五位数字。仅当“游戏连接模式”设为“网络客户端”时使用。"
 
 msgctxt "#30077"
 msgid "6th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "远程游戏连接网络服务器 IP 地址的第六位数字。仅当“游戏连接模式”设为“网络客户端”时使用。"
 
 msgctxt "#30078"
 msgid "7th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "远程游戏连接网络服务器 IP 地址的第七位数字。仅当“游戏连接模式”设为“网络客户端”时使用。"
 
 msgctxt "#30079"
 msgid "8th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "远程游戏连接网络服务器 IP 地址的第八位数字。仅当“游戏连接模式”设为“网络客户端”时使用。"
 
 msgctxt "#30080"
 msgid "9th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "远程游戏连接网络服务器 IP 地址的第九位数字。仅当“游戏连接模式”设为“网络客户端”时使用。"
 
 msgctxt "#30081"
 msgid "10th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "远程游戏连接网络服务器 IP 地址的第十位数字。仅当“游戏连接模式”设为“网络客户端”时使用。"
 
 msgctxt "#30082"
 msgid "11th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "远程游戏连接网络服务器 IP 地址的第十一位数字。仅当“游戏连接模式”设为“网络客户端”时使用。"
 
 msgctxt "#30083"
 msgid "12th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "远程游戏连接网络服务器 IP 地址的第十二位数字。仅当“游戏连接模式”设为“网络客户端”时使用。"
 
 msgctxt "#30084"
 msgid "GB"
@@ -374,5 +374,5 @@ msgstr ""
 #~ msgstr "设置"
 
 #~ msgctxt "#30013"
-#~ msgid "Turbo Button Period"
-#~ msgstr "Turbo 按钮周期"
+#~ msgid "Use Official Bootloader (Restart Required)"
+#~ msgstr "使用官方引导程序（需重启）"

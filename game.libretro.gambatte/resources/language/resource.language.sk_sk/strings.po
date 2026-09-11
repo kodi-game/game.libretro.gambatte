@@ -31,19 +31,19 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "GB Colorization"
-msgstr ""
+msgstr "Kolorizácia GB"
 
 msgctxt "#30002"
 msgid "Internal Palette"
-msgstr ""
+msgstr "Vnútorná paleta"
 
 msgctxt "#30003"
 msgid "> TWB64 - Pack 1 Palette"
-msgstr ""
+msgstr "> Paleta TWB64 - Pack 1"
 
 msgctxt "#30004"
 msgid "> TWB64 - Pack 2 Palette"
-msgstr ""
+msgstr "> Paleta TWB64 - Pack 2"
 
 msgctxt "#30005"
 msgid "> PixelShift - Pack 1 Palette"
@@ -51,55 +51,55 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Color Correction"
-msgstr ""
+msgstr "Korekcia farieb"
 
 msgctxt "#30007"
 msgid "Color Correction Mode"
-msgstr ""
+msgstr "Režim farebnej korekcie"
 
 msgctxt "#30008"
 msgid "Color Correction - Frontlight Position"
-msgstr ""
+msgstr "Farebná korekcia - Pozícia frontlight"
 
 msgctxt "#30009"
 msgid "Dark Filter Level (%)"
-msgstr ""
+msgstr "Úroveň tmavého filtra (%)"
 
 msgctxt "#30010"
 msgid "Interframe Blending"
-msgstr ""
+msgstr "Medzisnímkové miešanie"
 
 msgctxt "#30011"
 msgid "Audio Resampler"
-msgstr ""
+msgstr "Vzorkovač zvuku"
 
 msgctxt "#30012"
 msgid "Emulated Hardware (Restart Required)"
-msgstr ""
+msgstr "Emulovaný hardvér (vyžaduje reštart)"
 
 msgctxt "#30013"
 msgid "Use Official Bootloader (Restart Required)"
-msgstr ""
+msgstr "Použiť oficiálny bootloader (vyžaduje reštart)"
 
 msgctxt "#30014"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "Povoliť protiľahlé smery"
 
 msgctxt "#30015"
 msgid "Turbo Button Period"
-msgstr ""
+msgstr "Perióda Turbo tlačidla"
 
 msgctxt "#30016"
 msgid "Controller Rumble Strength"
-msgstr ""
+msgstr "Sila vibrácií ovládača"
 
 msgctxt "#30017"
 msgid "Game Link Mode"
-msgstr ""
+msgstr "Režim Game Link"
 
 msgctxt "#30018"
 msgid "Network Link Port"
-msgstr ""
+msgstr "Sieťový port Link"
 
 msgctxt "#30019"
 msgid "Network Link Server Address Pt. 01: x__.___.___.___"
@@ -155,7 +155,7 @@ msgstr ""
 
 msgctxt "#30032"
 msgid "Enables colorization of Game Boy games. 'Auto' selects the 'best' (most colorful/appropriate) palette. 'GBC' selects game-specific Game Boy Color palette if defined, otherwise 'GBC - Dark Green'. 'SGB' selects game-specific Super Game Boy palette if defined, otherwise 'SGB - 1A'. 'Internal' uses 'Internal Palette' core option. 'Custom' loads user-created palette from system directory."
-msgstr ""
+msgstr "Povolí kolorizáciu hier Game Boy. 'Auto' zvolí 'najlepšiu' (najfarebnejšiu/najvhodnejšiu) paletu. 'GBC' zvolí hre špecifickú paletu Game Boy Color, ak je definovaná, inak 'GBC - Dark Green'. 'SGB' zvolí hre špecifickú paletu Super Game Boy, ak je definovaná, inak 'SGB - 1A'. 'Internal' použije možnosť 'Internal Palette' jadra. 'Custom' načíta používateľom vytvorenú paletu zo systémového adresára."
 
 msgctxt "#30033"
 msgid "Auto"
@@ -171,95 +171,95 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "Internal"
-msgstr ""
+msgstr "Interné"
 
 msgctxt "#30037"
 msgid "Custom"
-msgstr ""
+msgstr "Vlastné"
 
 msgctxt "#30038"
 msgid "Selects palette used for colorizing Game Boy games when 'GB Colorization' is set to 'Internal', or when 'GB Colorization' is set to 'Auto' and game has no pre-defined SGB/GBC palette. 'GB' palettes mimic the display of original Game Boy hardware. 'GBC' palettes are identical to the built-in presets of the Game Boy Color. 'SGB' palettes are identical to the built-in presets of the Super Game Boy."
-msgstr ""
+msgstr "Zvolí paletu používanú na kolorizáciu hier Game Boy, keď je 'GB Colorization' nastavené na 'Internal' alebo keď je 'GB Colorization' nastavené na 'Auto' a hra nemá preddefinovanú paletu SGB/GBC. Palety 'GB' napodobňujú zobrazenie pôvodného hardvéru Game Boy. Palety 'GBC' sú zhodné s vstavanými predvoľbami Game Boy Color. Palety 'SGB' sú zhodné s vstavanými predvoľbami Super Game Boy."
 
 msgctxt "#30039"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 1'."
-msgstr ""
+msgstr "Zvolí internú paletu kolorizácie, keď je 'Internal Palette' nastavená na 'TWB64 - Pack 1'."
 
 msgctxt "#30040"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 2'."
-msgstr ""
+msgstr "Zvolí internú paletu kolorizácie, keď je 'Internal Palette' nastavená na 'TWB64 - Pack 2'."
 
 msgctxt "#30041"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 3'."
-msgstr ""
+msgstr "Zvolí internú paletu kolorizácie, keď je 'Internal Palette' nastavená na 'TWB64 - Pack 3'."
 
 msgctxt "#30042"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'PixelShift - Pack 1'."
-msgstr ""
+msgstr "Zvolí internú paletu kolorizácie, keď je 'Internal Palette' nastavená na 'PixelShift - Pack 1'."
 
 msgctxt "#30043"
 msgid "Adjusts output colors to match the display of real Game Boy Color hardware. 'GBC Only' ensures that correction will only be applied when playing Game Boy Color games, or when using a Game Boy Color palette to colorize a Game Boy game. 'Always' applies color correction to all content, and will produce unexpected/suboptimal results when using 'GB' or 'SGB' internal color palettes."
-msgstr ""
+msgstr "Upravuje výstupné farby tak, aby zodpovedali zobrazeniu reálneho hardvéru Game Boy Color. 'GBC Only' zabezpečí, že korekcia sa aplikuje iba pri hraní hier Game Boy Color, alebo pri použití palety Game Boy Color na kolorizáciu hry Game Boy. 'Always' aplikuje farebnú korekciu na všetok obsah a pri použití interných farebných paliet 'GB' alebo 'SGB' produkuje neočakávané/suboptimálne výsledky."
 
 msgctxt "#30044"
 msgid "GBC Only"
-msgstr ""
+msgstr "Iba GBC"
 
 msgctxt "#30045"
 msgid "Always"
-msgstr ""
+msgstr "Vždy"
 
 msgctxt "#30046"
 msgid "Specifies method used when performing color correction. 'Accurate' produces output almost indistinguishable from a real Game Boy Color LCD panel. 'Fast' merely darkens colors and reduces saturation, and may be used on low-end hardware if the 'Accurate' method is too slow."
-msgstr ""
+msgstr "Určuje metódu použitú pri vykonávaní farebnej korekcie. 'Accurate' produkuje výstup takmer nerozoznateľný od reálneho LCD panela Game Boy Color. 'Fast' iba stmaví farby a zníži saturáciu, môže byť použitá na slabšom hardvéri, ak je metóda 'Accurate' príliš pomalá."
 
 msgctxt "#30047"
 msgid "Accurate"
-msgstr ""
+msgstr "Presné"
 
 msgctxt "#30048"
 msgid "Fast"
-msgstr ""
+msgstr "Rýchlo"
 
 msgctxt "#30049"
 msgid "Simulates the physical response of the Game Boy Color LCD panel when illuminated from different angles. 'Central' represents standard color reproduction. 'Above Screen' increases brightness. 'Below Screen' reduces brightness. This setting only applies when 'Color Correction Mode' is set to 'Accurate'."
-msgstr ""
+msgstr "Simuluje fyzickú odozvu LCD panela Game Boy Color pri osvetlení z rôznych uhlov. 'Central' predstavuje štandardnú reprodukciu farieb. 'Above Screen' zvyšuje jas. 'Below Screen' znižuje jas. Toto nastavenie sa aplikuje len ak je 'Color Correction Mode' nastavené na 'Accurate'."
 
 msgctxt "#30050"
 msgid "Central"
-msgstr ""
+msgstr "Centrálny"
 
 msgctxt "#30051"
 msgid "Above Screen"
-msgstr ""
+msgstr "Nad obrazovkou"
 
 msgctxt "#30052"
 msgid "Below Screen"
-msgstr ""
+msgstr "Pod obrazovkou"
 
 msgctxt "#30053"
 msgid "Enable luminosity-based brightness reduction. May be used to avoid glare/eye strain when playing games with white backgrounds, which are intended for display on a non-backlit Game Boy Color and can therefore appear uncomfortably bright when viewed on a modern backlit screen."
-msgstr ""
+msgstr "Povolí redukciu jasu na základe svietivosti. Možno použiť na zabránenie odleskom/námahe očí pri hraní hier s bielymi pozadiami, ktoré sú určené pre zobrazenie na nepodsvietenom Game Boy Color a preto môžu na modernej podsvietenej obrazovke pôsobiť nepríjemne jasne."
 
 msgctxt "#30054"
 msgid "Simulates LCD ghosting effects. 'Simple' performs a 50:50 mix of the current and previous frames. 'LCD Ghosting' mimics natural LCD response times by combining multiple buffered frames. 'Simple' blending is required when playing games that rely on LCD ghosting for transparency effects (Wave Race, Ballistic, Chikyuu Kaihou Gun ZAS...)."
-msgstr ""
+msgstr "Simuluje efekty LCD ghostingu. 'Simple' vykonáva 50:50 mix aktuálnej a predošlej snímky. 'LCD Ghosting' napodobňuje prirodzené reakčné časy LCD kombinovaním viacerých vyrovnávacích snímok. 'Simple' miešanie je potrebné pri hraní hier, ktoré spoliehajú na LCD ghosting pre efekty priesvitnosti (Wave Race, Ballistic, Chikyuu Kaihou Gun ZAS...)."
 
 msgctxt "#30055"
 msgid "Simple"
-msgstr ""
+msgstr "Jednoduché"
 
 msgctxt "#30056"
 msgid "LCD Ghosting (Accurate)"
-msgstr ""
+msgstr "LCD doznievanie (presné)"
 
 msgctxt "#30057"
 msgid "LCD Ghosting (Fast)"
-msgstr ""
+msgstr "LCD ghosting (rýchle)"
 
 msgctxt "#30058"
 msgid "Specify which algorithm to use when resampling generated audio (the Game Boy audio rate is limited only by its CPU write speed, such that 'native' frequencies are impractical on modern sound devices and must be downsampled). 'Sinc' produces the highest quality. 'Cosine' improves performance on low-end hardware."
-msgstr ""
+msgstr "Určuje, aký algoritmus sa použije pri prevzorkovaní generovaného zvuku (zvuková frekvencia Game Boy je obmedzená iba rýchlosťou zápisu CPU, takže 'natívne' frekvencie sú na moderných zvukových zariadeniach nepraktické a musia byť znížené). 'Sinc' produkuje najvyššiu kvalitu. 'Cosine' zlepšuje výkon na slabšom hardvéri."
 
 msgctxt "#30059"
 msgid "Sinc"
@@ -267,35 +267,35 @@ msgstr ""
 
 msgctxt "#30060"
 msgid "Cosine"
-msgstr ""
+msgstr "Kosínus"
 
 msgctxt "#30061"
 msgid "Specify which type of hardware to emulate. 'Auto' is recommended. Selecting 'GBA' unlocks extra features in certain 'GBA Enhanced' Game Boy Color games (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...)."
-msgstr ""
+msgstr "Určuje, aký typ hardvéru sa má emulovať. Odporúča sa 'Auto'. Voľba 'GBA' odomyká extra funkcie v niektorých 'GBA Enhanced' hrách Game Boy Color (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...)."
 
 msgctxt "#30062"
 msgid "Enable support for official Game Boy and Game Boy Color bootloaders, with corresponding start-up logo animations."
-msgstr ""
+msgstr "Povolí podporu pre oficiálne bootloadery Game Boy a Game Boy Color so zodpovedajúcimi štartovacími logo animáciami."
 
 msgctxt "#30063"
 msgid "Enabling this will allow pressing/quickly alternating/holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "Povolenie umožní stláčať/rýchlo striedať/držať smer doľava aj doprava (alebo hore aj dole) súčasne. Toto môže spôsobiť chyby pohybu."
 
 msgctxt "#30064"
 msgid "Specify the repeat interval (in frames) when holding down the Turbo A/B buttons."
-msgstr ""
+msgstr "Určuje interval opakovania (v snímkach) pri držaní tlačidiel Turbo A/B."
 
 msgctxt "#30065"
 msgid "Enables haptic feedback effects for supported games (Pokemon Pinball, Perfect Dark...)."
-msgstr ""
+msgstr "Povolí efekty haptickej spätnej väzby pre podporované hry (Pokémon Pinball, Perfect Dark...)."
 
 msgctxt "#30066"
 msgid "Show Game Link Settings"
-msgstr ""
+msgstr "Zobraziť nastavenia Game Link"
 
 msgctxt "#30067"
 msgid "Enable configuration of networked Game Link (multiplayer) options. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "Povolí konfiguráciu možností sieťového Game Link (multiplayer). POZNÁMKA: Pre uplatnenie tohto nastavenia môže byť potrebné prepnúť Quick Menu."
 
 msgctxt "#30068"
 msgid "Game Link"
@@ -303,63 +303,63 @@ msgstr ""
 
 msgctxt "#30069"
 msgid "Change networked Game Link (multiplayer) settings."
-msgstr ""
+msgstr "Zmení nastavenia sieťového Game Link (multiplayer)."
 
 msgctxt "#30070"
 msgid "When enabling networked Game Link functionality, specify whether current instance should run as a server or client."
-msgstr ""
+msgstr "Pri povolení sieťovej funkcie Game Link určuje, či má aktuálna inštancia bežať ako server alebo klient."
 
 msgctxt "#30071"
 msgid "Specify port used for Game Link network communication."
-msgstr ""
+msgstr "Určuje port použitý pre sieťovú komunikáciu Game Link."
 
 msgctxt "#30072"
 msgid "1st digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "1. číslica IP adresy vzdialeného sieťového servera Game Link. Použité len ak je 'Game Link Mode' nastavené na 'Network Client'."
 
 msgctxt "#30073"
 msgid "2nd digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "2. číslica IP adresy vzdialeného sieťového servera Game Link. Použité len ak je 'Game Link Mode' nastavené na 'Network Client'."
 
 msgctxt "#30074"
 msgid "3rd digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "3. číslica IP adresy vzdialeného sieťového servera Game Link. Použité len ak je 'Game Link Mode' nastavené na 'Network Client'."
 
 msgctxt "#30075"
 msgid "4th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "4. číslica IP adresy vzdialeného sieťového servera Game Link. Použité len ak je 'Game Link Mode' nastavené na 'Network Client'."
 
 msgctxt "#30076"
 msgid "5th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "5. číslica IP adresy vzdialeného sieťového servera Game Link. Použité len ak je 'Game Link Mode' nastavené na 'Network Client'."
 
 msgctxt "#30077"
 msgid "6th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "6. číslica IP adresy vzdialeného sieťového servera Game Link. Použité len ak je 'Game Link Mode' nastavené na 'Network Client'."
 
 msgctxt "#30078"
 msgid "7th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "7. číslica IP adresy vzdialeného sieťového servera Game Link. Použité len ak je 'Game Link Mode' nastavené na 'Network Client'."
 
 msgctxt "#30079"
 msgid "8th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "8. číslica IP adresy vzdialeného sieťového servera Game Link. Použité len ak je 'Game Link Mode' nastavené na 'Network Client'."
 
 msgctxt "#30080"
 msgid "9th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "9. číslica IP adresy vzdialeného sieťového servera Game Link. Použité len ak je 'Game Link Mode' nastavené na 'Network Client'."
 
 msgctxt "#30081"
 msgid "10th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "10. číslica IP adresy vzdialeného sieťového servera Game Link. Použité len ak je 'Game Link Mode' nastavené na 'Network Client'."
 
 msgctxt "#30082"
 msgid "11th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "11. číslica IP adresy vzdialeného sieťového servera Game Link. Použité len ak je 'Game Link Mode' nastavené na 'Network Client'."
 
 msgctxt "#30083"
 msgid "12th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "12. číslica IP adresy vzdialeného sieťového servera Game Link. Použité len ak je 'Game Link Mode' nastavené na 'Network Client'."
 
 msgctxt "#30084"
 msgid "GB"

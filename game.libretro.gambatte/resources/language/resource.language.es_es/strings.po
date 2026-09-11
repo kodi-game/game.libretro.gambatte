@@ -31,135 +31,135 @@ msgstr "Game Boy y Game Boy Color son marcas registradas de Nintendo of America,
 
 msgctxt "#30001"
 msgid "GB Colorization"
-msgstr "Coloración GB"
+msgstr "Coloración de GB"
 
 msgctxt "#30002"
 msgid "Internal Palette"
-msgstr "Paleta Interna"
+msgstr "Paleta interna"
 
 msgctxt "#30003"
 msgid "> TWB64 - Pack 1 Palette"
-msgstr "> TWB64 - Paleta Pack 1"
+msgstr "> Paquete de paletas 1 de TWB64"
 
 msgctxt "#30004"
 msgid "> TWB64 - Pack 2 Palette"
-msgstr "> TWB64 - Paleta Pack 2"
+msgstr "> Paquete de paletas 2 de TWB64"
 
 msgctxt "#30005"
 msgid "> PixelShift - Pack 1 Palette"
-msgstr "> PixelShift - Paleta Pack 1"
+msgstr "> Paquete de paletas 1 de PixelShift"
 
 msgctxt "#30006"
 msgid "Color Correction"
-msgstr "Corrección del Color"
+msgstr "Corrección de color"
 
 msgctxt "#30007"
 msgid "Color Correction Mode"
-msgstr "Modo de Corrección del Color"
+msgstr "Modo de corrección de color"
 
 msgctxt "#30008"
 msgid "Color Correction - Frontlight Position"
-msgstr "Corrección del Color - Posición de la Luz Delantera"
+msgstr "Corrección de color - Posición de la luz frontal"
 
 msgctxt "#30009"
 msgid "Dark Filter Level (%)"
-msgstr "Nivel de Filtro Oscuro (%)"
+msgstr "Nivel del filtro de oscuridad (%)"
 
 msgctxt "#30010"
 msgid "Interframe Blending"
-msgstr "Mezcla de Fotogramas"
+msgstr "Fusión entre fotogramas"
 
 msgctxt "#30011"
 msgid "Audio Resampler"
-msgstr "Resampler de Audio"
+msgstr "Remuestreo de audio"
 
 msgctxt "#30012"
 msgid "Emulated Hardware (Restart Required)"
-msgstr "Hardware Emulado (Reinicio Requerido)"
+msgstr "Hardware emulado (es necesario reiniciar)"
 
 msgctxt "#30013"
 msgid "Use Official Bootloader (Restart Required)"
-msgstr "Usar el Gestor de Arranque Oficial (Reinicio Requerido)"
+msgstr "Utilizar cargador de arranque oficial (es necesario reiniciar)"
 
 msgctxt "#30014"
 msgid "Allow Opposing Directions"
-msgstr "Permitir Direcciones Opuestas"
+msgstr "Permitir direcciones opuestas"
 
 msgctxt "#30015"
 msgid "Turbo Button Period"
-msgstr "Periodo para el Botón Turbo"
+msgstr "Duración del botón Turbo"
 
 msgctxt "#30016"
 msgid "Controller Rumble Strength"
-msgstr "Intensidad Vibración del Mando"
+msgstr "Fuerza de la vibración del mando"
 
 msgctxt "#30017"
 msgid "Game Link Mode"
-msgstr "Modo Game Link"
+msgstr "Modo de cable Game Link"
 
 msgctxt "#30018"
 msgid "Network Link Port"
-msgstr "Puerto de Enlace de Red"
+msgstr "Puerto de enlace de red"
 
 msgctxt "#30019"
 msgid "Network Link Server Address Pt. 01: x__.___.___.___"
-msgstr "Dirección del Servidor de Enlace de Red Pt. 01: x__.___.___.___"
+msgstr "Valor 01 de la dirección del servidor de red: x__.___.___.___"
 
 msgctxt "#30020"
 msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
-msgstr "Dirección del Servidor de Enlace de Red Pt. 02: x__.___.___.___"
+msgstr "Valor 02 de la dirección del servidor de red: _x_.___.___.___"
 
 msgctxt "#30021"
 msgid "Network Link Server Address Pt. 03: __x.___.___.___"
-msgstr "Dirección del Servidor de Enlace de Red Pt. 03: x__.___.___.___"
+msgstr "Valor 03 de la dirección del servidor de red: __x.___.___.___"
 
 msgctxt "#30022"
 msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
-msgstr "Dirección del Servidor de Enlace de Red Pt. 04: x__.___.___.___"
+msgstr "Valor 04 de la dirección del servidor de red: ___.x__.___.___"
 
 msgctxt "#30023"
 msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
-msgstr "Dirección del Servidor de Enlace de Red Pt. 05: x__.___.___.___"
+msgstr "Valor 05 de la dirección del servidor de red: ___._x_.___.___"
 
 msgctxt "#30024"
 msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
-msgstr "Dirección del Servidor de Enlace de Red Pt. 06: x__.___.___.___"
+msgstr "Valor 06 de la dirección del servidor de red: ___.__x.___.___"
 
 msgctxt "#30025"
 msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
-msgstr "Dirección del Servidor de Enlace de Red Pt. 07: x__.___.___.___"
+msgstr "Valor 07 de la dirección del servidor de red: ___.___.x__.___"
 
 msgctxt "#30026"
 msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
-msgstr "Dirección del Servidor de Enlace de Red Pt. 08: x__.___.___.___"
+msgstr "Valor 08 de la dirección del servidor de red: ___.___._x_.___"
 
 msgctxt "#30027"
 msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
-msgstr "Dirección del Servidor de Enlace de Red Pt. 09: x__.___.___.___"
+msgstr "Valor 09 de la dirección del servidor de red: ___.___.__x.___"
 
 msgctxt "#30028"
 msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
-msgstr "Dirección del Servidor de Enlace de Red Pt. 10: x__.___.___.___"
+msgstr "Valor 10 de la dirección del servidor de red: ___.___.___.x__"
 
 msgctxt "#30029"
 msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
-msgstr "Dirección del Servidor de Enlace de Red Pt. 11: x__.___.___.___"
+msgstr "Valor 11 de la dirección del servidor de red: ___.___.___._x_"
 
 msgctxt "#30030"
 msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
-msgstr "Dirección del Servidor de Enlace de Red Pt. 12: x__.___.___.___"
+msgstr "Valor 12 de la dirección del servidor de red: ___.___.___.__x"
 
 msgctxt "#30031"
 msgid "> TWB64 - Pack 3 Palette"
-msgstr "> TWB64 - Paleta Pack 3"
+msgstr "> Paquete de paletas 3 de TWB64"
 
 msgctxt "#30032"
 msgid "Enables colorization of Game Boy games. 'Auto' selects the 'best' (most colorful/appropriate) palette. 'GBC' selects game-specific Game Boy Color palette if defined, otherwise 'GBC - Dark Green'. 'SGB' selects game-specific Super Game Boy palette if defined, otherwise 'SGB - 1A'. 'Internal' uses 'Internal Palette' core option. 'Custom' loads user-created palette from system directory."
-msgstr ""
+msgstr "Permite colorear los juegos para Game Boy. «Selección automática» selecciona la paleta más colorida o adecuada. «GBC» selecciona la paleta diseñada para Game Boy Color si existe, de lo contrario utilizará «GBC verde oscuro». SGB selecciona la paleta diseñada para Super Game Boy si existe, de lo contrario utilizará «SGB 1A». «Interna» usará la opción «Paleta interna» del núcleo. «Personalizar» carga una paleta personalizada del directorio del sistema."
 
 msgctxt "#30033"
 msgid "Auto"
-msgstr ""
+msgstr "Automático"
 
 msgctxt "#30034"
 msgid "GBC"
@@ -171,131 +171,131 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "Internal"
-msgstr ""
+msgstr "Interna"
 
 msgctxt "#30037"
 msgid "Custom"
-msgstr ""
+msgstr "Personalizado"
 
 msgctxt "#30038"
 msgid "Selects palette used for colorizing Game Boy games when 'GB Colorization' is set to 'Internal', or when 'GB Colorization' is set to 'Auto' and game has no pre-defined SGB/GBC palette. 'GB' palettes mimic the display of original Game Boy hardware. 'GBC' palettes are identical to the built-in presets of the Game Boy Color. 'SGB' palettes are identical to the built-in presets of the Super Game Boy."
-msgstr ""
+msgstr "Selecciona la paleta con la que colorear los juegos para Game Boy cuando la opción Coloración de GB esté configurada como interna o cuando esté configurada como automática, pero el juego no tenga una paleta predefinida para SGB o GBC. Las paletas GB simulan la pantalla del hardware original de Game Boy. Las paletas GBC son idénticas a las preconfiguradas en una Game Boy Color. Las paletas SGB son idénticas a las preconfiguradas en el Super Game Boy."
 
 msgctxt "#30039"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 1'."
-msgstr ""
+msgstr "Selecciona la paleta de coloración interna que se utilizará cuando se haya seleccionado el paquete 1 de TWB64 como paleta interna."
 
 msgctxt "#30040"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 2'."
-msgstr ""
+msgstr "Selecciona la paleta de coloración interna que se utilizará cuando se haya seleccionado el paquete 2 de TWB64 como paleta interna."
 
 msgctxt "#30041"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 3'."
-msgstr ""
+msgstr "Selecciona la paleta de coloración interna que se utilizará cuando se haya seleccionado el paquete 3 de TWB64 como paleta interna."
 
 msgctxt "#30042"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'PixelShift - Pack 1'."
-msgstr ""
+msgstr "Selecciona la paleta de coloración interna que se utilizará cuando se haya seleccionado el paquete 1 de PixelShift como paleta interna."
 
 msgctxt "#30043"
 msgid "Adjusts output colors to match the display of real Game Boy Color hardware. 'GBC Only' ensures that correction will only be applied when playing Game Boy Color games, or when using a Game Boy Color palette to colorize a Game Boy game. 'Always' applies color correction to all content, and will produce unexpected/suboptimal results when using 'GB' or 'SGB' internal color palettes."
-msgstr ""
+msgstr "Ajusta los colores de la salida de vídeo para que se asemejen a los del hardware real de una Game Boy Color. «Solo para GBC» hace que solo se aplique la corrección al ejecutar juegos de Game Boy Color o al utilizar una paleta de Game Boy Color para colorear un juego de Game Boy. «Siempre» aplicará la corrección de color a todos los contenidos, produciendo resultados inesperados o deficientes al utilizar las paletas internas de GB o SGB."
 
 msgctxt "#30044"
 msgid "GBC Only"
-msgstr ""
+msgstr "Solo para GBC"
 
 msgctxt "#30045"
 msgid "Always"
-msgstr ""
+msgstr "Siempre"
 
 msgctxt "#30046"
 msgid "Specifies method used when performing color correction. 'Accurate' produces output almost indistinguishable from a real Game Boy Color LCD panel. 'Fast' merely darkens colors and reduces saturation, and may be used on low-end hardware if the 'Accurate' method is too slow."
-msgstr ""
+msgstr "Especifica el método que se utilizará para corregir el color. «Preciso» producirá una imagen casi indistinguible de la pantalla LCD de una Game Boy Color real. «Rápido» se limitará a oscurecer los colores y a reducir la saturación. La opción «Rápido» puede utilizarse en hardwares de gama baja si la opción «Preciso» es demasiado lenta."
 
 msgctxt "#30047"
 msgid "Accurate"
-msgstr ""
+msgstr "Preciso"
 
 msgctxt "#30048"
 msgid "Fast"
-msgstr ""
+msgstr "Rápida"
 
 msgctxt "#30049"
 msgid "Simulates the physical response of the Game Boy Color LCD panel when illuminated from different angles. 'Central' represents standard color reproduction. 'Above Screen' increases brightness. 'Below Screen' reduces brightness. This setting only applies when 'Color Correction Mode' is set to 'Accurate'."
-msgstr ""
+msgstr "Simula la respuesta física del panel LCD de una Game Boy Color cuando es iluminado desde distintos ángulos. «Centrada» representa la reproducción de color estándar. «Por encima de la pantalla» aumenta su brillo y «Por debajo de la pantalla» lo disminuye. Este ajuste se aplicará únicamente cuando el modo de corrección de color esté configurado como «Preciso»."
 
 msgctxt "#30050"
 msgid "Central"
-msgstr ""
+msgstr "Centrada"
 
 msgctxt "#30051"
 msgid "Above Screen"
-msgstr ""
+msgstr "Por encima de la pantalla"
 
 msgctxt "#30052"
 msgid "Below Screen"
-msgstr ""
+msgstr "Por debajo de la pantalla"
 
 msgctxt "#30053"
 msgid "Enable luminosity-based brightness reduction. May be used to avoid glare/eye strain when playing games with white backgrounds, which are intended for display on a non-backlit Game Boy Color and can therefore appear uncomfortably bright when viewed on a modern backlit screen."
-msgstr ""
+msgstr "Permite reducir el brillo mediante su luminosidad. Puede evitar los reflejos o el desgaste ocular al ejecutar juegos con fondos blancos que estén pensados para una Game Boy Color sin retroiluminación y que podrían mostrarse con un brillo excesivamente fuerte en una pantalla retroiluminada moderna."
 
 msgctxt "#30054"
 msgid "Simulates LCD ghosting effects. 'Simple' performs a 50:50 mix of the current and previous frames. 'LCD Ghosting' mimics natural LCD response times by combining multiple buffered frames. 'Simple' blending is required when playing games that rely on LCD ghosting for transparency effects (Wave Race, Ballistic, Chikyuu Kaihou Gun ZAS...)."
-msgstr ""
+msgstr "Simula el efecto de imagen fantasma («ghosting») de la pantalla LCD. «Sencilla» mezcla la mitad de los fotogramas anterior y siguiente. «Imagen fantasma de LCD» simula los tiempos de respuesta naturales de una pantalla LCD combinando varios fotogramas almacenados en el búfer. La fusión «Sencilla» es necesaria para aquellos juegos que necesiten este efecto para mostrar efectos de transparencias (Wave Race, Ballistic, Chikyuu Kaihou Gun ZAS...)."
 
 msgctxt "#30055"
 msgid "Simple"
-msgstr ""
+msgstr "Sencilla"
 
 msgctxt "#30056"
 msgid "LCD Ghosting (Accurate)"
-msgstr ""
+msgstr "Imagen fantasma («ghosting») de LCD (preciso)"
 
 msgctxt "#30057"
 msgid "LCD Ghosting (Fast)"
-msgstr ""
+msgstr "Imagen fantasma («ghosting») de LCD (rápido)"
 
 msgctxt "#30058"
 msgid "Specify which algorithm to use when resampling generated audio (the Game Boy audio rate is limited only by its CPU write speed, such that 'native' frequencies are impractical on modern sound devices and must be downsampled). 'Sinc' produces the highest quality. 'Cosine' improves performance on low-end hardware."
-msgstr ""
+msgstr "Especifica qué algoritmo se utilizará al remuestrear el audio generado (la frecuencia sonora de Game Boy solo está limitada por la velocidad de lectura de su CPU, por lo que esas frecuencias «nativas» no son prácticas en dispositivos modernos de sonido y deben ser submuestreadas). Seno produce la mejor calidad. Coseno mejora el rendimiento en sistemas de gama baja."
 
 msgctxt "#30059"
 msgid "Sinc"
-msgstr ""
+msgstr "Seno"
 
 msgctxt "#30060"
 msgid "Cosine"
-msgstr ""
+msgstr "Coseno"
 
 msgctxt "#30061"
 msgid "Specify which type of hardware to emulate. 'Auto' is recommended. Selecting 'GBA' unlocks extra features in certain 'GBA Enhanced' Game Boy Color games (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...)."
-msgstr ""
+msgstr "Especifica el tipo de hardware a emular. Se recomienda usar «Selección automática». La opción GBA desbloquea ciertas características en aquellos juegos para Game Boy Color que tengan el modo GBA Enhanced (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...)."
 
 msgctxt "#30062"
 msgid "Enable support for official Game Boy and Game Boy Color bootloaders, with corresponding start-up logo animations."
-msgstr ""
+msgstr "Activa el soporte para los cargadores de arranque oficiales de Game Boy y Game Boy Color con sus correspondientes animaciones de arranque."
 
 msgctxt "#30063"
 msgid "Enabling this will allow pressing/quickly alternating/holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "Esta opción permitirá pulsar, alternar rápidamente o mantener las direcciones izquierda y derecha (o arriba y abajo) al mismo tiempo. Podría provocar fallos de movimiento."
 
 msgctxt "#30064"
 msgid "Specify the repeat interval (in frames) when holding down the Turbo A/B buttons."
-msgstr ""
+msgstr "Especifica el intervalo (en fotogramas) con el que se repetirá la pulsación de los botones A o B al mantener pulsados sus equivalentes con turbo."
 
 msgctxt "#30065"
 msgid "Enables haptic feedback effects for supported games (Pokemon Pinball, Perfect Dark...)."
-msgstr ""
+msgstr "Activa los efectos de respuesta háptica en aquellos juegos que sean compatibles con la misma (Pokémon Pinball, Perfect Dark...)."
 
 msgctxt "#30066"
 msgid "Show Game Link Settings"
-msgstr ""
+msgstr "Mostrar ajustes del cable Game Link"
 
 msgctxt "#30067"
 msgid "Enable configuration of networked Game Link (multiplayer) options. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "Permite configurar las opciones de la conexión (multijugador) en red por cable Game Link. NOTA: es necesario salir y volver a entrar del menú rápido para que el cambio surta efecto."
 
 msgctxt "#30068"
 msgid "Game Link"
@@ -303,63 +303,63 @@ msgstr ""
 
 msgctxt "#30069"
 msgid "Change networked Game Link (multiplayer) settings."
-msgstr ""
+msgstr "Cambia las opciones de la conexión (multijugador) mediante cable Game Link."
 
 msgctxt "#30070"
 msgid "When enabling networked Game Link functionality, specify whether current instance should run as a server or client."
-msgstr ""
+msgstr "Cuando se active la función de red del cable Game Link, esta opción especifica qué instancia debería hacer de servidor o de cliente."
 
 msgctxt "#30071"
 msgid "Specify port used for Game Link network communication."
-msgstr ""
+msgstr "Especifica el puerto que se utilizará para las comunicaciones de red del cable Game Link."
 
 msgctxt "#30072"
 msgid "1st digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "El primer dígito de la dirección IP del servidor de red del cable Game Link. Solo se utilizará cuando el modo cable Game Link esté configurado como «Cliente de red»."
 
 msgctxt "#30073"
 msgid "2nd digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "El segundo dígito de la dirección IP del servidor de red del cable Game Link. Solo se utilizará cuando el modo cable Game Link esté configurado como «Cliente de red»."
 
 msgctxt "#30074"
 msgid "3rd digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "El tercer dígito de la dirección IP del servidor de red del cable Game Link. Solo se utilizará cuando el modo cable Game Link esté configurado como «Cliente de red»."
 
 msgctxt "#30075"
 msgid "4th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "El cuarto dígito de la dirección IP del servidor de red del cable Game Link. Solo se utilizará cuando el modo cable Game Link esté configurado como «Cliente de red»."
 
 msgctxt "#30076"
 msgid "5th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "El quinto dígito de la dirección IP del servidor de red del cable Game Link. Solo se utilizará cuando el modo cable Game Link esté configurado como «Cliente de red»."
 
 msgctxt "#30077"
 msgid "6th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "El sexto dígito de la dirección IP del servidor de red del cable Game Link. Solo se utilizará cuando el modo cable Game Link esté configurado como «Cliente de red»."
 
 msgctxt "#30078"
 msgid "7th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "El séptimo dígito de la dirección IP del servidor de red del cable Game Link. Solo se utilizará cuando el modo cable Game Link esté configurado como «Cliente de red»."
 
 msgctxt "#30079"
 msgid "8th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "El octavo dígito de la dirección IP del servidor de red del cable Game Link. Solo se utilizará cuando el modo cable Game Link esté configurado como «Cliente de red»."
 
 msgctxt "#30080"
 msgid "9th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "El noveno dígito de la dirección IP del servidor de red del cable Game Link. Solo se utilizará cuando el modo cable Game Link esté configurado como «Cliente de red»."
 
 msgctxt "#30081"
 msgid "10th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "El décimo dígito de la dirección IP del servidor de red del cable Game Link. Solo se utilizará cuando el modo cable Game Link esté configurado como «Cliente de red»."
 
 msgctxt "#30082"
 msgid "11th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "El undécimo dígito de la dirección IP del servidor de red del cable Game Link. Solo se utilizará cuando el modo cable Game Link esté configurado como «Cliente de red»."
 
 msgctxt "#30083"
 msgid "12th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "El duodécimo dígito de la dirección IP del servidor de red del cable Game Link. Solo se utilizará cuando el modo cable Game Link esté configurado como «Cliente de red»."
 
 msgctxt "#30084"
 msgid "GB"

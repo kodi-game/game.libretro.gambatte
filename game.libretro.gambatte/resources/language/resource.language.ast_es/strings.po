@@ -35,7 +35,7 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Internal Palette"
-msgstr ""
+msgstr "Paleta interna"
 
 msgctxt "#30003"
 msgid "> TWB64 - Pack 1 Palette"
@@ -79,11 +79,11 @@ msgstr ""
 
 msgctxt "#30013"
 msgid "Use Official Bootloader (Restart Required)"
-msgstr ""
+msgstr "Usar el cargador d'arrinque oficial (ye obligatorio reaniciar)"
 
 msgctxt "#30014"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "Permitir les direiciones opuestes"
 
 msgctxt "#30015"
 msgid "Turbo Button Period"
@@ -91,7 +91,7 @@ msgstr ""
 
 msgctxt "#30016"
 msgid "Controller Rumble Strength"
-msgstr ""
+msgstr "Fuercia del vibrador del mandu"
 
 msgctxt "#30017"
 msgid "Game Link Mode"
@@ -207,7 +207,7 @@ msgstr ""
 
 msgctxt "#30045"
 msgid "Always"
-msgstr ""
+msgstr "Siempre"
 
 msgctxt "#30046"
 msgid "Specifies method used when performing color correction. 'Accurate' produces output almost indistinguishable from a real Game Boy Color LCD panel. 'Fast' merely darkens colors and reduces saturation, and may be used on low-end hardware if the 'Accurate' method is too slow."
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "#30062"
 msgid "Enable support for official Game Boy and Game Boy Color bootloaders, with corresponding start-up logo animations."
-msgstr ""
+msgstr "Activa la compatibilidá colos xestores d'arrinque de Game Boy ya Game Boy Color xunto colos sos logos animaos del aniciu."
 
 msgctxt "#30063"
 msgid "Enabling this will allow pressing/quickly alternating/holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."

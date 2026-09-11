@@ -31,135 +31,135 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "GB Colorization"
-msgstr ""
+msgstr "GB 색상화"
 
 msgctxt "#30002"
 msgid "Internal Palette"
-msgstr ""
+msgstr "내장 팔레트"
 
 msgctxt "#30003"
 msgid "> TWB64 - Pack 1 Palette"
-msgstr ""
+msgstr "> TWB64 - 팩 1 팔레트"
 
 msgctxt "#30004"
 msgid "> TWB64 - Pack 2 Palette"
-msgstr ""
+msgstr "> TWB64 - 팩 2 팔레트"
 
 msgctxt "#30005"
 msgid "> PixelShift - Pack 1 Palette"
-msgstr ""
+msgstr "> PixelShift - 팩 1 팔레트"
 
 msgctxt "#30006"
 msgid "Color Correction"
-msgstr ""
+msgstr "색상 보정"
 
 msgctxt "#30007"
 msgid "Color Correction Mode"
-msgstr ""
+msgstr "색상 보정 모드"
 
 msgctxt "#30008"
 msgid "Color Correction - Frontlight Position"
-msgstr ""
+msgstr "색상 보정 - 프론트라이트 위치"
 
 msgctxt "#30009"
 msgid "Dark Filter Level (%)"
-msgstr ""
+msgstr "검정 필터 수준 (%)"
 
 msgctxt "#30010"
 msgid "Interframe Blending"
-msgstr ""
+msgstr "프레임 간 혼합"
 
 msgctxt "#30011"
 msgid "Audio Resampler"
-msgstr ""
+msgstr "오디오 리샘플러 드라이버"
 
 msgctxt "#30012"
 msgid "Emulated Hardware (Restart Required)"
-msgstr ""
+msgstr "에뮬레이트할 하드웨어 (재시작 필요)"
 
 msgctxt "#30013"
 msgid "Use Official Bootloader (Restart Required)"
-msgstr ""
+msgstr "공식 부트로더 사용 (재시작 필요)"
 
 msgctxt "#30014"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "반대 방향 동시 입력 허용"
 
 msgctxt "#30015"
 msgid "Turbo Button Period"
-msgstr ""
+msgstr "터보 버튼 간격"
 
 msgctxt "#30016"
 msgid "Controller Rumble Strength"
-msgstr ""
+msgstr "컨트롤러 진동 강도"
 
 msgctxt "#30017"
 msgid "Game Link Mode"
-msgstr ""
+msgstr "게임 통신 모드"
 
 msgctxt "#30018"
 msgid "Network Link Port"
-msgstr ""
+msgstr "네트워크 통신 포트"
 
 msgctxt "#30019"
 msgid "Network Link Server Address Pt. 01: x__.___.___.___"
-msgstr ""
+msgstr "네트워크 통신 서버 주소 파트 01: x__.___.___.___"
 
 msgctxt "#30020"
 msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
-msgstr ""
+msgstr "네트워크 통신 서버 주소 파트 02: _x_.___.___.___"
 
 msgctxt "#30021"
 msgid "Network Link Server Address Pt. 03: __x.___.___.___"
-msgstr ""
+msgstr "네트워크 통신 서버 주소 파트 03: __x.___.___.___"
 
 msgctxt "#30022"
 msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
-msgstr ""
+msgstr "네트워크 통신 서버 주소 파트 04: ___.x__.___.___"
 
 msgctxt "#30023"
 msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
-msgstr ""
+msgstr "네트워크 통신 서버 주소 파트 05: ___._x_.___.___"
 
 msgctxt "#30024"
 msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
-msgstr ""
+msgstr "네트워크 통신 서버 주소 파트 06: ___.__x.___.___"
 
 msgctxt "#30025"
 msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
-msgstr ""
+msgstr "네트워크 통신 서버 주소 파트 07: ___.___.x__.___"
 
 msgctxt "#30026"
 msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
-msgstr ""
+msgstr "네트워크 통신 서버 주소 파트 08: ___.___._x_.___"
 
 msgctxt "#30027"
 msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
-msgstr ""
+msgstr "네트워크 통신 서버 주소 파트 09: ___.___.__x.___"
 
 msgctxt "#30028"
 msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
-msgstr ""
+msgstr "네트워크 통신 서버 주소 파트 10: ___.___.___.x__"
 
 msgctxt "#30029"
 msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
-msgstr ""
+msgstr "네트워크 통신 서버 주소 파트 11: ___.___.___._x_"
 
 msgctxt "#30030"
 msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
-msgstr ""
+msgstr "네트워크 통신 서버 주소 파트 12: ___.___.___.__x"
 
 msgctxt "#30031"
 msgid "> TWB64 - Pack 3 Palette"
-msgstr ""
+msgstr "> TWB64 - 팩 3 팔레트"
 
 msgctxt "#30032"
 msgid "Enables colorization of Game Boy games. 'Auto' selects the 'best' (most colorful/appropriate) palette. 'GBC' selects game-specific Game Boy Color palette if defined, otherwise 'GBC - Dark Green'. 'SGB' selects game-specific Super Game Boy palette if defined, otherwise 'SGB - 1A'. 'Internal' uses 'Internal Palette' core option. 'Custom' loads user-created palette from system directory."
-msgstr ""
+msgstr "Game Boy 게임을 색상화합니다. '자동'은 최선의(가장 색이 도드라지고 적절한) 팔레트를 선택합니다. 'GBC'는 Game Boy Color에 정의된 팔레트가 있을 경우 해당 팔레트를, 없을 경우 'GBC - 어두운 초록'을 사용합니다. 'SGB'는 Super Game Boy에 정의된 팔레트가 있을 경우 해당 팔레트를, 없을 경우 'SGB - 1A'를 사용합니다. '내장'은 '내장 팔레트' 코어 옵션을 사용합니다. '사용자 정의'는 시스템 디렉토리에서 사용자 정의 팔레트를 불러옵니다."
 
 msgctxt "#30033"
 msgid "Auto"
-msgstr ""
+msgstr "자동"
 
 msgctxt "#30034"
 msgid "GBC"
@@ -171,195 +171,195 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "Internal"
-msgstr ""
+msgstr "내장"
 
 msgctxt "#30037"
 msgid "Custom"
-msgstr ""
+msgstr "사용자"
 
 msgctxt "#30038"
 msgid "Selects palette used for colorizing Game Boy games when 'GB Colorization' is set to 'Internal', or when 'GB Colorization' is set to 'Auto' and game has no pre-defined SGB/GBC palette. 'GB' palettes mimic the display of original Game Boy hardware. 'GBC' palettes are identical to the built-in presets of the Game Boy Color. 'SGB' palettes are identical to the built-in presets of the Super Game Boy."
-msgstr ""
+msgstr "'GB 색상화' 옵션이 '내장'으로 설정되었거나 '자동'에서 미리 정의된 SGB/GBC 팔레트를 찾을 수 없을 경우 사용할 Game Boy 게임 색상화 팔레트를 선택합니다. 'GB'는 원본 Game Boy 하드웨어를 흉내냅니다. 'GBC'는 Game Boy Color에 내장된 프리셋 팔레트와 동일합니다. 'SGB'는 Super Game Boy에 내장된 프리셋 팔레트와 동일합니다."
 
 msgctxt "#30039"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 1'."
-msgstr ""
+msgstr "'내장 팔레트'가 'TWB64 - 팩 1'일 때 사용할 내장 색상화 팔레트를 선택합니다."
 
 msgctxt "#30040"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 2'."
-msgstr ""
+msgstr "'내장 팔레트'가 'TWB64 - 팩 2'일 때 사용할 내장 색상화 팔레트를 선택합니다."
 
 msgctxt "#30041"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 3'."
-msgstr ""
+msgstr "'내부 팔레트'가 'TWB64 - 팩 3'으로 설정된 경우 내부 색상화 팔레트를 선택합니다."
 
 msgctxt "#30042"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'PixelShift - Pack 1'."
-msgstr ""
+msgstr "'내장 팔레트'가 'PixelShift - 팩 1'일 때 사용할 내장 색상화 팔레트를 선택합니다."
 
 msgctxt "#30043"
 msgid "Adjusts output colors to match the display of real Game Boy Color hardware. 'GBC Only' ensures that correction will only be applied when playing Game Boy Color games, or when using a Game Boy Color palette to colorize a Game Boy game. 'Always' applies color correction to all content, and will produce unexpected/suboptimal results when using 'GB' or 'SGB' internal color palettes."
-msgstr ""
+msgstr "출력 색상을 원본 Game Boy Color 하드웨어와 비슷하게 조정합니다. 'GBC만'은 색상 보정을 Game Boy Color 게임 또는 Game Boy 게임에 Game Boy Color 팔레트를 사용하는 경우에만 적용합니다. '항상'은 모든 콘텐츠에 항상 색상 보정을 적용하며, 'GB' 또는 'SGB' 내장 팔레트를 사용할 경우 예기치 않은 부정확한 색상이 표시될 수 있습니다."
 
 msgctxt "#30044"
 msgid "GBC Only"
-msgstr ""
+msgstr "GBC만"
 
 msgctxt "#30045"
 msgid "Always"
-msgstr ""
+msgstr "항상"
 
 msgctxt "#30046"
 msgid "Specifies method used when performing color correction. 'Accurate' produces output almost indistinguishable from a real Game Boy Color LCD panel. 'Fast' merely darkens colors and reduces saturation, and may be used on low-end hardware if the 'Accurate' method is too slow."
-msgstr ""
+msgstr "색상 보정을 적용할 방식을 선택합니다. '정확하게'는 실제 Game Boy Color의 LCD 패널과 거의 동일한 색상을 출력합니다. '빠르게'는 단순히 색을 어둡게 하고 채도를 낮게 변경하며, '정확하게'가 너무 느린 저사양 환경에서 사용될 수 있습니다."
 
 msgctxt "#30047"
 msgid "Accurate"
-msgstr ""
+msgstr "정확하게"
 
 msgctxt "#30048"
 msgid "Fast"
-msgstr ""
+msgstr "빠르게"
 
 msgctxt "#30049"
 msgid "Simulates the physical response of the Game Boy Color LCD panel when illuminated from different angles. 'Central' represents standard color reproduction. 'Above Screen' increases brightness. 'Below Screen' reduces brightness. This setting only applies when 'Color Correction Mode' is set to 'Accurate'."
-msgstr ""
+msgstr "Game Boy Color LCD 패널에 빛을 비추는 방향에 따른 물리적 반응을 흉내냅니다. '중앙'은 일반적인 색 표현을 나타냅니다. '화면 위'는 밝기를 향상시킵니다. '화면 아래'는 밝기를 감소시킵니다. 이 설정은 '색상 보정 모드'가 '정확히'일 때만 적용됩니다."
 
 msgctxt "#30050"
 msgid "Central"
-msgstr ""
+msgstr "중앙"
 
 msgctxt "#30051"
 msgid "Above Screen"
-msgstr ""
+msgstr "화면 위"
 
 msgctxt "#30052"
 msgid "Below Screen"
-msgstr ""
+msgstr "화면 아래"
 
 msgctxt "#30053"
 msgid "Enable luminosity-based brightness reduction. May be used to avoid glare/eye strain when playing games with white backgrounds, which are intended for display on a non-backlit Game Boy Color and can therefore appear uncomfortably bright when viewed on a modern backlit screen."
-msgstr ""
+msgstr "휘도 기반 밝기 감쇄를 사용합니다. 백라이트가 없는 Game Boy Color를 염두에 두고 개발된 게임이 흰색 배경을 사용할 경우 현대적인 백라이트 화면에서는 불편할 정도로 밝게 표시될 수 있습니다. 이로 인한 빛 반사 및 눈 피로를 이 옵션으로 최소화할 수 있습니다."
 
 msgctxt "#30054"
 msgid "Simulates LCD ghosting effects. 'Simple' performs a 50:50 mix of the current and previous frames. 'LCD Ghosting' mimics natural LCD response times by combining multiple buffered frames. 'Simple' blending is required when playing games that rely on LCD ghosting for transparency effects (Wave Race, Ballistic, Chikyuu Kaihou Gun ZAS...)."
-msgstr ""
+msgstr "LCD 고스팅 효과를 흉내냅니다. '단순'은 현재 프레임과 이전 프레임을 50:50 비율로 혼합합니다. 'LCD 고스팅' 옵션은 LCD 반응 시간에 따라 여러 프레임을 혼합합니다. LCD 고스팅을 이용해 투명 효과를 구현하는 게임(Wave Race, Ballistic, Chikyuu Kaihou Gun ZAS 등)을 플레이하려면 '단순' 혼합을 사용해야 합니다."
 
 msgctxt "#30055"
 msgid "Simple"
-msgstr ""
+msgstr "단순"
 
 msgctxt "#30056"
 msgid "LCD Ghosting (Accurate)"
-msgstr ""
+msgstr "LCD 고스팅 (정확하게)"
 
 msgctxt "#30057"
 msgid "LCD Ghosting (Fast)"
-msgstr ""
+msgstr "LCD 고스팅 (빠르게)"
 
 msgctxt "#30058"
 msgid "Specify which algorithm to use when resampling generated audio (the Game Boy audio rate is limited only by its CPU write speed, such that 'native' frequencies are impractical on modern sound devices and must be downsampled). 'Sinc' produces the highest quality. 'Cosine' improves performance on low-end hardware."
-msgstr ""
+msgstr "생성된 오디오를 리샘플링할 때 사용할 알고리즘을 지정합니다. (Game Boy의 오디오 샘플 레이트는 전적으로 CPU의 쓰기 속도에 따라 정해지기 때문에, 이들의 '네이티브' 주파수는 현대의 사운드 장치와 맞지 않아 다운샘플링을 거쳐야 합니다) '싱크'는 가장 고품질의 오디오를 만들어냅니다. '코사인'은 저사양 환경에서 성능을 개선합니다."
 
 msgctxt "#30059"
 msgid "Sinc"
-msgstr ""
+msgstr "싱크"
 
 msgctxt "#30060"
 msgid "Cosine"
-msgstr ""
+msgstr "코사인"
 
 msgctxt "#30061"
 msgid "Specify which type of hardware to emulate. 'Auto' is recommended. Selecting 'GBA' unlocks extra features in certain 'GBA Enhanced' Game Boy Color games (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...)."
-msgstr ""
+msgstr "어떤 종류의 하드웨어를 에뮬레이트할지 선택합니다. '자동'이 권장됩니다. 'GBA'를 선택하면 일부 'GBA 개선'을 지원하는 Game Boy Color 게임(Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages 등)에서 추가 기능을 해금할 수 있습니다."
 
 msgctxt "#30062"
 msgid "Enable support for official Game Boy and Game Boy Color bootloaders, with corresponding start-up logo animations."
-msgstr ""
+msgstr "공식 Game Boy 및 Game Boy Color 부트로더 지원을 활성화합니다. 시작 로고 애니메이션이 재생됩니다."
 
 msgctxt "#30063"
 msgid "Enabling this will allow pressing/quickly alternating/holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "이 옵션을 활성화하면 왼쪽과 오른쪽 (또는 위쪽과 아래쪽) 방향 입력을 동시에 누르거나 빠르게 번갈아 누르는 것을 허용합니다. 이는 움직임 관련 버그를 일으킬 수 있습니다."
 
 msgctxt "#30064"
 msgid "Specify the repeat interval (in frames) when holding down the Turbo A/B buttons."
-msgstr ""
+msgstr "터보 A/B 버튼을 꾹 누를 때 사용될 입력 간격(프레임)을 지정합니다."
 
 msgctxt "#30065"
 msgid "Enables haptic feedback effects for supported games (Pokemon Pinball, Perfect Dark...)."
-msgstr ""
+msgstr "지원되는 게임(Pokemon Pinball, Perfect Dark 등)에서 햅틱 피드백 효과를 활성화합니다."
 
 msgctxt "#30066"
 msgid "Show Game Link Settings"
-msgstr ""
+msgstr "게임 통신 설정 표시"
 
 msgctxt "#30067"
 msgid "Enable configuration of networked Game Link (multiplayer) options. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "'게임 통신' (멀티플레이어) 설정을 활성화합니다. 주의: 이 설정은 빠른 메뉴를 껐다 켜야 반영됩니다."
 
 msgctxt "#30068"
 msgid "Game Link"
-msgstr ""
+msgstr "게임 통신"
 
 msgctxt "#30069"
 msgid "Change networked Game Link (multiplayer) settings."
-msgstr ""
+msgstr "온라인 '게임 통신' (멀티플레이어) 옵션을 설정합니다."
 
 msgctxt "#30070"
 msgid "When enabling networked Game Link functionality, specify whether current instance should run as a server or client."
-msgstr ""
+msgstr "'게임 통신' 기능을 사용할 때, 현재 인스턴스가 서버로 구동될 것인지 클라이언트로 구동될 것인지 지정합니다."
 
 msgctxt "#30071"
 msgid "Specify port used for Game Link network communication."
-msgstr ""
+msgstr "'게임 통신' 기능이 사용할 포트를 지정합니다."
 
 msgctxt "#30072"
 msgid "1st digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "'게임 통신'의 원격 서버 IP 주소의 1번째 자리입니다. '게임 통신 모드'가 '네트워크 클라이언트'로 설정되었을 때만 사용됩니다."
 
 msgctxt "#30073"
 msgid "2nd digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "'게임 통신'의 원격 서버 IP 주소의 2번째 자리입니다. '게임 통신 모드'가 '네트워크 클라이언트'로 설정되었을 때만 사용됩니다."
 
 msgctxt "#30074"
 msgid "3rd digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "'게임 통신'의 원격 서버 IP 주소의 3번째 자리입니다. '게임 통신 모드'가 '네트워크 클라이언트'로 설정되었을 때만 사용됩니다."
 
 msgctxt "#30075"
 msgid "4th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "'게임 통신'의 원격 서버 IP 주소의 4번째 자리입니다. '게임 통신 모드'가 '네트워크 클라이언트'로 설정되었을 때만 사용됩니다."
 
 msgctxt "#30076"
 msgid "5th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "'게임 통신'의 원격 서버 IP 주소의 5번째 자리입니다. '게임 통신 모드'가 '네트워크 클라이언트'로 설정되었을 때만 사용됩니다."
 
 msgctxt "#30077"
 msgid "6th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "'게임 통신'의 원격 서버 IP 주소의 6번째 자리입니다. '게임 통신 모드'가 '네트워크 클라이언트'로 설정되었을 때만 사용됩니다."
 
 msgctxt "#30078"
 msgid "7th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "'게임 통신'의 원격 서버 IP 주소의 7번째 자리입니다. '게임 통신 모드'가 '네트워크 클라이언트'로 설정되었을 때만 사용됩니다."
 
 msgctxt "#30079"
 msgid "8th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "'게임 통신'의 원격 서버 IP 주소의 8번째 자리입니다. '게임 통신 모드'가 '네트워크 클라이언트'로 설정되었을 때만 사용됩니다."
 
 msgctxt "#30080"
 msgid "9th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "'게임 통신'의 원격 서버 IP 주소의 9번째 자리입니다. '게임 통신 모드'가 '네트워크 클라이언트'로 설정되었을 때만 사용됩니다."
 
 msgctxt "#30081"
 msgid "10th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "'게임 통신'의 원격 서버 IP 주소의 10번째 자리입니다. '게임 통신 모드'가 '네트워크 클라이언트'로 설정되었을 때만 사용됩니다."
 
 msgctxt "#30082"
 msgid "11th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "'게임 통신'의 원격 서버 IP 주소의 11번째 자리입니다. '게임 통신 모드'가 '네트워크 클라이언트'로 설정되었을 때만 사용됩니다."
 
 msgctxt "#30083"
 msgid "12th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "'게임 통신'의 원격 서버 IP 주소의 12번째 자리입니다. '게임 통신 모드'가 '네트워크 클라이언트'로 설정되었을 때만 사용됩니다."
 
 msgctxt "#30084"
 msgid "GB"

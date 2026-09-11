@@ -71,7 +71,7 @@ msgstr ""
 
 msgctxt "#30011"
 msgid "Audio Resampler"
-msgstr ""
+msgstr "Reamostragem de áudio"
 
 msgctxt "#30012"
 msgid "Emulated Hardware (Restart Required)"
@@ -159,7 +159,7 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Auto"
-msgstr ""
+msgstr "Automático"
 
 msgctxt "#30034"
 msgid "GBC"
@@ -175,7 +175,7 @@ msgstr ""
 
 msgctxt "#30037"
 msgid "Custom"
-msgstr ""
+msgstr "Personalizar"
 
 msgctxt "#30038"
 msgid "Selects palette used for colorizing Game Boy games when 'GB Colorization' is set to 'Internal', or when 'GB Colorization' is set to 'Auto' and game has no pre-defined SGB/GBC palette. 'GB' palettes mimic the display of original Game Boy hardware. 'GBC' palettes are identical to the built-in presets of the Game Boy Color. 'SGB' palettes are identical to the built-in presets of the Super Game Boy."

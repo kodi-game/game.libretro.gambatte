@@ -31,123 +31,123 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "GB Colorization"
-msgstr ""
+msgstr "GB Renklendirme"
 
 msgctxt "#30002"
 msgid "Internal Palette"
-msgstr ""
+msgstr "Dahili Palet"
 
 msgctxt "#30003"
 msgid "> TWB64 - Pack 1 Palette"
-msgstr ""
+msgstr "> TWB64 - Paket 1 Paletleri"
 
 msgctxt "#30004"
 msgid "> TWB64 - Pack 2 Palette"
-msgstr ""
+msgstr "> TWB64 - Paket 2 Paletleri"
 
 msgctxt "#30005"
 msgid "> PixelShift - Pack 1 Palette"
-msgstr ""
+msgstr "> PixelShift - Paket 1 Paleti"
 
 msgctxt "#30006"
 msgid "Color Correction"
-msgstr ""
+msgstr "Renk Düzeltmesi"
 
 msgctxt "#30007"
 msgid "Color Correction Mode"
-msgstr ""
+msgstr "Renk Düzeltme Türü"
 
 msgctxt "#30008"
 msgid "Color Correction - Frontlight Position"
-msgstr ""
+msgstr "Renk Düzeltmesi - Ön Işık Konumu"
 
 msgctxt "#30009"
 msgid "Dark Filter Level (%)"
-msgstr ""
+msgstr "Koyu Filtre Seviyesi (%)"
 
 msgctxt "#30010"
 msgid "Interframe Blending"
-msgstr ""
+msgstr "Çerçeveler Arası Karıştırma"
 
 msgctxt "#30011"
 msgid "Audio Resampler"
-msgstr ""
+msgstr "Ses Yeniden Örnekleyici"
 
 msgctxt "#30012"
 msgid "Emulated Hardware (Restart Required)"
-msgstr ""
+msgstr "Taklit Edilmiş Donanım (Yeniden Başlatılmalı)"
 
 msgctxt "#30013"
 msgid "Use Official Bootloader (Restart Required)"
-msgstr ""
+msgstr "Resmi Önyükleyici Kullan (Yeniden Başlatılmalı)"
 
 msgctxt "#30014"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "Karşı Yönlere İzin Ver"
 
 msgctxt "#30015"
 msgid "Turbo Button Period"
-msgstr ""
+msgstr "Turbo Düğme Süresi"
 
 msgctxt "#30016"
 msgid "Controller Rumble Strength"
-msgstr ""
+msgstr "Kontrolcü Titreşim Gücü"
 
 msgctxt "#30017"
 msgid "Game Link Mode"
-msgstr ""
+msgstr "Game Link Kipi"
 
 msgctxt "#30018"
 msgid "Network Link Port"
-msgstr ""
+msgstr "Ağ Link Port"
 
 msgctxt "#30019"
 msgid "Network Link Server Address Pt. 01: x__.___.___.___"
-msgstr ""
+msgstr "Ağ Link Sunucu Adresi Pt. 01: x__.___.___.___"
 
 msgctxt "#30020"
 msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
-msgstr ""
+msgstr "Ağ Link Sunucu Adresi Pt. 02: _x_.___.___.___"
 
 msgctxt "#30021"
 msgid "Network Link Server Address Pt. 03: __x.___.___.___"
-msgstr ""
+msgstr "Ağ Link Sunucu Adresi Pt. 03: __x.___.___.___"
 
 msgctxt "#30022"
 msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
-msgstr ""
+msgstr "Ağ Link Sunucu Adresi Pt. 04: ___.x__.___.___"
 
 msgctxt "#30023"
 msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
-msgstr ""
+msgstr "Ağ Link Sunucu Adresi Pt. 05: ___._x_.___.___"
 
 msgctxt "#30024"
 msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
-msgstr ""
+msgstr "Ağ Link Sunucu Adresi Pt. 06: ___.__x.___.___"
 
 msgctxt "#30025"
 msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
-msgstr ""
+msgstr "Ağ Link Sunucu Adresi Pt. 07: ___.___.x__.___"
 
 msgctxt "#30026"
 msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
-msgstr ""
+msgstr "Ağ Link Sunucu Adresi Pt. 08: ___.___._x_.___"
 
 msgctxt "#30027"
 msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
-msgstr ""
+msgstr "Ağ Link Sunucu Adresi Pt. 09: ___.___.__x.___"
 
 msgctxt "#30028"
 msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
-msgstr ""
+msgstr "Ağ Link Sunucu Adresi Pt. 10: ___.___.___.x__"
 
 msgctxt "#30029"
 msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
-msgstr ""
+msgstr "Ağ Link Sunucu Adresi Pt. 11: ___.___.___._x_"
 
 msgctxt "#30030"
 msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
-msgstr ""
+msgstr "Ağ Link Sunucu Adresi Pt. 12: ___.___.___.__x"
 
 msgctxt "#30031"
 msgid "> TWB64 - Pack 3 Palette"
@@ -155,11 +155,11 @@ msgstr ""
 
 msgctxt "#30032"
 msgid "Enables colorization of Game Boy games. 'Auto' selects the 'best' (most colorful/appropriate) palette. 'GBC' selects game-specific Game Boy Color palette if defined, otherwise 'GBC - Dark Green'. 'SGB' selects game-specific Super Game Boy palette if defined, otherwise 'SGB - 1A'. 'Internal' uses 'Internal Palette' core option. 'Custom' loads user-created palette from system directory."
-msgstr ""
+msgstr "Game Boy oyunlarının renklendirme sağlar. 'Otomatik', 'en iyi' (en renkli/uygun) paleti seçer. 'GBC', tanımlanmışsa oyuna özel Game Boy Renk paletini seçer, tanımlanmamışsa 'GBC - Koyu Yeşil' seçer. 'SGB', tanımlanmışsa oyuna özel Super Game Boy paletini seçer, yoksa 'SGB - 1A', 'Dahili', 'Dahili Palet' çekirdek seçeneğini kullanır. 'Özel', sistem dizininden kullanıcı tarafından oluşturulan paleti yükler."
 
 msgctxt "#30033"
 msgid "Auto"
-msgstr ""
+msgstr "Otomatik"
 
 msgctxt "#30034"
 msgid "GBC"
@@ -171,95 +171,95 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "Internal"
-msgstr ""
+msgstr "Dahili"
 
 msgctxt "#30037"
 msgid "Custom"
-msgstr ""
+msgstr "Özel"
 
 msgctxt "#30038"
 msgid "Selects palette used for colorizing Game Boy games when 'GB Colorization' is set to 'Internal', or when 'GB Colorization' is set to 'Auto' and game has no pre-defined SGB/GBC palette. 'GB' palettes mimic the display of original Game Boy hardware. 'GBC' palettes are identical to the built-in presets of the Game Boy Color. 'SGB' palettes are identical to the built-in presets of the Super Game Boy."
-msgstr ""
+msgstr "'GB Renklendirme' 'Dahili' olarak ayarlandığında veya 'GB Renklendirme' 'Otomatik' olarak ayarlandığında ve oyunun önceden tanımlanmış bir SGB/GBC paleti olmadığında Game Boy oyunlarını renklendirmek için kullanılan paleti seçer. 'GB' paletleri, orijinal Game Boy donanımının görüntüsünü taklit eder. 'GBC' paletleri, Game Boy Color yerleşik ön ayarlarıyla aynıdır. 'SGB' paletleri, Super Game Boy yerleşik ön ayarlarıyla aynıdır."
 
 msgctxt "#30039"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 1'."
-msgstr ""
+msgstr "'Dahili Palet', 'TWB64 - Paket 1' olarak ayarlandığında dahili renklendirme paletini seçer."
 
 msgctxt "#30040"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 2'."
-msgstr ""
+msgstr "'Dahili Palet', 'TWB64 - Paket 2' olarak ayarlandığında dahili renklendirme paletini seçer."
 
 msgctxt "#30041"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 3'."
-msgstr ""
+msgstr "'Dahili Palet', 'TWB64 - Pack 3' olarak ayarlandığında dahili renklendirme paletini seçer."
 
 msgctxt "#30042"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'PixelShift - Pack 1'."
-msgstr ""
+msgstr "'Dahili Palet', 'PixelShift - Paket 1' olarak ayarlandığında dahili renklendirme paletini seçer."
 
 msgctxt "#30043"
 msgid "Adjusts output colors to match the display of real Game Boy Color hardware. 'GBC Only' ensures that correction will only be applied when playing Game Boy Color games, or when using a Game Boy Color palette to colorize a Game Boy game. 'Always' applies color correction to all content, and will produce unexpected/suboptimal results when using 'GB' or 'SGB' internal color palettes."
-msgstr ""
+msgstr "Oyun renklerini gerçek Game Boy Color donanımının görüntüsüne uyacak şekilde ayarlar. 'Sadece GBC' düzeltmenin yalnızca Game Boy Color oyunları oynarken veya bir Game Boy oyununu renklendirmek için Game Boy Color paleti kullanırken uygulanmasını sağlar. 'Her Zaman' tüm içeriğe renk düzeltmesi uygular ve 'GB' veya 'SGB' dahili renk paletlerini kullanırken beklenmeyen/yetersiz sonuçlar üretebilir."
 
 msgctxt "#30044"
 msgid "GBC Only"
-msgstr ""
+msgstr "Sadece GBC"
 
 msgctxt "#30045"
 msgid "Always"
-msgstr ""
+msgstr "Daima"
 
 msgctxt "#30046"
 msgid "Specifies method used when performing color correction. 'Accurate' produces output almost indistinguishable from a real Game Boy Color LCD panel. 'Fast' merely darkens colors and reduces saturation, and may be used on low-end hardware if the 'Accurate' method is too slow."
-msgstr ""
+msgstr "Renk düzeltmesi yapılırken kullanılan yöntemi belirtir. 'Kesin', gerçek bir Game Boy Renkli LCD panelinden neredeyse ayırt edilemeyen çıktılar üretir. 'Hızlı' yalnızca renkleri koyulaştırır ve doygunluğu azaltır ve 'Kesin' yöntemi çok yavaşsa düşük kaliteli donanımlarda kullanılabilir."
 
 msgctxt "#30047"
 msgid "Accurate"
-msgstr ""
+msgstr "Kesin"
 
 msgctxt "#30048"
 msgid "Fast"
-msgstr ""
+msgstr "Hızlı"
 
 msgctxt "#30049"
 msgid "Simulates the physical response of the Game Boy Color LCD panel when illuminated from different angles. 'Central' represents standard color reproduction. 'Above Screen' increases brightness. 'Below Screen' reduces brightness. This setting only applies when 'Color Correction Mode' is set to 'Accurate'."
-msgstr ""
+msgstr "Game Boy Color LCD panelinin farklı açılardan aydınlatıldığında verdiği fiziksel tepkiyi taklit eder. 'Merkez' standart renk üretimini temsil eder. 'Ekran Üstü' parlaklığı artırır. 'Ekran Altı' parlaklığı azaltır. Bu ayar yalnızca 'Renk Düzeltme Türü', 'Kesin' olarak ayarlandığında geçerlidir."
 
 msgctxt "#30050"
 msgid "Central"
-msgstr ""
+msgstr "Merkez"
 
 msgctxt "#30051"
 msgid "Above Screen"
-msgstr ""
+msgstr "Ekran Üstü"
 
 msgctxt "#30052"
 msgid "Below Screen"
-msgstr ""
+msgstr "Ekran Altı"
 
 msgctxt "#30053"
 msgid "Enable luminosity-based brightness reduction. May be used to avoid glare/eye strain when playing games with white backgrounds, which are intended for display on a non-backlit Game Boy Color and can therefore appear uncomfortably bright when viewed on a modern backlit screen."
-msgstr ""
+msgstr "Parlaklık azaltmayı etkinleştirin. Arkadan aydınlatmalı olmayan Game Boy Color üstünde görüntülenmesi amaçlanan beyaz arka plana sahip oyunlar oynarken parlamayı/göz yorgunluğunu önlemek için kullanılabilir, modern arkadan aydınlatmalı ekranda görüntülendiğinde rahatsız edici derecede parlak görünebilir."
 
 msgctxt "#30054"
 msgid "Simulates LCD ghosting effects. 'Simple' performs a 50:50 mix of the current and previous frames. 'LCD Ghosting' mimics natural LCD response times by combining multiple buffered frames. 'Simple' blending is required when playing games that rely on LCD ghosting for transparency effects (Wave Race, Ballistic, Chikyuu Kaihou Gun ZAS...)."
-msgstr ""
+msgstr "LCD gölgelenme efektlerini taklit eder. 'Basit', mevcut ve önceki karelerin 50:50'lik bir karışımını gerçekleştirir. 'LCD Gölgelenme', birden çok arabelleğe alınmış çerçeveyi birleştirerek doğal LCD yanıt sürelerini taklit eder. Saydamlık efektleri için LCD gölgelenmesine dayanan oyunlar oynarken (Wave Race, Ballistic, Chikyuu Kaihou Gun ZAS...). 'Basit' karıştırma gereklidir."
 
 msgctxt "#30055"
 msgid "Simple"
-msgstr ""
+msgstr "Basit"
 
 msgctxt "#30056"
 msgid "LCD Ghosting (Accurate)"
-msgstr ""
+msgstr "LCD Gölgeleme (Tam)"
 
 msgctxt "#30057"
 msgid "LCD Ghosting (Fast)"
-msgstr ""
+msgstr "LCD Gölgeleme (Hızlı)"
 
 msgctxt "#30058"
 msgid "Specify which algorithm to use when resampling generated audio (the Game Boy audio rate is limited only by its CPU write speed, such that 'native' frequencies are impractical on modern sound devices and must be downsampled). 'Sinc' produces the highest quality. 'Cosine' improves performance on low-end hardware."
-msgstr ""
+msgstr "Oluşturulan sesi yeniden örneklendirirken hangi algoritmanın kullanılacağını belirtin (Game Boy ses hızı yalnızca CPU yazma hızıyla sınırlıdır, öyle ki 'yerel' frekanslar modern ses cihazlarında pratik değildir ve alt örnekleme yapılmalıdır). 'Sinc' en yüksek kaliteyi üretir. \"Cosine\", düşük kaliteli donanımlarda performansı artırır."
 
 msgctxt "#30059"
 msgid "Sinc"
@@ -271,31 +271,31 @@ msgstr ""
 
 msgctxt "#30061"
 msgid "Specify which type of hardware to emulate. 'Auto' is recommended. Selecting 'GBA' unlocks extra features in certain 'GBA Enhanced' Game Boy Color games (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...)."
-msgstr ""
+msgstr "Hangi tür donanımın taklit edileceğini belirtin. 'Otomatik' önerilir. 'GBA'yı seçmek, belirli 'GBA ile geliştirilmiş' Game Boy Color oyunlarında (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...) ekstra özelliklerin kilidini açar."
 
 msgctxt "#30062"
 msgid "Enable support for official Game Boy and Game Boy Color bootloaders, with corresponding start-up logo animations."
-msgstr ""
+msgstr "Başlangıç ​​logosu animasyonlarıyla resmi Game Boy ve Game Boy Color ön yükleyiciler için desteği etkinleştirir."
 
 msgctxt "#30063"
 msgid "Enabling this will allow pressing/quickly alternating/holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "Bunun etkinleştirilmesi, aynı anda hem sol hem de sağ (veya yukarı ve aşağı) yönlere basılmasına/hızlı bir şekilde değiştirilmesine/basılı tutulmasına olanak tanır. Bu, hareket tabanlı aksaklıklara neden olabilir."
 
 msgctxt "#30064"
 msgid "Specify the repeat interval (in frames) when holding down the Turbo A/B buttons."
-msgstr ""
+msgstr "Turbo A/B düğmelerini basılı tutarken tekrar aralığını (kare cinsinden) belirtin."
 
 msgctxt "#30065"
 msgid "Enables haptic feedback effects for supported games (Pokemon Pinball, Perfect Dark...)."
-msgstr ""
+msgstr "Desteklenen oyunlar için titreşim efektlerini etkinleştirir (Pokemon Pinball, Perfect Dark...)."
 
 msgctxt "#30066"
 msgid "Show Game Link Settings"
-msgstr ""
+msgstr "Game Link Ayarlarını Göster"
 
 msgctxt "#30067"
 msgid "Enable configuration of networked Game Link (multiplayer) options. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "Ağa bağlı 'Game Link' (çok oyunculu) seçeneklerinin yapılandırmasını etkinleştirin. NOT: Bu ayarın etkili olması için Hızlı Menü üstünden değiştirilmesi gerekir."
 
 msgctxt "#30068"
 msgid "Game Link"
@@ -303,63 +303,63 @@ msgstr ""
 
 msgctxt "#30069"
 msgid "Change networked Game Link (multiplayer) settings."
-msgstr ""
+msgstr "Ağa bağlı Game Link (çok oyunculu) ayarlarını değiştirin."
 
 msgctxt "#30070"
 msgid "When enabling networked Game Link functionality, specify whether current instance should run as a server or client."
-msgstr ""
+msgstr "Ağa bağlı Game Link işlevini etkinleştirirken, mevcut örneğin sunucu mu yoksa istemci olarak mı çalışacağını belirtin."
 
 msgctxt "#30071"
 msgid "Specify port used for Game Link network communication."
-msgstr ""
+msgstr "Game Link ağ iletişimi için kullanılan port numarasını belirtin."
 
 msgctxt "#30072"
 msgid "1st digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "Uzak Game Link ağ sunucusu IP adresinin 1. hanesi. Yalnızca 'Game Link Kipi', 'Ağ İstemcisi' olarak ayarlandığında kullanılır."
 
 msgctxt "#30073"
 msgid "2nd digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "Uzak Game Link ağ sunucusu IP adresinin 2. hanesi. Yalnızca 'Game Link Kipi', 'Ağ İstemcisi' olarak ayarlandığında kullanılır."
 
 msgctxt "#30074"
 msgid "3rd digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "Uzak Game Link ağ sunucusu IP adresinin 3. hanesi. Yalnızca 'Game Link Kipi', 'Ağ İstemcisi' olarak ayarlandığında kullanılır."
 
 msgctxt "#30075"
 msgid "4th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "Uzak Game Link ağ sunucusu IP adresinin 4. hanesi. Yalnızca 'Game Link Kipi', 'Ağ İstemcisi' olarak ayarlandığında kullanılır."
 
 msgctxt "#30076"
 msgid "5th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "Uzak Game Link ağ sunucusu IP adresinin 5. hanesi. Yalnızca 'Game Link Kipi', 'Ağ İstemcisi' olarak ayarlandığında kullanılır."
 
 msgctxt "#30077"
 msgid "6th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "Uzak Game Link ağ sunucusu IP adresinin 6. hanesi. Yalnızca 'Game Link Kipi', 'Ağ İstemcisi' olarak ayarlandığında kullanılır."
 
 msgctxt "#30078"
 msgid "7th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "Uzak Game Link ağ sunucusu IP adresinin 7. hanesi. Yalnızca 'Game Link Kipi', 'Ağ İstemcisi' olarak ayarlandığında kullanılır."
 
 msgctxt "#30079"
 msgid "8th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "Uzak Game Link ağ sunucusu IP adresinin 8. hanesi. Yalnızca 'Game Link Kipi', 'Ağ İstemcisi' olarak ayarlandığında kullanılır."
 
 msgctxt "#30080"
 msgid "9th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "Uzak Game Link ağ sunucusu IP adresinin 9. hanesi. Yalnızca 'Game Link Kipi', 'Ağ İstemcisi' olarak ayarlandığında kullanılır."
 
 msgctxt "#30081"
 msgid "10th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "Uzak Game Link ağ sunucusu IP adresinin 10. hanesi. Yalnızca 'Game Link Kipi', 'Ağ İstemcisi' olarak ayarlandığında kullanılır."
 
 msgctxt "#30082"
 msgid "11th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "Uzak Game Link ağ sunucusu IP adresinin 11. hanesi. Yalnızca 'Game Link Kipi', 'Ağ İstemcisi' olarak ayarlandığında kullanılır."
 
 msgctxt "#30083"
 msgid "12th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "Uzak Game Link ağ sunucusu IP adresinin 12. hanesi. Yalnızca 'Game Link Kipi', 'Ağ İstemcisi' olarak ayarlandığında kullanılır."
 
 msgctxt "#30084"
 msgid "GB"

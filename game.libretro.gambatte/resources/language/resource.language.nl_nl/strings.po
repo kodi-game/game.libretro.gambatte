@@ -159,7 +159,7 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Auto"
-msgstr ""
+msgstr "Automatisch"
 
 msgctxt "#30034"
 msgid "GBC"
@@ -175,7 +175,7 @@ msgstr ""
 
 msgctxt "#30037"
 msgid "Custom"
-msgstr ""
+msgstr "Aangepast"
 
 msgctxt "#30038"
 msgid "Selects palette used for colorizing Game Boy games when 'GB Colorization' is set to 'Internal', or when 'GB Colorization' is set to 'Auto' and game has no pre-defined SGB/GBC palette. 'GB' palettes mimic the display of original Game Boy hardware. 'GBC' palettes are identical to the built-in presets of the Game Boy Color. 'SGB' palettes are identical to the built-in presets of the Super Game Boy."
@@ -207,7 +207,7 @@ msgstr ""
 
 msgctxt "#30045"
 msgid "Always"
-msgstr ""
+msgstr "Altijd"
 
 msgctxt "#30046"
 msgid "Specifies method used when performing color correction. 'Accurate' produces output almost indistinguishable from a real Game Boy Color LCD panel. 'Fast' merely darkens colors and reduces saturation, and may be used on low-end hardware if the 'Accurate' method is too slow."
@@ -219,7 +219,7 @@ msgstr ""
 
 msgctxt "#30048"
 msgid "Fast"
-msgstr ""
+msgstr "Snel"
 
 msgctxt "#30049"
 msgid "Simulates the physical response of the Game Boy Color LCD panel when illuminated from different angles. 'Central' represents standard color reproduction. 'Above Screen' increases brightness. 'Below Screen' reduces brightness. This setting only applies when 'Color Correction Mode' is set to 'Accurate'."

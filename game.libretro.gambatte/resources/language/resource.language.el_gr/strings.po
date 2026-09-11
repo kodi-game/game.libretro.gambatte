@@ -31,11 +31,11 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "GB Colorization"
-msgstr ""
+msgstr "Χρωματισμός GB"
 
 msgctxt "#30002"
 msgid "Internal Palette"
-msgstr ""
+msgstr "Εσωτερική Παλέτα"
 
 msgctxt "#30003"
 msgid "> TWB64 - Pack 1 Palette"
@@ -51,11 +51,11 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Color Correction"
-msgstr ""
+msgstr "Διόρθωση Χρωμάτων"
 
 msgctxt "#30007"
 msgid "Color Correction Mode"
-msgstr ""
+msgstr "Διόρθωση Χρωμάτων"
 
 msgctxt "#30008"
 msgid "Color Correction - Frontlight Position"
@@ -71,7 +71,7 @@ msgstr ""
 
 msgctxt "#30011"
 msgid "Audio Resampler"
-msgstr ""
+msgstr "Οδηγός Επαναδειγματολήπτη Ήχου"
 
 msgctxt "#30012"
 msgid "Emulated Hardware (Restart Required)"
@@ -159,7 +159,7 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Auto"
-msgstr ""
+msgstr "Αυτόματο"
 
 msgctxt "#30034"
 msgid "GBC"
@@ -203,11 +203,11 @@ msgstr ""
 
 msgctxt "#30044"
 msgid "GBC Only"
-msgstr ""
+msgstr "Μόνο GBC"
 
 msgctxt "#30045"
 msgid "Always"
-msgstr ""
+msgstr "Πάντα"
 
 msgctxt "#30046"
 msgid "Specifies method used when performing color correction. 'Accurate' produces output almost indistinguishable from a real Game Boy Color LCD panel. 'Fast' merely darkens colors and reduces saturation, and may be used on low-end hardware if the 'Accurate' method is too slow."
@@ -215,11 +215,11 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Accurate"
-msgstr ""
+msgstr "Ακριβής"
 
 msgctxt "#30048"
 msgid "Fast"
-msgstr ""
+msgstr "Γρήγορη Ταχύτητα"
 
 msgctxt "#30049"
 msgid "Simulates the physical response of the Game Boy Color LCD panel when illuminated from different angles. 'Central' represents standard color reproduction. 'Above Screen' increases brightness. 'Below Screen' reduces brightness. This setting only applies when 'Color Correction Mode' is set to 'Accurate'."
@@ -231,11 +231,11 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "Above Screen"
-msgstr ""
+msgstr "Πάνω Από Την Οθόνη"
 
 msgctxt "#30052"
 msgid "Below Screen"
-msgstr ""
+msgstr "Κάτω Από Την Οθόνη"
 
 msgctxt "#30053"
 msgid "Enable luminosity-based brightness reduction. May be used to avoid glare/eye strain when playing games with white backgrounds, which are intended for display on a non-backlit Game Boy Color and can therefore appear uncomfortably bright when viewed on a modern backlit screen."
@@ -247,7 +247,7 @@ msgstr ""
 
 msgctxt "#30055"
 msgid "Simple"
-msgstr ""
+msgstr "Απλό"
 
 msgctxt "#30056"
 msgid "LCD Ghosting (Accurate)"

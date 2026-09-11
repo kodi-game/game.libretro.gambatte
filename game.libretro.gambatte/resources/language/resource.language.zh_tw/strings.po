@@ -31,123 +31,123 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "GB Colorization"
-msgstr ""
+msgstr "Game Boy著色"
 
 msgctxt "#30002"
 msgid "Internal Palette"
-msgstr ""
+msgstr "影像配色"
 
 msgctxt "#30003"
 msgid "> TWB64 - Pack 1 Palette"
-msgstr ""
+msgstr "> 狼兔64 - 配色包 1"
 
 msgctxt "#30004"
 msgid "> TWB64 - Pack 2 Palette"
-msgstr ""
+msgstr "> 狼兔64 - 配色包 2"
 
 msgctxt "#30005"
 msgid "> PixelShift - Pack 1 Palette"
-msgstr ""
+msgstr "> 像素偏移 - 配色包 1"
 
 msgctxt "#30006"
 msgid "Color Correction"
-msgstr ""
+msgstr "色彩校正"
 
 msgctxt "#30007"
 msgid "Color Correction Mode"
-msgstr ""
+msgstr "色彩校正模式"
 
 msgctxt "#30008"
 msgid "Color Correction - Frontlight Position"
-msgstr ""
+msgstr "色彩校正 - 前光位置"
 
 msgctxt "#30009"
 msgid "Dark Filter Level (%)"
-msgstr ""
+msgstr "亮度降低 (%)"
 
 msgctxt "#30010"
 msgid "Interframe Blending"
-msgstr ""
+msgstr "模擬殘影"
 
 msgctxt "#30011"
 msgid "Audio Resampler"
-msgstr ""
+msgstr "音訊重新取樣器"
 
 msgctxt "#30012"
 msgid "Emulated Hardware (Restart Required)"
-msgstr ""
+msgstr "模擬主機硬體 (需要重新啟動)"
 
 msgctxt "#30013"
 msgid "Use Official Bootloader (Restart Required)"
-msgstr ""
+msgstr "主機開機畫面 (需要重新啟動)"
 
 msgctxt "#30014"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "允許反向操作"
 
 msgctxt "#30015"
 msgid "Turbo Button Period"
-msgstr ""
+msgstr "連發間隔"
 
 msgctxt "#30016"
 msgid "Controller Rumble Strength"
-msgstr ""
+msgstr "模擬震動強度"
 
 msgctxt "#30017"
 msgid "Game Link Mode"
-msgstr ""
+msgstr "主機連接模式"
 
 msgctxt "#30018"
 msgid "Network Link Port"
-msgstr ""
+msgstr "連接通訊埠號"
 
 msgctxt "#30019"
 msgid "Network Link Server Address Pt. 01: x__.___.___.___"
-msgstr ""
+msgstr "連線主機位址(01): #__.___.___.___"
 
 msgctxt "#30020"
 msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
-msgstr ""
+msgstr "連線主機位址(02): _#_.___.___.___"
 
 msgctxt "#30021"
 msgid "Network Link Server Address Pt. 03: __x.___.___.___"
-msgstr ""
+msgstr "連線主機位址(03): __#.___.___.___"
 
 msgctxt "#30022"
 msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
-msgstr ""
+msgstr "連線主機位址(04): ___.#__.___.___"
 
 msgctxt "#30023"
 msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
-msgstr ""
+msgstr "連線主機位址(05): ___._#_.___.___"
 
 msgctxt "#30024"
 msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
-msgstr ""
+msgstr "連線主機位址(06): ___.__#.___.___"
 
 msgctxt "#30025"
 msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
-msgstr ""
+msgstr "連線主機位址(07): ___.___.#__.___"
 
 msgctxt "#30026"
 msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
-msgstr ""
+msgstr "連線主機位址(08): ___.___._#_.___"
 
 msgctxt "#30027"
 msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
-msgstr ""
+msgstr "連線主機位址(09): ___.___.__#.___"
 
 msgctxt "#30028"
 msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
-msgstr ""
+msgstr "連線主機位址(10): ___.___.___.#__"
 
 msgctxt "#30029"
 msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
-msgstr ""
+msgstr "連線主機位址(11): ___.___.___._#_"
 
 msgctxt "#30030"
 msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
-msgstr ""
+msgstr "連線主機位址(12): ___.___.___.__#"
 
 msgctxt "#30031"
 msgid "> TWB64 - Pack 3 Palette"
@@ -155,39 +155,39 @@ msgstr ""
 
 msgctxt "#30032"
 msgid "Enables colorization of Game Boy games. 'Auto' selects the 'best' (most colorful/appropriate) palette. 'GBC' selects game-specific Game Boy Color palette if defined, otherwise 'GBC - Dark Green'. 'SGB' selects game-specific Super Game Boy palette if defined, otherwise 'SGB - 1A'. 'Internal' uses 'Internal Palette' core option. 'Custom' loads user-created palette from system directory."
-msgstr ""
+msgstr "設定Game Boy遊戲的著色模式, 設定<自動>時為核心定義的配色效果, 當遊戲未定義時套用「影像配色」設定, 設定<GBC>時為GBC配色, 未定義則用深綠, 設定<SGB>時為SGB配色, 未定義則用1A, 設定<影像配色>時套用「影像配色」設定, 設定<自訂>時從系統資料夾載入自訂調色板。"
 
 msgctxt "#30033"
 msgid "Auto"
-msgstr ""
+msgstr "自動"
 
 msgctxt "#30034"
 msgid "GBC"
-msgstr ""
+msgstr "GBC (Game Boy Color主機)"
 
 msgctxt "#30035"
 msgid "SGB"
-msgstr ""
+msgstr "SGB (Super Game Boy介面卡)"
 
 msgctxt "#30036"
 msgid "Internal"
-msgstr ""
+msgstr "影像配色"
 
 msgctxt "#30037"
 msgid "Custom"
-msgstr ""
+msgstr "自訂"
 
 msgctxt "#30038"
 msgid "Selects palette used for colorizing Game Boy games when 'GB Colorization' is set to 'Internal', or when 'GB Colorization' is set to 'Auto' and game has no pre-defined SGB/GBC palette. 'GB' palettes mimic the display of original Game Boy hardware. 'GBC' palettes are identical to the built-in presets of the Game Boy Color. 'SGB' palettes are identical to the built-in presets of the Super Game Boy."
-msgstr ""
+msgstr "「Game Boy著色」 設定為<影像配色>或<自動>且未定義配色時使用, 此選項GB類別為主機擬真畫面, GBC類別為主機內建顏色, SGB類別為介面卡內建顏色, 調色師有 狼兔64 (TheWolfBunny64) 和 PixelShift (像素偏移) 提供的配色, 設定為調色師時依設定套用其他選項。"
 
 msgctxt "#30039"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 1'."
-msgstr ""
+msgstr "僅限「影像配色」設定為<狼兔64(1)>時套用。"
 
 msgctxt "#30040"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 2'."
-msgstr ""
+msgstr "僅限「影像配色」設定為<狼兔64(2)>時套用。"
 
 msgctxt "#30041"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 3'."
@@ -195,7 +195,7 @@ msgstr ""
 
 msgctxt "#30042"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'PixelShift - Pack 1'."
-msgstr ""
+msgstr "僅限「影像配色」設定為<像素偏移(1)>時套用。"
 
 msgctxt "#30043"
 msgid "Adjusts output colors to match the display of real Game Boy Color hardware. 'GBC Only' ensures that correction will only be applied when playing Game Boy Color games, or when using a Game Boy Color palette to colorize a Game Boy game. 'Always' applies color correction to all content, and will produce unexpected/suboptimal results when using 'GB' or 'SGB' internal color palettes."
@@ -203,11 +203,11 @@ msgstr ""
 
 msgctxt "#30044"
 msgid "GBC Only"
-msgstr ""
+msgstr "僅限GBC"
 
 msgctxt "#30045"
 msgid "Always"
-msgstr ""
+msgstr "全部類型"
 
 msgctxt "#30046"
 msgid "Specifies method used when performing color correction. 'Accurate' produces output almost indistinguishable from a real Game Boy Color LCD panel. 'Fast' merely darkens colors and reduces saturation, and may be used on low-end hardware if the 'Accurate' method is too slow."
@@ -215,11 +215,11 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Accurate"
-msgstr ""
+msgstr "準確"
 
 msgctxt "#30048"
 msgid "Fast"
-msgstr ""
+msgstr "快速"
 
 msgctxt "#30049"
 msgid "Simulates the physical response of the Game Boy Color LCD panel when illuminated from different angles. 'Central' represents standard color reproduction. 'Above Screen' increases brightness. 'Below Screen' reduces brightness. This setting only applies when 'Color Correction Mode' is set to 'Accurate'."
@@ -227,15 +227,15 @@ msgstr ""
 
 msgctxt "#30050"
 msgid "Central"
-msgstr ""
+msgstr "中間"
 
 msgctxt "#30051"
 msgid "Above Screen"
-msgstr ""
+msgstr "螢幕上方"
 
 msgctxt "#30052"
 msgid "Below Screen"
-msgstr ""
+msgstr "螢幕下方"
 
 msgctxt "#30053"
 msgid "Enable luminosity-based brightness reduction. May be used to avoid glare/eye strain when playing games with white backgrounds, which are intended for display on a non-backlit Game Boy Color and can therefore appear uncomfortably bright when viewed on a modern backlit screen."
@@ -247,15 +247,15 @@ msgstr ""
 
 msgctxt "#30055"
 msgid "Simple"
-msgstr ""
+msgstr "簡易"
 
 msgctxt "#30056"
 msgid "LCD Ghosting (Accurate)"
-msgstr ""
+msgstr "液晶顯示器 (準確)"
 
 msgctxt "#30057"
 msgid "LCD Ghosting (Fast)"
-msgstr ""
+msgstr "液晶顯示器 (快速)"
 
 msgctxt "#30058"
 msgid "Specify which algorithm to use when resampling generated audio (the Game Boy audio rate is limited only by its CPU write speed, such that 'native' frequencies are impractical on modern sound devices and must be downsampled). 'Sinc' produces the highest quality. 'Cosine' improves performance on low-end hardware."
@@ -263,11 +263,11 @@ msgstr ""
 
 msgctxt "#30059"
 msgid "Sinc"
-msgstr ""
+msgstr "正弦波"
 
 msgctxt "#30060"
 msgid "Cosine"
-msgstr ""
+msgstr "餘弦波"
 
 msgctxt "#30061"
 msgid "Specify which type of hardware to emulate. 'Auto' is recommended. Selecting 'GBA' unlocks extra features in certain 'GBA Enhanced' Game Boy Color games (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...)."
@@ -279,7 +279,7 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "Enabling this will allow pressing/quickly alternating/holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "允許控制器反方向快速操作, 可同時按左右或上下的方向, 可能導致遊戲的移動架構出錯。"
 
 msgctxt "#30064"
 msgid "Specify the repeat interval (in frames) when holding down the Turbo A/B buttons."
@@ -287,79 +287,81 @@ msgstr ""
 
 msgctxt "#30065"
 msgid "Enables haptic feedback effects for supported games (Pokemon Pinball, Perfect Dark...)."
-msgstr ""
+msgstr "設定遊戲支援震動的震動強度, 模擬內建振動模組的卡帶, 例如「寶可夢彈珠臺(Pokemon Pinball)」。"
 
 msgctxt "#30066"
 msgid "Show Game Link Settings"
-msgstr ""
+msgstr "顯示連線主機連接選項"
 
 msgctxt "#30067"
 msgid "Enable configuration of networked Game Link (multiplayer) options. NOTE: Quick Menu may need to be toggled for this setting to take effect."
 msgstr ""
+"顯示連線對戰時主機連接相關的選項。\n"
+"注意: 此選項變更時需要重新進入核心選項才能生效。"
 
 msgctxt "#30068"
 msgid "Game Link"
-msgstr ""
+msgstr "連線主機連接"
 
 msgctxt "#30069"
 msgid "Change networked Game Link (multiplayer) settings."
-msgstr ""
+msgstr "變更連線對戰時主機連接的設定。"
 
 msgctxt "#30070"
 msgid "When enabling networked Game Link functionality, specify whether current instance should run as a server or client."
-msgstr ""
+msgstr "設定連線對戰時核心的連接模式, 必須在未建立連線之前設定完成, <用戶端>需要設定主機端IP位址。"
 
 msgctxt "#30071"
 msgid "Specify port used for Game Link network communication."
-msgstr ""
+msgstr "設定主機連接時使用的通訊埠號。"
 
 msgctxt "#30072"
 msgid "1st digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "設定連線主機IP位址第1碼, 例如「192.168.1.1」不滿12個數字, 設定方式為「192.168.001.001」。"
 
 msgctxt "#30073"
 msgid "2nd digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "設定連線主機IP位址第2碼, 僅限「主機連接模式」設定為<用戶端>時使用。"
 
 msgctxt "#30074"
 msgid "3rd digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "設定連線主機IP位址第3碼, 僅限「主機連接模式」設定為<用戶端>時使用。"
 
 msgctxt "#30075"
 msgid "4th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "設定連線主機IP位址第4碼, 僅限「主機連接模式」設定為<用戶端>時使用。"
 
 msgctxt "#30076"
 msgid "5th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "設定連線主機IP位址第5碼, 僅限「主機連接模式」設定為<用戶端>時使用。"
 
 msgctxt "#30077"
 msgid "6th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "設定連線主機IP位址第6碼, 僅限「主機連接模式」設定為<用戶端>時使用。"
 
 msgctxt "#30078"
 msgid "7th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "設定連線主機IP位址第7碼, 僅限「主機連接模式」設定為<用戶端>時使用。"
 
 msgctxt "#30079"
 msgid "8th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "設定連線主機IP位址第8碼, 僅限「主機連接模式」設定為<用戶端>時使用。"
 
 msgctxt "#30080"
 msgid "9th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "設定連線主機IP位址第9碼, 僅限「主機連接模式」設定為<用戶端>時使用。"
 
 msgctxt "#30081"
 msgid "10th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "設定連線主機IP位址第10碼, 僅限「主機連接模式」設定為<用戶端>時使用。"
 
 msgctxt "#30082"
 msgid "11th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "設定連線主機IP位址第11碼, 僅限「主機連接模式」設定為<用戶端>時使用。"
 
 msgctxt "#30083"
 msgid "12th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "設定連線主機IP位址第12碼, 僅限「主機連接模式」設定為<用戶端>時使用。"
 
 msgctxt "#30084"
 msgid "GB"

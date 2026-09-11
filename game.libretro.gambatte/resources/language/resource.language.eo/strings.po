@@ -31,135 +31,135 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "GB Colorization"
-msgstr ""
+msgstr "Kolorigo de GB"
 
 msgctxt "#30002"
 msgid "Internal Palette"
-msgstr ""
+msgstr "Interna paletro"
 
 msgctxt "#30003"
 msgid "> TWB64 - Pack 1 Palette"
-msgstr ""
+msgstr "> Paletro de Pako 1 de TWB64"
 
 msgctxt "#30004"
 msgid "> TWB64 - Pack 2 Palette"
-msgstr ""
+msgstr "> Paletro de Pako 2 de TWB64"
 
 msgctxt "#30005"
 msgid "> PixelShift - Pack 1 Palette"
-msgstr ""
+msgstr "> PixelShift - Paletro de pako 1"
 
 msgctxt "#30006"
 msgid "Color Correction"
-msgstr ""
+msgstr "Kolorkorekto"
 
 msgctxt "#30007"
 msgid "Color Correction Mode"
-msgstr ""
+msgstr "Kolorkorekta reĝimo"
 
 msgctxt "#30008"
 msgid "Color Correction - Frontlight Position"
-msgstr ""
+msgstr "Kolorkorekto - Frontluma pozicio"
 
 msgctxt "#30009"
 msgid "Dark Filter Level (%)"
-msgstr ""
+msgstr "Malhela filtrila nivelo (%)"
 
 msgctxt "#30010"
 msgid "Interframe Blending"
-msgstr ""
+msgstr "Miksado inter filmeroj"
 
 msgctxt "#30011"
 msgid "Audio Resampler"
-msgstr ""
+msgstr "Resonpecigado"
 
 msgctxt "#30012"
 msgid "Emulated Hardware (Restart Required)"
-msgstr ""
+msgstr "Imitata aparataro (bezonas restartigon)"
 
 msgctxt "#30013"
 msgid "Use Official Bootloader (Restart Required)"
-msgstr ""
+msgstr "Uzi oficialan praŝargilon (bezonas restartigon)"
 
 msgctxt "#30014"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "Permesi kontraŭajn direktojn"
 
 msgctxt "#30015"
 msgid "Turbo Button Period"
-msgstr ""
+msgstr "Daŭro de butono de ada aktivigo"
 
 msgctxt "#30016"
 msgid "Controller Rumble Strength"
-msgstr ""
+msgstr "Forto de regila vibrado"
 
 msgctxt "#30017"
 msgid "Game Link Mode"
-msgstr ""
+msgstr "Reĝimo Game Link"
 
 msgctxt "#30018"
 msgid "Network Link Port"
-msgstr ""
+msgstr "Reta ligo-konektejo"
 
 msgctxt "#30019"
 msgid "Network Link Server Address Pt. 01: x__.___.___.___"
-msgstr ""
+msgstr "Valoro 01 de servila adreso de reta ligo: x__.___.___.___"
 
 msgctxt "#30020"
 msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
-msgstr ""
+msgstr "Valoro 02 de servila adreso de reta ligo: _x_.___.___.___"
 
 msgctxt "#30021"
 msgid "Network Link Server Address Pt. 03: __x.___.___.___"
-msgstr ""
+msgstr "Valoro 03 de servila adreso de reta ligo: __x.___.___.___"
 
 msgctxt "#30022"
 msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
-msgstr ""
+msgstr "Valoro 04 de servila adreso de reta ligo: ___.x__.___.___"
 
 msgctxt "#30023"
 msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
-msgstr ""
+msgstr "Valoro 05 de servila adreso de reta ligo: ___._x_.___.___"
 
 msgctxt "#30024"
 msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
-msgstr ""
+msgstr "Valoro 06 de servila adreso de reta ligo: ___.__x.___.___"
 
 msgctxt "#30025"
 msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
-msgstr ""
+msgstr "Valoro 07 de servila adreso de reta ligo: ___.___.x__.___"
 
 msgctxt "#30026"
 msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
-msgstr ""
+msgstr "Valoro 08 de servila adreso de reta ligo: ___.___._x_.___"
 
 msgctxt "#30027"
 msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
-msgstr ""
+msgstr "Valoro 09 de servila adreso de reta ligo: ___.___.__x.___"
 
 msgctxt "#30028"
 msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
-msgstr ""
+msgstr "Valoro 10 de servila adreso de reta ligo: ___.___.___.x__"
 
 msgctxt "#30029"
 msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
-msgstr ""
+msgstr "Valoro 11 de servila adreso de reta ligo: ___.___.___._x_"
 
 msgctxt "#30030"
 msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
-msgstr ""
+msgstr "Valoro 12 de servila adreso de reta ligo: ___.___.___.__x"
 
 msgctxt "#30031"
 msgid "> TWB64 - Pack 3 Palette"
-msgstr ""
+msgstr "> Paletro de Pako 3 de TWB64"
 
 msgctxt "#30032"
 msgid "Enables colorization of Game Boy games. 'Auto' selects the 'best' (most colorful/appropriate) palette. 'GBC' selects game-specific Game Boy Color palette if defined, otherwise 'GBC - Dark Green'. 'SGB' selects game-specific Super Game Boy palette if defined, otherwise 'SGB - 1A'. 'Internal' uses 'Internal Palette' core option. 'Custom' loads user-created palette from system directory."
-msgstr ""
+msgstr "Ebligas kolorigon de ludoj de Game Boy. \"Aŭtomate\" elektas la \"plej bonan\" (plej koloran/taŭgan) paletron. \"GBC\" elektas lud-specifan paletron de Game Boy Color se definita; alikaze, \"GBC - Malhele verda\". \"SGB\" elektas ludspecifan paletron de Super Game Boy se definita, alikaze \"SGB - 1A\". \"Interna\" uzas la kernan opcion \"Interna paletro\". \"Propra\" ŝargas uzantkreitan paletron el sistema dosierujo."
 
 msgctxt "#30033"
 msgid "Auto"
-msgstr ""
+msgstr "Aŭtomata"
 
 msgctxt "#30034"
 msgid "GBC"
@@ -175,91 +175,91 @@ msgstr ""
 
 msgctxt "#30037"
 msgid "Custom"
-msgstr ""
+msgstr "Propra"
 
 msgctxt "#30038"
 msgid "Selects palette used for colorizing Game Boy games when 'GB Colorization' is set to 'Internal', or when 'GB Colorization' is set to 'Auto' and game has no pre-defined SGB/GBC palette. 'GB' palettes mimic the display of original Game Boy hardware. 'GBC' palettes are identical to the built-in presets of the Game Boy Color. 'SGB' palettes are identical to the built-in presets of the Super Game Boy."
-msgstr ""
+msgstr "Elektas paletron uzata por kolorigi ludojn de Game Boy kiam \"Kolorigo de GB\" estas agordita je \"Interna\", aŭ kiam \"Kolorigo de GB\" estas agordita al \"Aŭtomata\" kaj ludo havas neniun antaŭdifinitan paletron de SGB/GBC. Paletroj de \"GB\" imitas la ekranon de originala aparataro de Game Boy. Paletroj de \"GBC\" estas identaj al la integritaj antaŭagordoj de la Super Game Boy."
 
 msgctxt "#30039"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 1'."
-msgstr ""
+msgstr "Elektas internan kolorigan paletron kiam \"Interna paletro\" estas agordita al \"TWB64 - Pako 1\"."
 
 msgctxt "#30040"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 2'."
-msgstr ""
+msgstr "Elektas internan kolorigan paletron kiam \"Interna paletro\" estas agordita al \"TWB64 - Pako 2\"."
 
 msgctxt "#30041"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 3'."
-msgstr ""
+msgstr "Elektas internan kolorigan paletron kiam \"Interna paletro\" estas agordita al \"TWB64 - Pako 3\"."
 
 msgctxt "#30042"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'PixelShift - Pack 1'."
-msgstr ""
+msgstr "Elektas internan kolorigan paletron kiam \"Interna paletro\" estas agordita al \"Pixelshift - Pako 1\"."
 
 msgctxt "#30043"
 msgid "Adjusts output colors to match the display of real Game Boy Color hardware. 'GBC Only' ensures that correction will only be applied when playing Game Boy Color games, or when using a Game Boy Color palette to colorize a Game Boy game. 'Always' applies color correction to all content, and will produce unexpected/suboptimal results when using 'GB' or 'SGB' internal color palettes."
-msgstr ""
+msgstr "Alĝustigas eligajn kolorojn por kongrui kun la ekrano de reala aparataro de Game Boy Color. \"Nur GBC\" certigas, ke la korekto estos aplikita kiam ludante ludojn de nur Game Boy Color, aŭ kiam uzante paletron de Game Boy Color por kolorigi ludon de Game Boy. \"Ĉiam\" aplikas kolorkorekton al ĉiuj enhavoj, kaj produktos neatendatajn/suboptimumajn rezultojn kiam uzante internajn kolorpaletrojn de \"GB\" aŭ \"SGB\"."
 
 msgctxt "#30044"
 msgid "GBC Only"
-msgstr ""
+msgstr "Nur GBC"
 
 msgctxt "#30045"
 msgid "Always"
-msgstr ""
+msgstr "Ĉiam"
 
 msgctxt "#30046"
 msgid "Specifies method used when performing color correction. 'Accurate' produces output almost indistinguishable from a real Game Boy Color LCD panel. 'Fast' merely darkens colors and reduces saturation, and may be used on low-end hardware if the 'Accurate' method is too slow."
-msgstr ""
+msgstr "Specifas la metodon uzata kiam realigante kolorkorekton. \"Preciza\" produktas eligon preskaŭ nedistingebla el reala likvokristala ekrano de Game Boy Color. \"Rapida\" apenaŭ malheligas kolorojn kaj reduktas saturecon, kaj povas esti uzata sur malaltkvalitan aparataron se la \"Preciza\" metodo estas tro malrapida."
 
 msgctxt "#30047"
 msgid "Accurate"
-msgstr ""
+msgstr "Preciza"
 
 msgctxt "#30048"
 msgid "Fast"
-msgstr ""
+msgstr "Rapida"
 
 msgctxt "#30049"
 msgid "Simulates the physical response of the Game Boy Color LCD panel when illuminated from different angles. 'Central' represents standard color reproduction. 'Above Screen' increases brightness. 'Below Screen' reduces brightness. This setting only applies when 'Color Correction Mode' is set to 'Accurate'."
-msgstr ""
+msgstr "Imitas la fizikan respondon de la likvokristala ekrano de Game Boy Color kiam prilumita el malsamaj anguloj. \"Centrala\" reprezentas la norman koloran reprodukton. \"Super ekrano\" pliigas brilecon. \"Sub ekrano\" malpliigas brilecon. Ĉi tiu agordo nur aplikas kiam \"Kolorkorekta reĝimo\" estas agordita je \"Preciza\". "
 
 msgctxt "#30050"
 msgid "Central"
-msgstr ""
+msgstr "Centrala"
 
 msgctxt "#30051"
 msgid "Above Screen"
-msgstr ""
+msgstr "Super ekrano"
 
 msgctxt "#30052"
 msgid "Below Screen"
-msgstr ""
+msgstr "Sub ekrano"
 
 msgctxt "#30053"
 msgid "Enable luminosity-based brightness reduction. May be used to avoid glare/eye strain when playing games with white backgrounds, which are intended for display on a non-backlit Game Boy Color and can therefore appear uncomfortably bright when viewed on a modern backlit screen."
-msgstr ""
+msgstr "Ebligi redukton de lumec-bazita brileco. Povas esti uzata por eviti brilegon aŭ okuldoloron kiam ludante ludojn kun blankaj fonoj, kiuj estas intencitaj por ekranoj sur Game Boy Color sen fonlumo, kaj tiel ili povas aspekti malagrable brilaj kiam vidataj per moderna fonlumita ekranon."
 
 msgctxt "#30054"
 msgid "Simulates LCD ghosting effects. 'Simple' performs a 50:50 mix of the current and previous frames. 'LCD Ghosting' mimics natural LCD response times by combining multiple buffered frames. 'Simple' blending is required when playing games that rely on LCD ghosting for transparency effects (Wave Race, Ballistic, Chikyuu Kaihou Gun ZAS...)."
-msgstr ""
+msgstr "Imitas likvokristalekranajn fantomigajn efikojn. \"Simpla\" realigas mikson 50:50 de la kuranta kaj antaŭa filmeroj. \"Fantasmigo de LCD\" imitas naturajn likvokristalekranajn respondotempojn kombinante pluraj bufritaj filmeroj. \"Simpla\" miksado estas bezonata kiam ludante ludojn, kiuj dependas de likvokristalekrana fantomigo por travideblaj efikoj (Wave Race, Ballistic, Ĉikjū Kaihō Gun ZAS...)."
 
 msgctxt "#30055"
 msgid "Simple"
-msgstr ""
+msgstr "Simpla"
 
 msgctxt "#30056"
 msgid "LCD Ghosting (Accurate)"
-msgstr ""
+msgstr "Fantasmigo de LCD (preciza)"
 
 msgctxt "#30057"
 msgid "LCD Ghosting (Fast)"
-msgstr ""
+msgstr "Fantasmigo de LCD (rapida)"
 
 msgctxt "#30058"
 msgid "Specify which algorithm to use when resampling generated audio (the Game Boy audio rate is limited only by its CPU write speed, such that 'native' frequencies are impractical on modern sound devices and must be downsampled). 'Sinc' produces the highest quality. 'Cosine' improves performance on low-end hardware."
-msgstr ""
+msgstr "Specifi la algoritmon uzotan kiam resonspecigante generitan sonon (la sona ofteco de Game Boy estas limigita nur de la skriba rapido de ĝia ĉefprocesoro, tiel, ke \"indiĝenaj\" frekvencoj estas nepraktikaj sur modernaj sonaparatoj kaj devas esti reduktitaj). \"Sinc\" produktas la plej altan kvaliton. \"Kosinuso\" plibonigas rendimenton sur malaltkvalita aparataro."
 
 msgctxt "#30059"
 msgid "Sinc"
@@ -267,35 +267,35 @@ msgstr ""
 
 msgctxt "#30060"
 msgid "Cosine"
-msgstr ""
+msgstr "Kosinuso"
 
 msgctxt "#30061"
 msgid "Specify which type of hardware to emulate. 'Auto' is recommended. Selecting 'GBA' unlocks extra features in certain 'GBA Enhanced' Game Boy Color games (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...)."
-msgstr ""
+msgstr "Specifi kian aparataron imiti. \"Aŭtomata\" estas rekomendata. Elekti \"GBA\" malbaras kromajn funkciojn en kelkaj ludoj de Game Boy Color \"Plibonigitaj per GBA\" (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...)."
 
 msgctxt "#30062"
 msgid "Enable support for official Game Boy and Game Boy Color bootloaders, with corresponding start-up logo animations."
-msgstr ""
+msgstr "Ebligi subtenon por oficialaj praŝargiloj de Game Boy kaj Game Boy Color, kun ties komencaj emblemaj animacioj."
 
 msgctxt "#30063"
 msgid "Enabling this will allow pressing/quickly alternating/holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "Ebligi ĉi tion permesos premi, rapide alterni kaj teni kaj dekstran kaj maldekstran (aŭ supren kaj malsupren) direktojn samtempe. Ĉi tio povas kaŭzi missignalojn de movo."
 
 msgctxt "#30064"
 msgid "Specify the repeat interval (in frames) when holding down the Turbo A/B buttons."
-msgstr ""
+msgstr "Specifi la ripetadan intervalon (je filmeroj) dum tenante la butonojn de Ada aktivigo de A/B."
 
 msgctxt "#30065"
 msgid "Enables haptic feedback effects for supported games (Pokemon Pinball, Perfect Dark...)."
-msgstr ""
+msgstr "Ebligas tuŝretrokupladadajn efikojn por subtenataj ludoj (Pokémon Pinball, Perfect Dark...)."
 
 msgctxt "#30066"
 msgid "Show Game Link Settings"
-msgstr ""
+msgstr "Montri agordojn de Game Link"
 
 msgctxt "#30067"
 msgid "Enable configuration of networked Game Link (multiplayer) options. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "Ebligi konfiguron de opcioj de reta Game Link (plurludanto). NOTO: Rapida menuo povus ebzoni esti ŝaltita por ke ĉi tiu agordo efikiĝu."
 
 msgctxt "#30068"
 msgid "Game Link"
@@ -303,63 +303,63 @@ msgstr ""
 
 msgctxt "#30069"
 msgid "Change networked Game Link (multiplayer) settings."
-msgstr ""
+msgstr "Ŝanĝi agordojn pri reta Game Link (plurludanta)."
 
 msgctxt "#30070"
 msgid "When enabling networked Game Link functionality, specify whether current instance should run as a server or client."
-msgstr ""
+msgstr "Kiam ebligante funkciaron de reta Game Link, specifi se la kuranta apero devus ruliĝi kiel servilo aŭ kliento."
 
 msgctxt "#30071"
 msgid "Specify port used for Game Link network communication."
-msgstr ""
+msgstr "Specifi konektejon uzatan por reta komunikado de Game Link."
 
 msgctxt "#30072"
 msgid "1st digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "1a cifero de fora retservila IP-adreso de Game Link. Nur uzata kiam \"Reĝimo Game Link\" estas agordita je \"Reta kliento\"."
 
 msgctxt "#30073"
 msgid "2nd digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "2a cifero de fora retservila IP-adreso de Game Link. Nur uzata kiam \"Reĝimo Game Link\" estas agordita je \"Reta kliento\"."
 
 msgctxt "#30074"
 msgid "3rd digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "3a cifero de fora retservila IP-adreso de Game Link. Nur uzata kiam \"Reĝimo Game Link\" estas agordita je \"Reta kliento\"."
 
 msgctxt "#30075"
 msgid "4th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "4a cifero de fora retservila IP-adreso de Game Link. Nur uzata kiam \"Reĝimo Game Link\" estas agordita je \"Reta kliento\"."
 
 msgctxt "#30076"
 msgid "5th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "5a cifero de fora retservila IP-adreso de Game Link. Nur uzata kiam \"Reĝimo Game Link\" estas agordita je \"Reta kliento\"."
 
 msgctxt "#30077"
 msgid "6th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "6a cifero de fora retservila IP-adreso de Game Link. Nur uzata kiam \"Reĝimo Game Link\" estas agordita je \"Reta kliento\"."
 
 msgctxt "#30078"
 msgid "7th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "7a cifero de fora retservila IP-adreso de Game Link. Nur uzata kiam \"Reĝimo Game Link\" estas agordita je \"Reta kliento\"."
 
 msgctxt "#30079"
 msgid "8th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "8a cifero de fora retservila IP-adreso de Game Link. Nur uzata kiam \"Reĝimo Game Link\" estas agordita je \"Reta kliento\"."
 
 msgctxt "#30080"
 msgid "9th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "9a cifero de fora retservila IP-adreso de Game Link. Nur uzata kiam \"Reĝimo Game Link\" estas agordita je \"Reta kliento\"."
 
 msgctxt "#30081"
 msgid "10th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "10a cifero de fora retservila IP-adreso de Game Link. Nur uzata kiam \"Reĝimo Game Link\" estas agordita je \"Reta kliento\"."
 
 msgctxt "#30082"
 msgid "11th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "11a cifero de fora retservila IP-adreso de Game Link. Nur uzata kiam \"Reĝimo Game Link\" estas agordita je \"Reta kliento\"."
 
 msgctxt "#30083"
 msgid "12th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "12a cifero de fora retservila IP-adreso de Game Link. Nur uzata kiam \"Reĝimo Game Link\" estas agordita je \"Reta kliento\"."
 
 msgctxt "#30084"
 msgid "GB"

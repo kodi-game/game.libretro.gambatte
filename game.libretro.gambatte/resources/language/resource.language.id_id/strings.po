@@ -51,15 +51,15 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Color Correction"
-msgstr ""
+msgstr "Betulkan Warna"
 
 msgctxt "#30007"
 msgid "Color Correction Mode"
-msgstr ""
+msgstr "Mode Betulkan Warna"
 
 msgctxt "#30008"
 msgid "Color Correction - Frontlight Position"
-msgstr ""
+msgstr "Betulkan Warna - Posisi Cahaya Depan"
 
 msgctxt "#30009"
 msgid "Dark Filter Level (%)"
@@ -75,11 +75,11 @@ msgstr ""
 
 msgctxt "#30012"
 msgid "Emulated Hardware (Restart Required)"
-msgstr ""
+msgstr "Emulasi Peranti Keras (Perlu Mulai Ulang)"
 
 msgctxt "#30013"
 msgid "Use Official Bootloader (Restart Required)"
-msgstr ""
+msgstr "Gunakan Bootloader Resmi (Perlu Mulai Ulang)"
 
 msgctxt "#30014"
 msgid "Allow Opposing Directions"
@@ -87,11 +87,11 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Turbo Button Period"
-msgstr ""
+msgstr "Lamanya Tekan Turbo"
 
 msgctxt "#30016"
 msgid "Controller Rumble Strength"
-msgstr ""
+msgstr "Kekuatan Getar Stik Kendali"
 
 msgctxt "#30017"
 msgid "Game Link Mode"
@@ -99,7 +99,7 @@ msgstr ""
 
 msgctxt "#30018"
 msgid "Network Link Port"
-msgstr ""
+msgstr "Porta Taut Jejaring"
 
 msgctxt "#30019"
 msgid "Network Link Server Address Pt. 01: x__.___.___.___"
@@ -159,7 +159,7 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Auto"
-msgstr ""
+msgstr "Otomatis"
 
 msgctxt "#30034"
 msgid "GBC"
@@ -271,7 +271,7 @@ msgstr ""
 
 msgctxt "#30061"
 msgid "Specify which type of hardware to emulate. 'Auto' is recommended. Selecting 'GBA' unlocks extra features in certain 'GBA Enhanced' Game Boy Color games (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...)."
-msgstr ""
+msgstr "Menentukan jenis emulasi peranti keras, dianjurkan opsi 'Auto'. Memilih 'GBA' membuka fitur tambahan di permainan Game Boy Color yang 'GBA Enhanced' (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...)."
 
 msgctxt "#30062"
 msgid "Enable support for official Game Boy and Game Boy Color bootloaders, with corresponding start-up logo animations."

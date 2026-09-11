@@ -31,11 +31,11 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "GB Colorization"
-msgstr ""
+msgstr "GB-väritys"
 
 msgctxt "#30002"
 msgid "Internal Palette"
-msgstr ""
+msgstr "Sisäinen paletti"
 
 msgctxt "#30003"
 msgid "> TWB64 - Pack 1 Palette"
@@ -51,15 +51,15 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Color Correction"
-msgstr ""
+msgstr "Värinkorjaus"
 
 msgctxt "#30007"
 msgid "Color Correction Mode"
-msgstr ""
+msgstr "Värinkorjauksen tila"
 
 msgctxt "#30008"
 msgid "Color Correction - Frontlight Position"
-msgstr ""
+msgstr "Värikorjaus - Etuvalon sijainti"
 
 msgctxt "#30009"
 msgid "Dark Filter Level (%)"
@@ -67,19 +67,19 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Interframe Blending"
-msgstr "Vuorokuvien sekoitus"
+msgstr "Rajakuvien yhdistäminen"
 
 msgctxt "#30011"
 msgid "Audio Resampler"
-msgstr ""
+msgstr "Ääninäytteenottaja"
 
 msgctxt "#30012"
 msgid "Emulated Hardware (Restart Required)"
-msgstr ""
+msgstr "Emuloitu laitteisto (Uudelleenkäynnistys vaaditaan)"
 
 msgctxt "#30013"
 msgid "Use Official Bootloader (Restart Required)"
-msgstr ""
+msgstr "Käytä virallista käynnistyslataajaa (uudelleenkäynnistys vaaditaan)"
 
 msgctxt "#30014"
 msgid "Allow Opposing Directions"
@@ -155,11 +155,11 @@ msgstr ""
 
 msgctxt "#30032"
 msgid "Enables colorization of Game Boy games. 'Auto' selects the 'best' (most colorful/appropriate) palette. 'GBC' selects game-specific Game Boy Color palette if defined, otherwise 'GBC - Dark Green'. 'SGB' selects game-specific Super Game Boy palette if defined, otherwise 'SGB - 1A'. 'Internal' uses 'Internal Palette' core option. 'Custom' loads user-created palette from system directory."
-msgstr ""
+msgstr "Mahdollistaa Game Boy -pelien värityksen. 'Automaattinen' valitsee 'parhaan' (värikkäimmän/sopivimman) paletin. 'GBC' valitsee pelikohtaisen Game Boy Color -paletin, jos sellainen on määritelty, muuten 'GBC - Dark Green'. 'SGB' valitsee pelikohtaisen Super Game Boy -paletin, jos määritelty, muuten valitaan 'SGB - 1A'. 'Sisäinen' käyttää 'Sisäinen paletti' -ydinasetusta. 'Mukautettu' lataa käyttäjän luoman paletin järjestelmäkansiosta."
 
 msgctxt "#30033"
 msgid "Auto"
-msgstr ""
+msgstr "Automaattinen"
 
 msgctxt "#30034"
 msgid "GBC"
@@ -171,15 +171,15 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "Internal"
-msgstr ""
+msgstr "Sisäinen"
 
 msgctxt "#30037"
 msgid "Custom"
-msgstr ""
+msgstr "Mukautettu"
 
 msgctxt "#30038"
 msgid "Selects palette used for colorizing Game Boy games when 'GB Colorization' is set to 'Internal', or when 'GB Colorization' is set to 'Auto' and game has no pre-defined SGB/GBC palette. 'GB' palettes mimic the display of original Game Boy hardware. 'GBC' palettes are identical to the built-in presets of the Game Boy Color. 'SGB' palettes are identical to the built-in presets of the Super Game Boy."
-msgstr ""
+msgstr "Valitsee paletin, jota käytetään Game Boy -pelien värityksessä, kun 'GB-väritys' on asetettu tilaan 'Sisäinen', tai kun 'GB-väritys' on asetettu tilaan 'Automaattinen' eikä pelillä ole ennalta määriteltyä SGB/GBC-paletia. 'GB' -paletit jäljittelevät alkuperäisen Game Boy -laitteiston näyttöä. 'GBC' -paletit ovat identtisiä Game Boy Colorin sisäänrakennettujen esiasetusten kanssa. 'SGB' -paletit ovat identtisiä Super Game Boyn sisäänrakennettujen esiasetusten kanssa."
 
 msgctxt "#30039"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 1'."
@@ -199,43 +199,43 @@ msgstr ""
 
 msgctxt "#30043"
 msgid "Adjusts output colors to match the display of real Game Boy Color hardware. 'GBC Only' ensures that correction will only be applied when playing Game Boy Color games, or when using a Game Boy Color palette to colorize a Game Boy game. 'Always' applies color correction to all content, and will produce unexpected/suboptimal results when using 'GB' or 'SGB' internal color palettes."
-msgstr ""
+msgstr "Säätää ulostulon värit vastaamaan oikean Game Boy Color -laitteiston näyttöä. 'Vain GBC' varmistaa, että korjaus tehdään vain, kun pelataan Game Boy Color -pelejä tai kun käytetään Game Boy Color -palettia väritykseen Game Boy -pelissä. 'Aina' soveltaa värikorjausta kaikkeen sisältöön, mikä voi tuottaa odottamattomia/epäoptimaalisia tuloksia, kun käytetään 'GB' tai 'SGB' sisäisiä väripaletteja."
 
 msgctxt "#30044"
 msgid "GBC Only"
-msgstr ""
+msgstr "Vain GBC"
 
 msgctxt "#30045"
 msgid "Always"
-msgstr ""
+msgstr "Aina"
 
 msgctxt "#30046"
 msgid "Specifies method used when performing color correction. 'Accurate' produces output almost indistinguishable from a real Game Boy Color LCD panel. 'Fast' merely darkens colors and reduces saturation, and may be used on low-end hardware if the 'Accurate' method is too slow."
-msgstr ""
+msgstr "Määrittää menetelmän, jota käytetään värikorjauksen suorittamiseen. 'Tarkka' tuottaa ulostulon, joka on lähes erottamaton oikean Game Boy Color -LCD-paneelin näytöstä. 'Nopea' vain tummentaa värejä ja vähentää kylläisyyttä, ja sitä voidaan käyttää heikkotehoisilla laitteilla, jos 'Tarkka' menetelmä on liian hidas."
 
 msgctxt "#30047"
 msgid "Accurate"
-msgstr ""
+msgstr "Tarkka"
 
 msgctxt "#30048"
 msgid "Fast"
-msgstr ""
+msgstr "Nopea"
 
 msgctxt "#30049"
 msgid "Simulates the physical response of the Game Boy Color LCD panel when illuminated from different angles. 'Central' represents standard color reproduction. 'Above Screen' increases brightness. 'Below Screen' reduces brightness. This setting only applies when 'Color Correction Mode' is set to 'Accurate'."
-msgstr ""
+msgstr "Simuloi Game Boy Color -LCD-paneelin fyysistä vastetta, kun sitä valaistaan eri kulmista. 'Keskellä' edustaa tavanomaista värintoistoa. 'Näytön yläpuolella' lisää kirkkautta. 'Näytön alapuolella' vähentää kirkkautta. Tämä asetus pätee vain silloin, kun 'Värinkorjaustila' on asetettu tilaan 'Tarkka'."
 
 msgctxt "#30050"
 msgid "Central"
-msgstr ""
+msgstr "Keskellä"
 
 msgctxt "#30051"
 msgid "Above Screen"
-msgstr ""
+msgstr "Näytön yläpuolella"
 
 msgctxt "#30052"
 msgid "Below Screen"
-msgstr ""
+msgstr "Näytön alapuolella"
 
 msgctxt "#30053"
 msgid "Enable luminosity-based brightness reduction. May be used to avoid glare/eye strain when playing games with white backgrounds, which are intended for display on a non-backlit Game Boy Color and can therefore appear uncomfortably bright when viewed on a modern backlit screen."
@@ -247,15 +247,15 @@ msgstr ""
 
 msgctxt "#30055"
 msgid "Simple"
-msgstr ""
+msgstr "Yksinkertainen"
 
 msgctxt "#30056"
 msgid "LCD Ghosting (Accurate)"
-msgstr ""
+msgstr "LCD-ghosting (Tarkka)"
 
 msgctxt "#30057"
 msgid "LCD Ghosting (Fast)"
-msgstr ""
+msgstr "LCD-ghosting (Nopea)"
 
 msgctxt "#30058"
 msgid "Specify which algorithm to use when resampling generated audio (the Game Boy audio rate is limited only by its CPU write speed, such that 'native' frequencies are impractical on modern sound devices and must be downsampled). 'Sinc' produces the highest quality. 'Cosine' improves performance on low-end hardware."
@@ -271,11 +271,11 @@ msgstr ""
 
 msgctxt "#30061"
 msgid "Specify which type of hardware to emulate. 'Auto' is recommended. Selecting 'GBA' unlocks extra features in certain 'GBA Enhanced' Game Boy Color games (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...)."
-msgstr ""
+msgstr "Määritä, minkä tyyppistä laitetta emuloidaan. 'Automaattinen' on suositus. GBA:n valitseminen avaa lisäominaisuuksia tietyissä 'GBA tehostetuissa' Game Boy Color peleissä (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...)."
 
 msgctxt "#30062"
 msgid "Enable support for official Game Boy and Game Boy Color bootloaders, with corresponding start-up logo animations."
-msgstr ""
+msgstr "Ota käyttöön tuki virallisille Game Boy- ja Game Boy Color käynnistyslataimille, joilla on omantyyppisensä käynnistyslogo-animaatiot."
 
 msgctxt "#30063"
 msgid "Enabling this will allow pressing/quickly alternating/holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
@@ -303,7 +303,7 @@ msgstr ""
 
 msgctxt "#30069"
 msgid "Change networked Game Link (multiplayer) settings."
-msgstr ""
+msgstr "Muuta verkotettuja Game Link (moninpeli) -asetuksia."
 
 msgctxt "#30070"
 msgid "When enabling networked Game Link functionality, specify whether current instance should run as a server or client."

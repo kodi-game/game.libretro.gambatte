@@ -31,135 +31,135 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "GB Colorization"
-msgstr ""
+msgstr "GB 配色"
 
 msgctxt "#30002"
 msgid "Internal Palette"
-msgstr ""
+msgstr "内蔵パレット"
 
 msgctxt "#30003"
 msgid "> TWB64 - Pack 1 Palette"
-msgstr ""
+msgstr "> TWB64 - パック 1 パレット"
 
 msgctxt "#30004"
 msgid "> TWB64 - Pack 2 Palette"
-msgstr ""
+msgstr "> TWB64 - パック 2 パレット"
 
 msgctxt "#30005"
 msgid "> PixelShift - Pack 1 Palette"
-msgstr ""
+msgstr "> PixelShift - パック 1 パレット"
 
 msgctxt "#30006"
 msgid "Color Correction"
-msgstr ""
+msgstr "色補正"
 
 msgctxt "#30007"
 msgid "Color Correction Mode"
-msgstr ""
+msgstr "色補正モード"
 
 msgctxt "#30008"
 msgid "Color Correction - Frontlight Position"
-msgstr ""
+msgstr "色補正 - フロントライト位置"
 
 msgctxt "#30009"
 msgid "Dark Filter Level (%)"
-msgstr ""
+msgstr "ダークフィルターレベル (%)"
 
 msgctxt "#30010"
 msgid "Interframe Blending"
-msgstr ""
+msgstr "フレーム間合成"
 
 msgctxt "#30011"
 msgid "Audio Resampler"
-msgstr ""
+msgstr "オーディオリサンプラー"
 
 msgctxt "#30012"
 msgid "Emulated Hardware (Restart Required)"
-msgstr ""
+msgstr "エミュレートするハードウェア (再起動が必要)"
 
 msgctxt "#30013"
 msgid "Use Official Bootloader (Restart Required)"
-msgstr ""
+msgstr "公式ブートローダーを使用する (再起動が必要)"
 
 msgctxt "#30014"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "逆方向入力を許可"
 
 msgctxt "#30015"
 msgid "Turbo Button Period"
-msgstr ""
+msgstr "ターボボタン間隔"
 
 msgctxt "#30016"
 msgid "Controller Rumble Strength"
-msgstr ""
+msgstr "コントローラーの振動の強さ"
 
 msgctxt "#30017"
 msgid "Game Link Mode"
-msgstr ""
+msgstr "ゲームリンクモード"
 
 msgctxt "#30018"
 msgid "Network Link Port"
-msgstr ""
+msgstr "ネットワークリンクポート"
 
 msgctxt "#30019"
 msgid "Network Link Server Address Pt. 01: x__.___.___.___"
-msgstr ""
+msgstr "ネットワークリンクサーバーアドレス Pt. 01: x__.___.___.___"
 
 msgctxt "#30020"
 msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
-msgstr ""
+msgstr "ネットワークリンクサーバーアドレス Pt. 02: _x_.___.____"
 
 msgctxt "#30021"
 msgid "Network Link Server Address Pt. 03: __x.___.___.___"
-msgstr ""
+msgstr "ネットワークリンクサーバーアドレス Pt. 03: __x.___.___.___"
 
 msgctxt "#30022"
 msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
-msgstr ""
+msgstr "ネットワークリンクサーバーアドレス Pt. 04: ___.x__.___.___"
 
 msgctxt "#30023"
 msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
-msgstr ""
+msgstr "ネットワークリンクサーバーアドレス Pt. 05: ___._x_.___.___"
 
 msgctxt "#30024"
 msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
-msgstr ""
+msgstr "ネットワークリンクサーバーアドレス Pt. 06: ___.__x.___.___"
 
 msgctxt "#30025"
 msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
-msgstr ""
+msgstr "ネットワークリンクサーバーアドレス Pt. 07: ___.___.x__.___"
 
 msgctxt "#30026"
 msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
-msgstr ""
+msgstr "ネットワークリンクサーバーアドレス Pt. 08: ___.___._x_.___"
 
 msgctxt "#30027"
 msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
-msgstr ""
+msgstr "ネットワークリンクサーバーアドレス Pt. 09: ___.___.__x.___"
 
 msgctxt "#30028"
 msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
-msgstr ""
+msgstr "ネットワークリンクサーバーアドレス Pt. 10: ___.___.___.x__"
 
 msgctxt "#30029"
 msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
-msgstr ""
+msgstr "ネットワークリンクサーバーアドレス Pt. 11: ___.___.___._x_"
 
 msgctxt "#30030"
 msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
-msgstr ""
+msgstr "ネットワークリンクサーバーアドレス Pt. 12: ___.___.___.__x"
 
 msgctxt "#30031"
 msgid "> TWB64 - Pack 3 Palette"
-msgstr ""
+msgstr "> TWB64 - パック 3 パレット"
 
 msgctxt "#30032"
 msgid "Enables colorization of Game Boy games. 'Auto' selects the 'best' (most colorful/appropriate) palette. 'GBC' selects game-specific Game Boy Color palette if defined, otherwise 'GBC - Dark Green'. 'SGB' selects game-specific Super Game Boy palette if defined, otherwise 'SGB - 1A'. 'Internal' uses 'Internal Palette' core option. 'Custom' loads user-created palette from system directory."
-msgstr ""
+msgstr "[自動] は [ベスト] (最もカラフルで適切) なパレットを選択します。[GBC] は、定義されている場合は GBC パレットを、そうでない場合は [GBC - 暗緑] を使用します。[SGB] は、定義されている場合は SGB パレットを、そうでない場合は [SGB-1A] を使用します。[内蔵] は [内蔵パレット] オプションを使用し、[カスタム] はユーザーが作成したパレットをシステムディレクトリから読み込みます。"
 
 msgctxt "#30033"
 msgid "Auto"
-msgstr ""
+msgstr "自動"
 
 msgctxt "#30034"
 msgid "GBC"
@@ -171,95 +171,95 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "Internal"
-msgstr ""
+msgstr "内蔵"
 
 msgctxt "#30037"
 msgid "Custom"
-msgstr ""
+msgstr "カスタム"
 
 msgctxt "#30038"
 msgid "Selects palette used for colorizing Game Boy games when 'GB Colorization' is set to 'Internal', or when 'GB Colorization' is set to 'Auto' and game has no pre-defined SGB/GBC palette. 'GB' palettes mimic the display of original Game Boy hardware. 'GBC' palettes are identical to the built-in presets of the Game Boy Color. 'SGB' palettes are identical to the built-in presets of the Super Game Boy."
-msgstr ""
+msgstr "[GB 配色] を [内蔵] に設定した場合、または [自動] に設定した際、ゲームに定義されたパレットがない場合に使用するパレットを選択します。[GB] パレットはゲームボーイ実機のディスプレイを再現します。[GBC] パレットはゲームボーイカラーの組み込みプリセットと、[SGB] はスーパーゲームボーイの組み込みプリセットと同じです。"
 
 msgctxt "#30039"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 1'."
-msgstr ""
+msgstr "[内蔵パレット] が [TWB64 - パック 1] に設定されている場合の内蔵配色パレットを選択します。"
 
 msgctxt "#30040"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 2'."
-msgstr ""
+msgstr "[内蔵パレット] が [TWB64 - パック 2] に設定されている場合の内蔵配色パレットを選択します。"
 
 msgctxt "#30041"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 3'."
-msgstr ""
+msgstr "[内蔵パレット] が [TWB64 - パック 3] に設定されている場合の内蔵配色パレットを選択します。"
 
 msgctxt "#30042"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'PixelShift - Pack 1'."
-msgstr ""
+msgstr "[内蔵パレット] が [PixelShift - パック 1] に設定されている場合の内蔵配色パレットを選択します。"
 
 msgctxt "#30043"
 msgid "Adjusts output colors to match the display of real Game Boy Color hardware. 'GBC Only' ensures that correction will only be applied when playing Game Boy Color games, or when using a Game Boy Color palette to colorize a Game Boy game. 'Always' applies color correction to all content, and will produce unexpected/suboptimal results when using 'GB' or 'SGB' internal color palettes."
-msgstr ""
+msgstr "実際の GBC ハードウェアの表示に合わせて出力色を調整します。[GBC のみ] は GBC ゲーム、または GBC パレットを使用して 配色した GB ゲームをプレイする際に補正を適用します。[常時] はすべてのコンテンツに補正を適用し、[GB] または [SGB] 内部カラーパレットを使用する際に本来とはわずかに異なる色を生成します。"
 
 msgctxt "#30044"
 msgid "GBC Only"
-msgstr ""
+msgstr "GBC のみ"
 
 msgctxt "#30045"
 msgid "Always"
-msgstr ""
+msgstr "常に"
 
 msgctxt "#30046"
 msgid "Specifies method used when performing color correction. 'Accurate' produces output almost indistinguishable from a real Game Boy Color LCD panel. 'Fast' merely darkens colors and reduces saturation, and may be used on low-end hardware if the 'Accurate' method is too slow."
-msgstr ""
+msgstr "色補正の実行時に使用される方法を指定します。[正確] は実際のゲームボーイカラーの液晶パネルとほとんど区別できない映像を出力します。[高速] は単に色を濃くして彩度を下げるだけです。旧世代のハードウェアで動かしている時に[正確] に設定して動作が遅すぎる場合は、[高速] に設定してください。"
 
 msgctxt "#30047"
 msgid "Accurate"
-msgstr ""
+msgstr "正確"
 
 msgctxt "#30048"
 msgid "Fast"
-msgstr ""
+msgstr "高速"
 
 msgctxt "#30049"
 msgid "Simulates the physical response of the Game Boy Color LCD panel when illuminated from different angles. 'Central' represents standard color reproduction. 'Above Screen' increases brightness. 'Below Screen' reduces brightness. This setting only applies when 'Color Correction Mode' is set to 'Accurate'."
-msgstr ""
+msgstr "ゲームボーイカラーの液晶パネルに様々な角度から光を当てたときの物理的な反応をシミュレートします。[中央] は標準的な色を再現します。[画面上部] は明るさを増やし、[画面下部] は明るさを減らします。この設定は [色補正モード] が [正確] に設定されている場合にのみ適用されます。"
 
 msgctxt "#30050"
 msgid "Central"
-msgstr ""
+msgstr "中央"
 
 msgctxt "#30051"
 msgid "Above Screen"
-msgstr ""
+msgstr "画面の上"
 
 msgctxt "#30052"
 msgid "Below Screen"
-msgstr ""
+msgstr "画面の下"
 
 msgctxt "#30053"
 msgid "Enable luminosity-based brightness reduction. May be used to avoid glare/eye strain when playing games with white backgrounds, which are intended for display on a non-backlit Game Boy Color and can therefore appear uncomfortably bright when viewed on a modern backlit screen."
-msgstr ""
+msgstr "輝度ベースの明るさ軽減を有効にします。白背景のゲームをプレイする際に、まぶしさや目の負担を軽減するために使用します。ゲームボーイカラーのゲームはバックライトがない状態での表示を想定して開発されたため、現代のバックライト付き画面で見ると不快な明るさに見えることがあります。"
 
 msgctxt "#30054"
 msgid "Simulates LCD ghosting effects. 'Simple' performs a 50:50 mix of the current and previous frames. 'LCD Ghosting' mimics natural LCD response times by combining multiple buffered frames. 'Simple' blending is required when playing games that rely on LCD ghosting for transparency effects (Wave Race, Ballistic, Chikyuu Kaihou Gun ZAS...)."
-msgstr ""
+msgstr "液晶ディスプレイの残像効果をシミュレートします。[シンプル] は現在と以前のフレームを半々の割合で合成します。[液晶ディスプレイ残像] は、複数のバッファ付きフレームを組み合わせることで、より自然に液晶ディスプレイの応答速度を再現します。残像を利用した透明効果のあるゲームをプレイする場合、[シンプル] を選択してください。"
 
 msgctxt "#30055"
 msgid "Simple"
-msgstr ""
+msgstr "シンプル"
 
 msgctxt "#30056"
 msgid "LCD Ghosting (Accurate)"
-msgstr ""
+msgstr "LCD 残像 (正確)"
 
 msgctxt "#30057"
 msgid "LCD Ghosting (Fast)"
-msgstr ""
+msgstr "LCD 残像 (高速)"
 
 msgctxt "#30058"
 msgid "Specify which algorithm to use when resampling generated audio (the Game Boy audio rate is limited only by its CPU write speed, such that 'native' frequencies are impractical on modern sound devices and must be downsampled). 'Sinc' produces the highest quality. 'Cosine' improves performance on low-end hardware."
-msgstr ""
+msgstr "生成されたオーディオをリサンプリングする際に使用するアルゴリズムを指定します。(ゲームボーイのオーディオレートは CPU の書き込み速度によってのみ制限されるため、最新のサウンドデバイスでは「ネイティブ」周波数は実用的ではなく、ダウンサンプリングする必要があります)。[Sinc] は最高品質で、[Cosine] はローエンドハードウェアで実行速度を改善します。"
 
 msgctxt "#30059"
 msgid "Sinc"
@@ -271,95 +271,95 @@ msgstr ""
 
 msgctxt "#30061"
 msgid "Specify which type of hardware to emulate. 'Auto' is recommended. Selecting 'GBA' unlocks extra features in certain 'GBA Enhanced' Game Boy Color games (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...)."
-msgstr ""
+msgstr "エミュレートするハードウェアの種類を指定します。[自動] に設定することをおすすめします。[GBA] を選択すると、[GBA 拡張] をもつ特定のゲームボーイカラーゲームで追加機能をアンロックします。"
 
 msgctxt "#30062"
 msgid "Enable support for official Game Boy and Game Boy Color bootloaders, with corresponding start-up logo animations."
-msgstr ""
+msgstr "公式ゲームボーイおよびゲームボーイカラーのブートローダーのサポートを有効にし、対応するスタートアップロゴアニメーションを表示します。"
 
 msgctxt "#30063"
 msgid "Enabling this will allow pressing/quickly alternating/holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "有効にすると、左右 (または上下) 方向の同時押し / 高速交互押し / 長押しが可能になります。動作に不具合が生じる場合があります。"
 
 msgctxt "#30064"
 msgid "Specify the repeat interval (in frames) when holding down the Turbo A/B buttons."
-msgstr ""
+msgstr "ターボ A/B ボタンを押している間、ボタンが押される間隔 (フレーム単位) を指定します。"
 
 msgctxt "#30065"
 msgid "Enables haptic feedback effects for supported games (Pokemon Pinball, Perfect Dark...)."
-msgstr ""
+msgstr "対応しているゲーム (ポケモンピンボール, パーフェクトダークなど) で触覚フィードバック効果を有効にします。"
 
 msgctxt "#30066"
 msgid "Show Game Link Settings"
-msgstr ""
+msgstr "通信設定を表示"
 
 msgctxt "#30067"
 msgid "Enable configuration of networked Game Link (multiplayer) options. NOTE: Quick Menu may need to be toggled for this setting to take effect."
-msgstr ""
+msgstr "ネットワーク通信 (マルチプレイヤー) オプションの設定を有効にします。注意: この設定を有効にするには、クイックメニューを開き直す必要があります。"
 
 msgctxt "#30068"
 msgid "Game Link"
-msgstr ""
+msgstr "通信"
 
 msgctxt "#30069"
 msgid "Change networked Game Link (multiplayer) settings."
-msgstr ""
+msgstr "ネットワーク通信 (マルチプレイヤー) の設定を変更します。"
 
 msgctxt "#30070"
 msgid "When enabling networked Game Link functionality, specify whether current instance should run as a server or client."
-msgstr ""
+msgstr "ネットワーク通信機能を有効にする場合、現在のインスタンスをサーバーまたはクライアントとして実行するかどうかを指定します。"
 
 msgctxt "#30071"
 msgid "Specify port used for Game Link network communication."
-msgstr ""
+msgstr "ネットワーク通信に使用するポートを指定します。"
 
 msgctxt "#30072"
 msgid "1st digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "リモートゲームリンクネットワークサーバー IP アドレスの 1 桁目です。[ゲームリンクモード] が [ネットワーククライアント] に設定されている場合にのみ使用されます。"
 
 msgctxt "#30073"
 msgid "2nd digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "リモートゲームリンクネットワークサーバー IP アドレスの 2 桁目です。[ゲームリンクモード] が [ネットワーククライアント] に設定されている場合にのみ使用されます。"
 
 msgctxt "#30074"
 msgid "3rd digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "リモートゲームリンクネットワークサーバー IP アドレスの 3 桁目です。[ゲームリンクモード] が [ネットワーククライアント] に設定されている場合にのみ使用されます。"
 
 msgctxt "#30075"
 msgid "4th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "リモートゲームリンクネットワークサーバー IP アドレスの 4 桁目です。[ゲームリンクモード] が [ネットワーククライアント] に設定されている場合にのみ使用されます。"
 
 msgctxt "#30076"
 msgid "5th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "リモートゲームリンクネットワークサーバー IP アドレスの 5 桁目です。[ゲームリンクモード] が [ネットワーククライアント] に設定されている場合にのみ使用されます。"
 
 msgctxt "#30077"
 msgid "6th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "リモートゲームリンクネットワークサーバー IP アドレスの 6 桁目です。[ゲームリンクモード] が [ネットワーククライアント] に設定されている場合にのみ使用されます。"
 
 msgctxt "#30078"
 msgid "7th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "リモートゲームリンクネットワークサーバー IP アドレスの 7 桁目です。[ゲームリンクモード] が [ネットワーククライアント] に設定されている場合にのみ使用されます。"
 
 msgctxt "#30079"
 msgid "8th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "リモートゲームリンクネットワークサーバー IP アドレスの 8 桁目です。[ゲームリンクモード] が [ネットワーククライアント] に設定されている場合にのみ使用されます。"
 
 msgctxt "#30080"
 msgid "9th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "リモートゲームリンクネットワークサーバー IP アドレスの 9 桁目です。[ゲームリンクモード] が [ネットワーククライアント] に設定されている場合にのみ使用されます。"
 
 msgctxt "#30081"
 msgid "10th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "リモートゲームリンクネットワークサーバー IP アドレスの 10 桁目です。[ゲームリンクモード] が [ネットワーククライアント] に設定されている場合にのみ使用されます。"
 
 msgctxt "#30082"
 msgid "11th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "リモートゲームリンクネットワークサーバー IP アドレスの 11 桁目です。[ゲームリンクモード] が [ネットワーククライアント] に設定されている場合にのみ使用されます。"
 
 msgctxt "#30083"
 msgid "12th digit of remote Game Link network server IP address. Only used when 'Game Link Mode' is set to 'Network Client'."
-msgstr ""
+msgstr "リモートゲームリンクネットワークサーバー IP アドレスの 12 桁目です。[ゲームリンクモード] が [ネットワーククライアント] に設定されている場合にのみ使用されます。"
 
 msgctxt "#30084"
 msgid "GB"

@@ -259,7 +259,7 @@ msgstr "Двоение ЖК (быстро)"
 
 msgctxt "#30058"
 msgid "Specify which algorithm to use when resampling generated audio (the Game Boy audio rate is limited only by its CPU write speed, such that 'native' frequencies are impractical on modern sound devices and must be downsampled). 'Sinc' produces the highest quality. 'Cosine' improves performance on low-end hardware."
-msgstr "Алгоритм передискретизации сгенерированного звука. Частота звука Game Boy ограничена только скоростью записи ЦП консоли, т.о., «нативные» частоты на современных звуковых устройствах неприменимы и требуют понижения. «Синусный» обеспечивает наилучшее качество. «Косинусный» улучшает производительность для слабых устройств."
+msgstr "Алгоритм передискретизации сгенерированного звука. Частота звука Game Boy ограничена только скоростью записи CPU консоли, т.о., 'нативные' частоты на современных звуковых устройствах неприменимы и требуют понижения. 'Синусный' обеспечивает наилучшее качество. 'Косинусный' улучшает производительность для слабых устройств."
 
 msgctxt "#30059"
 msgid "Sinc"

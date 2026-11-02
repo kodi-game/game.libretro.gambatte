@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.gambatte\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-22 22:51+0000\n"
+"PO-Revision-Date: 2026-11-02 20:49+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-gambatte/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11\n"
+"X-Generator: Weblate 2026.10.1\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - Game Boy / Color (Gambatte)"
@@ -37,20 +37,17 @@ msgctxt "#30002"
 msgid "Internal Palette"
 msgstr "Intern palett"
 
-#, fuzzy
 msgctxt "#30003"
 msgid "> TWB64 - Pack 1 Palette"
-msgstr "> TWB64 - Förpackning 1 palett"
+msgstr "> TWB64 – palettpaket 1"
 
-#, fuzzy
 msgctxt "#30004"
 msgid "> TWB64 - Pack 2 Palette"
-msgstr "> TWB64 - Paket 2 Palett"
+msgstr "> TWB64 – palettpaket 2"
 
-#, fuzzy
 msgctxt "#30005"
 msgid "> PixelShift - Pack 1 Palette"
-msgstr "> PixelShift - Paket 1 Palett"
+msgstr "> PixelShift – palettpaket 1"
 
 msgctxt "#30006"
 msgid "Color Correction"
@@ -60,48 +57,41 @@ msgctxt "#30007"
 msgid "Color Correction Mode"
 msgstr "Färgkorrigeringsläge"
 
-#, fuzzy
 msgctxt "#30008"
 msgid "Color Correction - Frontlight Position"
-msgstr "Färgkorrigering - Frontlight-position"
+msgstr "Färgkorrigering – frontbelysningens position"
 
-#, fuzzy
 msgctxt "#30009"
 msgid "Dark Filter Level (%)"
-msgstr "Mörkerfilternivå (%)"
+msgstr "Mörkt filternivå (%)"
 
 msgctxt "#30010"
 msgid "Interframe Blending"
 msgstr "Mellanbildsblandning"
 
-#, fuzzy
 msgctxt "#30011"
 msgid "Audio Resampler"
 msgstr "Ljudomsamplare"
 
-#, fuzzy
 msgctxt "#30012"
 msgid "Emulated Hardware (Restart Required)"
-msgstr "Emulerad hårdvara (Omstart krävs)"
+msgstr "Emulerad maskinvara (kräver omstart)"
 
-#, fuzzy
 msgctxt "#30013"
 msgid "Use Official Bootloader (Restart Required)"
-msgstr "Använd officiell bootloader (omstart krävs)"
+msgstr "Använd officiell starthanterare (kräver omstart)"
 
 msgctxt "#30014"
 msgid "Allow Opposing Directions"
 msgstr "Tillåt motsatta riktningar"
 
-#, fuzzy
 msgctxt "#30015"
 msgid "Turbo Button Period"
-msgstr "Period för turbo-knapp"
+msgstr "Period för turboknapp"
 
-#, fuzzy
 msgctxt "#30016"
 msgid "Controller Rumble Strength"
-msgstr "Styrka för handkontrollerns Rumble"
+msgstr "Vibrationsstyrka för handkontroll"
 
 msgctxt "#30017"
 msgid "Game Link Mode"
@@ -159,10 +149,9 @@ msgctxt "#30030"
 msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
 msgstr "Serveradress för nätverkslänk Pt. 12: ___.___.___.___.__x"
 
-#, fuzzy
 msgctxt "#30031"
 msgid "> TWB64 - Pack 3 Palette"
-msgstr "> TWB64 - Paket 3 Palett"
+msgstr "> TWB64 – palettpaket 3"
 
 msgctxt "#30032"
 msgid "Enables colorization of Game Boy games. 'Auto' selects the 'best' (most colorful/appropriate) palette. 'GBC' selects game-specific Game Boy Color palette if defined, otherwise 'GBC - Dark Green'. 'SGB' selects game-specific Super Game Boy palette if defined, otherwise 'SGB - 1A'. 'Internal' uses 'Internal Palette' core option. 'Custom' loads user-created palette from system directory."
@@ -170,15 +159,15 @@ msgstr "Aktiverar färgläggning av Game Boy-spel. \"Auto\" väljer den \"bästa
 
 msgctxt "#30033"
 msgid "Auto"
-msgstr ""
+msgstr "Automatiskt"
 
 msgctxt "#30034"
 msgid "GBC"
-msgstr ""
+msgstr "GBC"
 
 msgctxt "#30035"
 msgid "SGB"
-msgstr ""
+msgstr "SGB"
 
 msgctxt "#30036"
 msgid "Internal"
@@ -202,7 +191,7 @@ msgstr "Väljer intern färgpalett när \"Intern Palett\" är inställd på \"TW
 
 msgctxt "#30041"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 3'."
-msgstr ""
+msgstr "Väljer intern färgsättningspalett när ”Intern palett” är inställd på ”TWB64 – palettpaket 3”."
 
 msgctxt "#30042"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'PixelShift - Pack 1'."
@@ -238,7 +227,7 @@ msgstr "Simulerar den fysiska responsen hos Game Boy Color LCD-panelen när den 
 
 msgctxt "#30050"
 msgid "Central"
-msgstr ""
+msgstr "Central"
 
 msgctxt "#30051"
 msgid "Above Screen"
@@ -274,7 +263,7 @@ msgstr "Ange vilken algoritm som ska användas vid omsampling av genererat ljud 
 
 msgctxt "#30059"
 msgid "Sinc"
-msgstr ""
+msgstr "Sinc"
 
 msgctxt "#30060"
 msgid "Cosine"
@@ -374,11 +363,11 @@ msgstr "12:e siffran i IP-adressen för fjärransluten Game Link-nätverksserver
 
 msgctxt "#30084"
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 msgctxt "#30085"
 msgid "GBA"
-msgstr ""
+msgstr "GBA"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

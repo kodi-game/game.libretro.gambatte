@@ -93,62 +93,6 @@ msgctxt "#30016"
 msgid "Controller Rumble Strength"
 msgstr "Forto de regila vibrado"
 
-msgctxt "#30017"
-msgid "Game Link Mode"
-msgstr "Reĝimo Game Link"
-
-msgctxt "#30018"
-msgid "Network Link Port"
-msgstr "Reta ligo-konektejo"
-
-msgctxt "#30019"
-msgid "Network Link Server Address Pt. 01: x__.___.___.___"
-msgstr "Valoro 01 de servila adreso de reta ligo: x__.___.___.___"
-
-msgctxt "#30020"
-msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
-msgstr "Valoro 02 de servila adreso de reta ligo: _x_.___.___.___"
-
-msgctxt "#30021"
-msgid "Network Link Server Address Pt. 03: __x.___.___.___"
-msgstr "Valoro 03 de servila adreso de reta ligo: __x.___.___.___"
-
-msgctxt "#30022"
-msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
-msgstr "Valoro 04 de servila adreso de reta ligo: ___.x__.___.___"
-
-msgctxt "#30023"
-msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
-msgstr "Valoro 05 de servila adreso de reta ligo: ___._x_.___.___"
-
-msgctxt "#30024"
-msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
-msgstr "Valoro 06 de servila adreso de reta ligo: ___.__x.___.___"
-
-msgctxt "#30025"
-msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
-msgstr "Valoro 07 de servila adreso de reta ligo: ___.___.x__.___"
-
-msgctxt "#30026"
-msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
-msgstr "Valoro 08 de servila adreso de reta ligo: ___.___._x_.___"
-
-msgctxt "#30027"
-msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
-msgstr "Valoro 09 de servila adreso de reta ligo: ___.___.__x.___"
-
-msgctxt "#30028"
-msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
-msgstr "Valoro 10 de servila adreso de reta ligo: ___.___.___.x__"
-
-msgctxt "#30029"
-msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
-msgstr "Valoro 11 de servila adreso de reta ligo: ___.___.___._x_"
-
-msgctxt "#30030"
-msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
-msgstr "Valoro 12 de servila adreso de reta ligo: ___.___.___.__x"
-
 msgctxt "#30031"
 msgid "> TWB64 - Pack 3 Palette"
 msgstr "> Paletro de Pako 3 de TWB64"
@@ -368,6 +312,118 @@ msgstr ""
 msgctxt "#30085"
 msgid "GBA"
 msgstr ""
+
+msgctxt "#30086"
+msgid "Link Mode"
+msgstr "Reĝimo de ligado"
+
+msgctxt "#30087"
+msgid "Port"
+msgstr "Konektejo"
+
+msgctxt "#30088"
+msgid "Server Address Pt. 01: x__.___.___.___"
+msgstr "Valoro 01 de servila adreso: x__.___.___.___"
+
+msgctxt "#30089"
+msgid "Server Address Pt. 02: _x_.___.___.___"
+msgstr "Valoro 02 de servila adreso: _x_.___.___.___"
+
+msgctxt "#30090"
+msgid "Server Address Pt. 03: __x.___.___.___"
+msgstr "Valoro 03 de servila adreso: __x.___.___.___"
+
+msgctxt "#30091"
+msgid "Server Address Pt. 04: ___.x__.___.___"
+msgstr "Valoro 04 de servila adreso: ___.x__.___.___"
+
+msgctxt "#30092"
+msgid "Server Address Pt. 05: ___._x_.___.___"
+msgstr "Valoro 05 de servila adreso: ___._x_.___.___"
+
+msgctxt "#30093"
+msgid "Server Address Pt. 06: ___.__x.___.___"
+msgstr "Valoro 06 de servila adreso: ___.__x.___.___"
+
+msgctxt "#30094"
+msgid "Server Address Pt. 07: ___.___.x__.___"
+msgstr "Valoro 07 de servila adreso: ___.___.x__.___"
+
+msgctxt "#30095"
+msgid "Server Address Pt. 08: ___.___._x_.___"
+msgstr "Valoro 08 de servila adreso: ___.___._x_.___"
+
+msgctxt "#30096"
+msgid "Server Address Pt. 09: ___.___.__x.___"
+msgstr "Valoro 09 de servila adreso: ___.___.__x.___"
+
+msgctxt "#30097"
+msgid "Server Address Pt. 10: ___.___.___.x__"
+msgstr "Valoro 10 de servila adreso: ___.___.___.x__"
+
+msgctxt "#30098"
+msgid "Server Address Pt. 11: ___.___.___._x_"
+msgstr "Valoro 11 de servila adreso: ___.___.___._x_"
+
+msgctxt "#30099"
+msgid "Server Address Pt. 12: ___.___.___.__x"
+msgstr "Valoro 12 de servila adreso: ___.___.___.__x"
+
+#~ msgctxt "#30017"
+#~ msgid "Game Link Mode"
+#~ msgstr "Reĝimo Game Link"
+
+#~ msgctxt "#30018"
+#~ msgid "Network Link Port"
+#~ msgstr "Reta ligo-konektejo"
+
+#~ msgctxt "#30019"
+#~ msgid "Network Link Server Address Pt. 01: x__.___.___.___"
+#~ msgstr "Valoro 01 de servila adreso de reta ligo: x__.___.___.___"
+
+#~ msgctxt "#30020"
+#~ msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
+#~ msgstr "Valoro 02 de servila adreso de reta ligo: _x_.___.___.___"
+
+#~ msgctxt "#30021"
+#~ msgid "Network Link Server Address Pt. 03: __x.___.___.___"
+#~ msgstr "Valoro 03 de servila adreso de reta ligo: __x.___.___.___"
+
+#~ msgctxt "#30022"
+#~ msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
+#~ msgstr "Valoro 04 de servila adreso de reta ligo: ___.x__.___.___"
+
+#~ msgctxt "#30023"
+#~ msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
+#~ msgstr "Valoro 05 de servila adreso de reta ligo: ___._x_.___.___"
+
+#~ msgctxt "#30024"
+#~ msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
+#~ msgstr "Valoro 06 de servila adreso de reta ligo: ___.__x.___.___"
+
+#~ msgctxt "#30025"
+#~ msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
+#~ msgstr "Valoro 07 de servila adreso de reta ligo: ___.___.x__.___"
+
+#~ msgctxt "#30026"
+#~ msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
+#~ msgstr "Valoro 08 de servila adreso de reta ligo: ___.___._x_.___"
+
+#~ msgctxt "#30027"
+#~ msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
+#~ msgstr "Valoro 09 de servila adreso de reta ligo: ___.___.__x.___"
+
+#~ msgctxt "#30028"
+#~ msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
+#~ msgstr "Valoro 10 de servila adreso de reta ligo: ___.___.___.x__"
+
+#~ msgctxt "#30029"
+#~ msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
+#~ msgstr "Valoro 11 de servila adreso de reta ligo: ___.___.___._x_"
+
+#~ msgctxt "#30030"
+#~ msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
+#~ msgstr "Valoro 12 de servila adreso de reta ligo: ___.___.___.__x"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

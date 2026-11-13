@@ -93,62 +93,6 @@ msgctxt "#30016"
 msgid "Controller Rumble Strength"
 msgstr "控制器震动强度"
 
-msgctxt "#30017"
-msgid "Game Link Mode"
-msgstr "游戏连接模式"
-
-msgctxt "#30018"
-msgid "Network Link Port"
-msgstr "游戏连接端口"
-
-msgctxt "#30019"
-msgid "Network Link Server Address Pt. 01: x__.___.___.___"
-msgstr "网络连接服务器地址 Pt. 01:  x__.___.___.___"
-
-msgctxt "#30020"
-msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
-msgstr "网络连接服务器地址 Pt. 02: x__.___.___.___"
-
-msgctxt "#30021"
-msgid "Network Link Server Address Pt. 03: __x.___.___.___"
-msgstr "网络连接服务器地址 Pt. 03: x__.___.___.___"
-
-msgctxt "#30022"
-msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
-msgstr "网络连接服务器地址 Pt. 04: x__.___.___.___"
-
-msgctxt "#30023"
-msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
-msgstr "网络连接服务器地址 Pt. 05: x__.___.___.___"
-
-msgctxt "#30024"
-msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
-msgstr "网络连接服务器地址 Pt. 06: x__.___.___.___"
-
-msgctxt "#30025"
-msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
-msgstr "网络连接服务器地址 Pt. 07: x__.___.___.___"
-
-msgctxt "#30026"
-msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
-msgstr "网络连接服务器地址 Pt. 08: x__.___.___.___"
-
-msgctxt "#30027"
-msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
-msgstr "网络连接服务器地址 Pt. 09: x__.___.___.___"
-
-msgctxt "#30028"
-msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
-msgstr "网络连接服务器地址 Pt. 10:  x__.___.___.___"
-
-msgctxt "#30029"
-msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
-msgstr "网络连接服务器地址 Pt. 11:  x__.___.___.___"
-
-msgctxt "#30030"
-msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
-msgstr "网络连接服务器地址 Pt. 12:  x__.___.___.___"
-
 msgctxt "#30031"
 msgid "> TWB64 - Pack 3 Palette"
 msgstr "> TWB64 - Pack 3 调色板"
@@ -368,6 +312,118 @@ msgstr ""
 msgctxt "#30085"
 msgid "GBA"
 msgstr ""
+
+msgctxt "#30086"
+msgid "Link Mode"
+msgstr "连接模式"
+
+msgctxt "#30087"
+msgid "Port"
+msgstr "端口"
+
+msgctxt "#30088"
+msgid "Server Address Pt. 01: x__.___.___.___"
+msgstr "服务器地址 Pt. 01:  x__.___.___.___"
+
+msgctxt "#30089"
+msgid "Server Address Pt. 02: _x_.___.___.___"
+msgstr "服务器地址 Pt. 02:  x__.___.___.___"
+
+msgctxt "#30090"
+msgid "Server Address Pt. 03: __x.___.___.___"
+msgstr "服务器地址 Pt. 03:  x__.___.___.___"
+
+msgctxt "#30091"
+msgid "Server Address Pt. 04: ___.x__.___.___"
+msgstr "服务器地址 Pt. 04:  x__.___.___.___"
+
+msgctxt "#30092"
+msgid "Server Address Pt. 05: ___._x_.___.___"
+msgstr "服务器地址 Pt. 05:  x__.___.___.___"
+
+msgctxt "#30093"
+msgid "Server Address Pt. 06: ___.__x.___.___"
+msgstr "服务器地址 Pt. 06:  x__.___.___.___"
+
+msgctxt "#30094"
+msgid "Server Address Pt. 07: ___.___.x__.___"
+msgstr "服务器地址 Pt. 07:  x__.___.___.___"
+
+msgctxt "#30095"
+msgid "Server Address Pt. 08: ___.___._x_.___"
+msgstr "服务器地址 Pt. 08:  x__.___.___.___"
+
+msgctxt "#30096"
+msgid "Server Address Pt. 09: ___.___.__x.___"
+msgstr "服务器地址 Pt. 09:  x__.___.___.___"
+
+msgctxt "#30097"
+msgid "Server Address Pt. 10: ___.___.___.x__"
+msgstr "服务器地址 Pt. 10:  x__.___.___.___"
+
+msgctxt "#30098"
+msgid "Server Address Pt. 11: ___.___.___._x_"
+msgstr "服务器地址 Pt. 11:  x__.___.___.___"
+
+msgctxt "#30099"
+msgid "Server Address Pt. 12: ___.___.___.__x"
+msgstr "服务器地址 Pt. 12:  x__.___.___.___"
+
+#~ msgctxt "#30017"
+#~ msgid "Game Link Mode"
+#~ msgstr "游戏连接模式"
+
+#~ msgctxt "#30018"
+#~ msgid "Network Link Port"
+#~ msgstr "游戏连接端口"
+
+#~ msgctxt "#30019"
+#~ msgid "Network Link Server Address Pt. 01: x__.___.___.___"
+#~ msgstr "网络连接服务器地址 Pt. 01:  x__.___.___.___"
+
+#~ msgctxt "#30020"
+#~ msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
+#~ msgstr "网络连接服务器地址 Pt. 02: x__.___.___.___"
+
+#~ msgctxt "#30021"
+#~ msgid "Network Link Server Address Pt. 03: __x.___.___.___"
+#~ msgstr "网络连接服务器地址 Pt. 03: x__.___.___.___"
+
+#~ msgctxt "#30022"
+#~ msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
+#~ msgstr "网络连接服务器地址 Pt. 04: x__.___.___.___"
+
+#~ msgctxt "#30023"
+#~ msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
+#~ msgstr "网络连接服务器地址 Pt. 05: x__.___.___.___"
+
+#~ msgctxt "#30024"
+#~ msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
+#~ msgstr "网络连接服务器地址 Pt. 06: x__.___.___.___"
+
+#~ msgctxt "#30025"
+#~ msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
+#~ msgstr "网络连接服务器地址 Pt. 07: x__.___.___.___"
+
+#~ msgctxt "#30026"
+#~ msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
+#~ msgstr "网络连接服务器地址 Pt. 08: x__.___.___.___"
+
+#~ msgctxt "#30027"
+#~ msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
+#~ msgstr "网络连接服务器地址 Pt. 09: x__.___.___.___"
+
+#~ msgctxt "#30028"
+#~ msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
+#~ msgstr "网络连接服务器地址 Pt. 10:  x__.___.___.___"
+
+#~ msgctxt "#30029"
+#~ msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
+#~ msgstr "网络连接服务器地址 Pt. 11:  x__.___.___.___"
+
+#~ msgctxt "#30030"
+#~ msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
+#~ msgstr "网络连接服务器地址 Pt. 12:  x__.___.___.___"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

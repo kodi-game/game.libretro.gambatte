@@ -93,62 +93,6 @@ msgctxt "#30016"
 msgid "Controller Rumble Strength"
 msgstr "Síla vibrací ovladače"
 
-msgctxt "#30017"
-msgid "Game Link Mode"
-msgstr "Režim Game Link"
-
-msgctxt "#30018"
-msgid "Network Link Port"
-msgstr "Port síťového propojení"
-
-msgctxt "#30019"
-msgid "Network Link Server Address Pt. 01: x__.___.___.___"
-msgstr "Adresa serveru síťového propojení, část 01: x__.___.___.___"
-
-msgctxt "#30020"
-msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
-msgstr "Adresa serveru síťového propojení, část 02: _x_.___.___.___"
-
-msgctxt "#30021"
-msgid "Network Link Server Address Pt. 03: __x.___.___.___"
-msgstr "Adresa serveru síťového propojení, část 03: __x.___.___.___"
-
-msgctxt "#30022"
-msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
-msgstr "Adresa serveru síťového propojení, část 04: ___.x__.___.___"
-
-msgctxt "#30023"
-msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
-msgstr "Adresa serveru síťového propojení, část 05: ___._x_.___.___"
-
-msgctxt "#30024"
-msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
-msgstr "Adresa serveru síťového propojení, část 06: ___.__x.___.___"
-
-msgctxt "#30025"
-msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
-msgstr "Adresa serveru síťového propojení, část 07: ___.___.x__.___"
-
-msgctxt "#30026"
-msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
-msgstr "Adresa serveru síťového propojení, část 08: ___.___._x_.___"
-
-msgctxt "#30027"
-msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
-msgstr "Adresa serveru síťového propojení, část 09: ___.___.__x.___"
-
-msgctxt "#30028"
-msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
-msgstr "Adresa serveru síťového propojení, část 10: ___.___.___.x__"
-
-msgctxt "#30029"
-msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
-msgstr "Adresa serveru síťového propojení, část 11: ___.___.___._x_"
-
-msgctxt "#30030"
-msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
-msgstr "Adresa serveru síťového propojení, část 12: ___.___.___.__x"
-
 msgctxt "#30031"
 msgid "> TWB64 - Pack 3 Palette"
 msgstr "> Paleta TWB64 - balíček 3"
@@ -368,3 +312,59 @@ msgstr "GB"
 msgctxt "#30085"
 msgid "GBA"
 msgstr "GBA"
+
+#~ msgctxt "#30017"
+#~ msgid "Game Link Mode"
+#~ msgstr "Režim Game Link"
+
+#~ msgctxt "#30018"
+#~ msgid "Network Link Port"
+#~ msgstr "Port síťového propojení"
+
+#~ msgctxt "#30019"
+#~ msgid "Network Link Server Address Pt. 01: x__.___.___.___"
+#~ msgstr "Adresa serveru síťového propojení, část 01: x__.___.___.___"
+
+#~ msgctxt "#30020"
+#~ msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
+#~ msgstr "Adresa serveru síťového propojení, část 02: _x_.___.___.___"
+
+#~ msgctxt "#30021"
+#~ msgid "Network Link Server Address Pt. 03: __x.___.___.___"
+#~ msgstr "Adresa serveru síťového propojení, část 03: __x.___.___.___"
+
+#~ msgctxt "#30022"
+#~ msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
+#~ msgstr "Adresa serveru síťového propojení, část 04: ___.x__.___.___"
+
+#~ msgctxt "#30023"
+#~ msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
+#~ msgstr "Adresa serveru síťového propojení, část 05: ___._x_.___.___"
+
+#~ msgctxt "#30024"
+#~ msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
+#~ msgstr "Adresa serveru síťového propojení, část 06: ___.__x.___.___"
+
+#~ msgctxt "#30025"
+#~ msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
+#~ msgstr "Adresa serveru síťového propojení, část 07: ___.___.x__.___"
+
+#~ msgctxt "#30026"
+#~ msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
+#~ msgstr "Adresa serveru síťového propojení, část 08: ___.___._x_.___"
+
+#~ msgctxt "#30027"
+#~ msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
+#~ msgstr "Adresa serveru síťového propojení, část 09: ___.___.__x.___"
+
+#~ msgctxt "#30028"
+#~ msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
+#~ msgstr "Adresa serveru síťového propojení, část 10: ___.___.___.x__"
+
+#~ msgctxt "#30029"
+#~ msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
+#~ msgstr "Adresa serveru síťového propojení, část 11: ___.___.___._x_"
+
+#~ msgctxt "#30030"
+#~ msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
+#~ msgstr "Adresa serveru síťového propojení, část 12: ___.___.___.__x"

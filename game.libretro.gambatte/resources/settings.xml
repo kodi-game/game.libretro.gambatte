@@ -738,7 +738,7 @@
 		</category>
 		<category id="gb_link" label="30068" help="30069">
 			<group id="1">
-				<setting id="gambatte_gb_link_mode" type="string" label="30017" help="30070">
+				<setting id="gambatte_gb_link_mode" type="string" label="30086" help="30070">
 					<level>0</level>
 					<default>Not Connected</default>
 					<constraints>
@@ -750,7 +750,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="gambatte_gb_link_network_port" type="string" label="30018" help="30071">
+				<setting id="gambatte_gb_link_network_port" type="string" label="30087" help="30071">
 					<level>0</level>
 					<default>56400</default>
 					<constraints>
@@ -780,7 +780,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="gambatte_gb_link_network_server_ip_1" type="string" label="30019" help="30072">
+				<setting id="gambatte_gb_link_network_server_ip_1" type="string" label="30088" help="30072">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -799,7 +799,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="gambatte_gb_link_network_server_ip_2" type="string" label="30020" help="30073">
+				<setting id="gambatte_gb_link_network_server_ip_2" type="string" label="30089" help="30073">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -818,7 +818,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="gambatte_gb_link_network_server_ip_3" type="string" label="30021" help="30074">
+				<setting id="gambatte_gb_link_network_server_ip_3" type="string" label="30090" help="30074">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -837,7 +837,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="gambatte_gb_link_network_server_ip_4" type="string" label="30022" help="30075">
+				<setting id="gambatte_gb_link_network_server_ip_4" type="string" label="30091" help="30075">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -856,7 +856,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="gambatte_gb_link_network_server_ip_5" type="string" label="30023" help="30076">
+				<setting id="gambatte_gb_link_network_server_ip_5" type="string" label="30092" help="30076">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -875,7 +875,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="gambatte_gb_link_network_server_ip_6" type="string" label="30024" help="30077">
+				<setting id="gambatte_gb_link_network_server_ip_6" type="string" label="30093" help="30077">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -894,7 +894,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="gambatte_gb_link_network_server_ip_7" type="string" label="30025" help="30078">
+				<setting id="gambatte_gb_link_network_server_ip_7" type="string" label="30094" help="30078">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -913,7 +913,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="gambatte_gb_link_network_server_ip_8" type="string" label="30026" help="30079">
+				<setting id="gambatte_gb_link_network_server_ip_8" type="string" label="30095" help="30079">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -932,7 +932,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="gambatte_gb_link_network_server_ip_9" type="string" label="30027" help="30080">
+				<setting id="gambatte_gb_link_network_server_ip_9" type="string" label="30096" help="30080">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -951,7 +951,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="gambatte_gb_link_network_server_ip_10" type="string" label="30028" help="30081">
+				<setting id="gambatte_gb_link_network_server_ip_10" type="string" label="30097" help="30081">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -970,7 +970,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="gambatte_gb_link_network_server_ip_11" type="string" label="30029" help="30082">
+				<setting id="gambatte_gb_link_network_server_ip_11" type="string" label="30098" help="30082">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -989,7 +989,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="gambatte_gb_link_network_server_ip_12" type="string" label="30030" help="30083">
+				<setting id="gambatte_gb_link_network_server_ip_12" type="string" label="30099" help="30083">
 					<level>0</level>
 					<default>0</default>
 					<constraints>

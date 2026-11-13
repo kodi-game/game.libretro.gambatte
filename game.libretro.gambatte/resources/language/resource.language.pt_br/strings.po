@@ -93,62 +93,6 @@ msgctxt "#30016"
 msgid "Controller Rumble Strength"
 msgstr "Força da vibração do controle"
 
-msgctxt "#30017"
-msgid "Game Link Mode"
-msgstr "Modo do Game Link"
-
-msgctxt "#30018"
-msgid "Network Link Port"
-msgstr "Porta da conexão de rede"
-
-msgctxt "#30019"
-msgid "Network Link Server Address Pt. 01: x__.___.___.___"
-msgstr "01 — Valor do endereço do servidor de rede: x__.___.___.___"
-
-msgctxt "#30020"
-msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
-msgstr "02 — Valor do endereço do servidor de rede: _x_.___.___.___"
-
-msgctxt "#30021"
-msgid "Network Link Server Address Pt. 03: __x.___.___.___"
-msgstr "03 — Valor do endereço do servidor de rede: __x.___.___.___"
-
-msgctxt "#30022"
-msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
-msgstr "04 — Valor do endereço do servidor de rede: ___.x__.___.___"
-
-msgctxt "#30023"
-msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
-msgstr "05 — Valor do endereço do servidor de rede: ___._x_.___.___"
-
-msgctxt "#30024"
-msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
-msgstr "06 — Valor do endereço do servidor de rede: ___.__x.___.___"
-
-msgctxt "#30025"
-msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
-msgstr "07 — Valor do endereço do servidor de rede: ___.___.x__.___"
-
-msgctxt "#30026"
-msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
-msgstr "08 — Valor do endereço do servidor de rede: ___.___._x_.___"
-
-msgctxt "#30027"
-msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
-msgstr "09 — Valor do endereço do servidor de rede: ___.___.__x.___"
-
-msgctxt "#30028"
-msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
-msgstr "10 — Valor do endereço do servidor de rede: ___.___.___.x__"
-
-msgctxt "#30029"
-msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
-msgstr "11 — Valor do endereço do servidor de rede: ___.___.___._x_"
-
-msgctxt "#30030"
-msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
-msgstr "12 — Valor do endereço do servidor de rede: ___.___.___.__x"
-
 msgctxt "#30031"
 msgid "> TWB64 - Pack 3 Palette"
 msgstr "> TWB64 — Pacote de paleta 3"
@@ -421,6 +365,118 @@ msgstr ""
 msgctxt "#30085"
 msgid "GBA"
 msgstr ""
+
+msgctxt "#30086"
+msgid "Link Mode"
+msgstr "Modo de conexão"
+
+msgctxt "#30087"
+msgid "Port"
+msgstr "Porta"
+
+msgctxt "#30088"
+msgid "Server Address Pt. 01: x__.___.___.___"
+msgstr "01 — Valor do endereço do servidor: x__.___.___.___"
+
+msgctxt "#30089"
+msgid "Server Address Pt. 02: _x_.___.___.___"
+msgstr "02 — Valor do endereço do servidor: _x_.___.___.___"
+
+msgctxt "#30090"
+msgid "Server Address Pt. 03: __x.___.___.___"
+msgstr "03 — Valor do endereço do servidor: __x.___.___.___"
+
+msgctxt "#30091"
+msgid "Server Address Pt. 04: ___.x__.___.___"
+msgstr "04 — Valor do endereço do servidor: ___.x__.___.___"
+
+msgctxt "#30092"
+msgid "Server Address Pt. 05: ___._x_.___.___"
+msgstr "05 — Valor do endereço do servidor: ___._x_.___.___"
+
+msgctxt "#30093"
+msgid "Server Address Pt. 06: ___.__x.___.___"
+msgstr "06 — Valor do endereço do servidor: ___.__x.___.___"
+
+msgctxt "#30094"
+msgid "Server Address Pt. 07: ___.___.x__.___"
+msgstr "07 — Valor do endereço do servidor: ___.___.x__.___"
+
+msgctxt "#30095"
+msgid "Server Address Pt. 08: ___.___._x_.___"
+msgstr "08 — Valor do endereço do servidor: ___.___._x_.___"
+
+msgctxt "#30096"
+msgid "Server Address Pt. 09: ___.___.__x.___"
+msgstr "09 — Valor do endereço do servidor: ___.___.__x.___"
+
+msgctxt "#30097"
+msgid "Server Address Pt. 10: ___.___.___.x__"
+msgstr "10 — Valor do endereço do servidor: ___.___.___.x__"
+
+msgctxt "#30098"
+msgid "Server Address Pt. 11: ___.___.___._x_"
+msgstr "11 — Valor do endereço do servidor: ___.___.___._x_"
+
+msgctxt "#30099"
+msgid "Server Address Pt. 12: ___.___.___.__x"
+msgstr "12 — Valor do endereço do servidor: ___.___.___.__x"
+
+#~ msgctxt "#30017"
+#~ msgid "Game Link Mode"
+#~ msgstr "Modo do Game Link"
+
+#~ msgctxt "#30018"
+#~ msgid "Network Link Port"
+#~ msgstr "Porta da conexão de rede"
+
+#~ msgctxt "#30019"
+#~ msgid "Network Link Server Address Pt. 01: x__.___.___.___"
+#~ msgstr "01 — Valor do endereço do servidor de rede: x__.___.___.___"
+
+#~ msgctxt "#30020"
+#~ msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
+#~ msgstr "02 — Valor do endereço do servidor de rede: _x_.___.___.___"
+
+#~ msgctxt "#30021"
+#~ msgid "Network Link Server Address Pt. 03: __x.___.___.___"
+#~ msgstr "03 — Valor do endereço do servidor de rede: __x.___.___.___"
+
+#~ msgctxt "#30022"
+#~ msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
+#~ msgstr "04 — Valor do endereço do servidor de rede: ___.x__.___.___"
+
+#~ msgctxt "#30023"
+#~ msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
+#~ msgstr "05 — Valor do endereço do servidor de rede: ___._x_.___.___"
+
+#~ msgctxt "#30024"
+#~ msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
+#~ msgstr "06 — Valor do endereço do servidor de rede: ___.__x.___.___"
+
+#~ msgctxt "#30025"
+#~ msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
+#~ msgstr "07 — Valor do endereço do servidor de rede: ___.___.x__.___"
+
+#~ msgctxt "#30026"
+#~ msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
+#~ msgstr "08 — Valor do endereço do servidor de rede: ___.___._x_.___"
+
+#~ msgctxt "#30027"
+#~ msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
+#~ msgstr "09 — Valor do endereço do servidor de rede: ___.___.__x.___"
+
+#~ msgctxt "#30028"
+#~ msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
+#~ msgstr "10 — Valor do endereço do servidor de rede: ___.___.___.x__"
+
+#~ msgctxt "#30029"
+#~ msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
+#~ msgstr "11 — Valor do endereço do servidor de rede: ___.___.___._x_"
+
+#~ msgctxt "#30030"
+#~ msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
+#~ msgstr "12 — Valor do endereço do servidor de rede: ___.___.___.__x"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

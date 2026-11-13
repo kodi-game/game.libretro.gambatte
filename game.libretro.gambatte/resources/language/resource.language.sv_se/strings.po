@@ -59,11 +59,11 @@ msgstr "Färgkorrigeringsläge"
 
 msgctxt "#30008"
 msgid "Color Correction - Frontlight Position"
-msgstr "Färgkorrigering – frontbelysningens position"
+msgstr "Färgkorrigering - position för frontbelysning"
 
 msgctxt "#30009"
 msgid "Dark Filter Level (%)"
-msgstr "Mörkt filternivå (%)"
+msgstr "Mörkerfilternivå (%)"
 
 msgctxt "#30010"
 msgid "Interframe Blending"
@@ -75,11 +75,11 @@ msgstr "Ljudomsamplare"
 
 msgctxt "#30012"
 msgid "Emulated Hardware (Restart Required)"
-msgstr "Emulerad maskinvara (kräver omstart)"
+msgstr "Emulerad hårdvara (Omstart krävs)"
 
 msgctxt "#30013"
 msgid "Use Official Bootloader (Restart Required)"
-msgstr "Använd officiell starthanterare (kräver omstart)"
+msgstr "Använd officiell bootloader (omstart krävs)"
 
 msgctxt "#30014"
 msgid "Allow Opposing Directions"
@@ -87,67 +87,11 @@ msgstr "Tillåt motsatta riktningar"
 
 msgctxt "#30015"
 msgid "Turbo Button Period"
-msgstr "Period för turboknapp"
+msgstr "Period för turbo-knapp"
 
 msgctxt "#30016"
 msgid "Controller Rumble Strength"
 msgstr "Vibrationsstyrka för handkontroll"
-
-msgctxt "#30017"
-msgid "Game Link Mode"
-msgstr "Game Link-läge"
-
-msgctxt "#30018"
-msgid "Network Link Port"
-msgstr "Port för nätverkslänk"
-
-msgctxt "#30019"
-msgid "Network Link Server Address Pt. 01: x__.___.___.___"
-msgstr "Serveradress för nätverkslänk del 01: x__.___.___.___"
-
-msgctxt "#30020"
-msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
-msgstr "Serveradress för nätverkslänk del 02: _x_.___.___.___"
-
-msgctxt "#30021"
-msgid "Network Link Server Address Pt. 03: __x.___.___.___"
-msgstr "Serveradress för nätverkslänk del 03: __x.___.___.___"
-
-msgctxt "#30022"
-msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
-msgstr "Serveradress för nätverkslänk del 04: ___.x__.___.___"
-
-msgctxt "#30023"
-msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
-msgstr "Serveradress för nätverkslänk del 05: ___._x_.___.___"
-
-msgctxt "#30024"
-msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
-msgstr "Serveradress för nätverkslänk del 06: ___.__x.___.___"
-
-msgctxt "#30025"
-msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
-msgstr "Serveradress för nätverkslänk del 07: ___.___.x__.___"
-
-msgctxt "#30026"
-msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
-msgstr "Serveradress för nätverkslänk del 08: ___.___._x_.___"
-
-msgctxt "#30027"
-msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
-msgstr "Serveradress för nätverkslänk del 09: ___.___.__x.___"
-
-msgctxt "#30028"
-msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
-msgstr "Serveradress för nätverkslänk del 10: ___.___.___.x__"
-
-msgctxt "#30029"
-msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
-msgstr "Serveradress för nätverkslänk del 11: ___.___.___._x_"
-
-msgctxt "#30030"
-msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
-msgstr "Serveradress för nätverkslänk Pt. 12: ___.___.___.___.__x"
 
 msgctxt "#30031"
 msgid "> TWB64 - Pack 3 Palette"
@@ -179,7 +123,7 @@ msgstr "Anpassa"
 
 msgctxt "#30038"
 msgid "Selects palette used for colorizing Game Boy games when 'GB Colorization' is set to 'Internal', or when 'GB Colorization' is set to 'Auto' and game has no pre-defined SGB/GBC palette. 'GB' palettes mimic the display of original Game Boy hardware. 'GBC' palettes are identical to the built-in presets of the Game Boy Color. 'SGB' palettes are identical to the built-in presets of the Super Game Boy."
-msgstr "Väljer en palett som används för att färglägga Game Boy-spel när \"GB Färgläggning\" är inställd på \"Intern\", eller när \"GB Färgläggning\" är inställd på \"Auto\" och spelet inte har någon fördefinierad SGB/GBC-palett. \"GB\"-paletter återskapar den ursprungliga Game Boy-hårdvaran. \"GBC\"-paletter är identiska med de inbyggda förinställningarna för Game Boy Color. \"SGB\"-paletter är identiska med de inbyggda förinställningarna för Super Game Boy."
+msgstr "Väljer en palett som används för att färglägga Game Boy-spel när ”GB-färgläggning” är inställd på ”Intern”, eller när ”GB-färgläggning” är inställd på ”Automatiskt” och spelet inte har någon fördefinierad SGB/GBC-palett. GB-paletter återskapar skärmen hos ursprunglig Game Boy-hårdvara. GBC-paletter är identiska med de inbyggda förinställningarna för Game Boy Color. SGB-paletter är identiska med de inbyggda förinställningarna för Super Game Boy."
 
 msgctxt "#30039"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 1'."
@@ -191,7 +135,7 @@ msgstr "Väljer intern färgpalett när \"Intern Palett\" är inställd på \"TW
 
 msgctxt "#30041"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'TWB64 - Pack 3'."
-msgstr "Väljer intern färgsättningspalett när ”Intern palett” är inställd på ”TWB64 – palettpaket 3”."
+msgstr "Väljer intern färgläggningspalett när ”Intern palett” är satt till ”TWB64 - Pack 3”."
 
 msgctxt "#30042"
 msgid "Selects internal colorization palette when 'Internal Palette' is set to 'PixelShift - Pack 1'."
@@ -199,7 +143,7 @@ msgstr "Väljer intern färgsättningspalett när ”Intern palett” är instä
 
 msgctxt "#30043"
 msgid "Adjusts output colors to match the display of real Game Boy Color hardware. 'GBC Only' ensures that correction will only be applied when playing Game Boy Color games, or when using a Game Boy Color palette to colorize a Game Boy game. 'Always' applies color correction to all content, and will produce unexpected/suboptimal results when using 'GB' or 'SGB' internal color palettes."
-msgstr "Justerar utgångsfärgerna så att de matchar visningen på en riktig Game Boy Color-hårdvara. ”Endast GBC” säkerställer att korrigeringen endast tillämpas när du spelar Game Boy Color-spel eller när du använder en Game Boy Color-palett för att färglägga ett Game Boy-spel. 'Always' tillämpar färgkorrigering på allt innehåll och ger oväntade/suboptimala resultat när du använder interna färgpaletter av typen 'GB' eller 'SGB'."
+msgstr "Justerar utgångsfärgerna så att de matchar visningen på riktig Game Boy Color-hårdvara. ”Endast GBC” säkerställer att korrigeringen endast tillämpas när du spelar Game Boy Color-spel eller när du använder en Game Boy Color-palett för att färglägga ett Game Boy-spel. ”Alltid” tillämpar färgkorrigering på allt innehåll och ger oväntade eller mindre lämpliga resultat när du använder interna färgpaletter av typen GB eller SGB."
 
 msgctxt "#30044"
 msgid "GBC Only"
@@ -223,7 +167,7 @@ msgstr "Snabb"
 
 msgctxt "#30049"
 msgid "Simulates the physical response of the Game Boy Color LCD panel when illuminated from different angles. 'Central' represents standard color reproduction. 'Above Screen' increases brightness. 'Below Screen' reduces brightness. This setting only applies when 'Color Correction Mode' is set to 'Accurate'."
-msgstr "Simulerar den fysiska responsen hos Game Boy Color LCD-panelen när den belyses från olika vinklar. ”Central” representerar standard färgåtergivning. ”Ovanför skärmen” ökar ljusstyrkan. ”Nedanför skärmen” minskar ljusstyrkan. Denna inställning gäller endast när ”Färgkorrigeringsläget” är inställt på ”Exakt”."
+msgstr "Simulerar den fysiska responsen hos Game Boy Color LCD-panelen när den belyses från olika vinklar. ”Central” representerar standardåtergivning av färger. ”Ovanför skärmen” ökar ljusstyrkan. ”Nedanför skärmen” minskar ljusstyrkan. Inställningen gäller endast när ”Färgkorrigeringsläge” är inställt på ”Exakt”."
 
 msgctxt "#30050"
 msgid "Central"
@@ -247,7 +191,7 @@ msgstr "Simulerar LCD-efterbildseffekter. ”Enkel” utför en 50:50-mix av den
 
 msgctxt "#30055"
 msgid "Simple"
-msgstr "Simpel"
+msgstr "Enkel"
 
 msgctxt "#30056"
 msgid "LCD Ghosting (Accurate)"
@@ -255,11 +199,11 @@ msgstr "LCD-efterbilder (Noggrann)"
 
 msgctxt "#30057"
 msgid "LCD Ghosting (Fast)"
-msgstr "LCD-efterbilder (Snabb)"
+msgstr "LCD-efterbilder (snabb)"
 
 msgctxt "#30058"
 msgid "Specify which algorithm to use when resampling generated audio (the Game Boy audio rate is limited only by its CPU write speed, such that 'native' frequencies are impractical on modern sound devices and must be downsampled). 'Sinc' produces the highest quality. 'Cosine' improves performance on low-end hardware."
-msgstr "Ange vilken algoritm som ska användas vid omsampling av genererat ljud (Game Boys ljudfrekvens begränsas endast av processorns skrivhastighet, vilket innebär att ”ursprungliga” frekvenser är opraktiska på moderna ljudenheter och måste nedsamplas). ”Sinc” ger den högsta kvaliteten. ”Cosinus” förbättrar prestandan på mindre avancerad hårdvara."
+msgstr "Ange vilken algoritm som ska användas vid omsampling av genererat ljud. Game Boys ljudfrekvens begränsas endast av processorns skrivhastighet, vilket innebär att ursprungliga frekvenser är opraktiska på moderna ljudenheter och måste nedsamplas. ”Sinc” ger högst kvalitet. ”Cosinus” förbättrar prestandan på mindre avancerad hårdvara."
 
 msgctxt "#30059"
 msgid "Sinc"
@@ -271,7 +215,7 @@ msgstr "Cosinus"
 
 msgctxt "#30061"
 msgid "Specify which type of hardware to emulate. 'Auto' is recommended. Selecting 'GBA' unlocks extra features in certain 'GBA Enhanced' Game Boy Color games (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...)."
-msgstr "Ange vilken typ av maskinvara som ska emuleras. 'Auto' rekommenderas. Om du väljer 'GBA' låses extrafunktioner upp i vissa 'GBA Enhanced' Game Boy Color-spel (Shantae, Wendy - Every Witch Way, Legend of Zelda: Oracle of Seasons/Ages...)."
+msgstr "Ange vilken typ av maskinvara som ska emuleras. ”Automatiskt” rekommenderas. Om du väljer ”GBA” låses extrafunktioner upp i vissa Game Boy Color-spel med GBA Enhanced-stöd, som Shantae, Wendy - Every Witch Way och Legend of Zelda: Oracle of Seasons/Ages."
 
 msgctxt "#30062"
 msgid "Enable support for official Game Boy and Game Boy Color bootloaders, with corresponding start-up logo animations."
@@ -279,7 +223,7 @@ msgstr "Aktivera stöd för officiella bootloaders för Game Boy och Game Boy Co
 
 msgctxt "#30063"
 msgid "Enabling this will allow pressing/quickly alternating/holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr "Om du aktiverar detta kan du trycka/snabbt växla/hålla i både vänster och höger (eller upp och ner) riktning samtidigt. Detta kan orsaka rörelsebaserade glitches."
+msgstr "När detta aktiveras kan du trycka ned, snabbt växla mellan eller hålla både vänster och höger, eller upp och ned, samtidigt. Det kan orsaka rörelsebaserade fel."
 
 msgctxt "#30064"
 msgid "Specify the repeat interval (in frames) when holding down the Turbo A/B buttons."
@@ -287,7 +231,7 @@ msgstr "Ange repetitionsintervallet (i bildrutor) när du håller Turbo A/B-knap
 
 msgctxt "#30065"
 msgid "Enables haptic feedback effects for supported games (Pokemon Pinball, Perfect Dark...)."
-msgstr "Aktiverar haptiska återkopplingseffekter för spel som stöds (Pokemon Pinball, Perfect Dark...)."
+msgstr "Aktiverar haptisk återkoppling i spel som stöds, till exempel Pokemon Pinball och Perfect Dark."
 
 msgctxt "#30066"
 msgid "Show Game Link Settings"
@@ -368,6 +312,118 @@ msgstr "GB"
 msgctxt "#30085"
 msgid "GBA"
 msgstr "GBA"
+
+msgctxt "#30086"
+msgid "Link Mode"
+msgstr "Länkläge"
+
+msgctxt "#30087"
+msgid "Port"
+msgstr "Port för nätverkslänk"
+
+msgctxt "#30088"
+msgid "Server Address Pt. 01: x__.___.___.___"
+msgstr "Serveradress del 01: x__.___.___.___"
+
+msgctxt "#30089"
+msgid "Server Address Pt. 02: _x_.___.___.___"
+msgstr "Serveradress del 02: _x_.___.___.___"
+
+msgctxt "#30090"
+msgid "Server Address Pt. 03: __x.___.___.___"
+msgstr "Serveradress del 03: __x.___.___.___"
+
+msgctxt "#30091"
+msgid "Server Address Pt. 04: ___.x__.___.___"
+msgstr "Serveradress del 04: ___.x__.___.___"
+
+msgctxt "#30092"
+msgid "Server Address Pt. 05: ___._x_.___.___"
+msgstr "Serveradress del 05: ___._x_.___.___"
+
+msgctxt "#30093"
+msgid "Server Address Pt. 06: ___.__x.___.___"
+msgstr "Serveradress del 06: ___.__x.___.___"
+
+msgctxt "#30094"
+msgid "Server Address Pt. 07: ___.___.x__.___"
+msgstr "Serveradress del 07: ___.___.x__.___"
+
+msgctxt "#30095"
+msgid "Server Address Pt. 08: ___.___._x_.___"
+msgstr "Serveradress del 08: ___.___._x_.___"
+
+msgctxt "#30096"
+msgid "Server Address Pt. 09: ___.___.__x.___"
+msgstr "Serveradress del 09: ___.___.__x.___"
+
+msgctxt "#30097"
+msgid "Server Address Pt. 10: ___.___.___.x__"
+msgstr "Serveradress del 10: ___.___.___.x__"
+
+msgctxt "#30098"
+msgid "Server Address Pt. 11: ___.___.___._x_"
+msgstr "Serveradress del 11: ___.___.___._x_"
+
+msgctxt "#30099"
+msgid "Server Address Pt. 12: ___.___.___.__x"
+msgstr "Serveradress, del 12: ___.___.___.__x"
+
+#~ msgctxt "#30017"
+#~ msgid "Game Link Mode"
+#~ msgstr "Game Link-läge"
+
+#~ msgctxt "#30018"
+#~ msgid "Network Link Port"
+#~ msgstr "Port för nätverkslänk"
+
+#~ msgctxt "#30019"
+#~ msgid "Network Link Server Address Pt. 01: x__.___.___.___"
+#~ msgstr "Serveradress för nätverkslänk del 01: x__.___.___.___"
+
+#~ msgctxt "#30020"
+#~ msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
+#~ msgstr "Serveradress för nätverkslänk del 02: _x_.___.___.___"
+
+#~ msgctxt "#30021"
+#~ msgid "Network Link Server Address Pt. 03: __x.___.___.___"
+#~ msgstr "Serveradress för nätverkslänk del 03: __x.___.___.___"
+
+#~ msgctxt "#30022"
+#~ msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
+#~ msgstr "Serveradress för nätverkslänk del 04: ___.x__.___.___"
+
+#~ msgctxt "#30023"
+#~ msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
+#~ msgstr "Serveradress för nätverkslänk del 05: ___._x_.___.___"
+
+#~ msgctxt "#30024"
+#~ msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
+#~ msgstr "Serveradress för nätverkslänk del 06: ___.__x.___.___"
+
+#~ msgctxt "#30025"
+#~ msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
+#~ msgstr "Serveradress för nätverkslänk del 07: ___.___.x__.___"
+
+#~ msgctxt "#30026"
+#~ msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
+#~ msgstr "Serveradress för nätverkslänk del 08: ___.___._x_.___"
+
+#~ msgctxt "#30027"
+#~ msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
+#~ msgstr "Serveradress för nätverkslänk del 09: ___.___.__x.___"
+
+#~ msgctxt "#30028"
+#~ msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
+#~ msgstr "Serveradress för nätverkslänk del 10: ___.___.___.x__"
+
+#~ msgctxt "#30029"
+#~ msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
+#~ msgstr "Serveradress för nätverkslänk del 11: ___.___.___._x_"
+
+#~ msgctxt "#30030"
+#~ msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
+#~ msgstr "Serveradress för nätverkslänk Pt. 12: ___.___.___.___.__x"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

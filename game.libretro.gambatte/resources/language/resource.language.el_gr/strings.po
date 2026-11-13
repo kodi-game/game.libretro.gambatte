@@ -93,62 +93,6 @@ msgctxt "#30016"
 msgid "Controller Rumble Strength"
 msgstr ""
 
-msgctxt "#30017"
-msgid "Game Link Mode"
-msgstr ""
-
-msgctxt "#30018"
-msgid "Network Link Port"
-msgstr ""
-
-msgctxt "#30019"
-msgid "Network Link Server Address Pt. 01: x__.___.___.___"
-msgstr ""
-
-msgctxt "#30020"
-msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
-msgstr ""
-
-msgctxt "#30021"
-msgid "Network Link Server Address Pt. 03: __x.___.___.___"
-msgstr ""
-
-msgctxt "#30022"
-msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
-msgstr ""
-
-msgctxt "#30023"
-msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
-msgstr ""
-
-msgctxt "#30024"
-msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
-msgstr ""
-
-msgctxt "#30025"
-msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
-msgstr ""
-
-msgctxt "#30026"
-msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
-msgstr ""
-
-msgctxt "#30027"
-msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
-msgstr ""
-
-msgctxt "#30028"
-msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
-msgstr ""
-
-msgctxt "#30029"
-msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
-msgstr ""
-
-msgctxt "#30030"
-msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
-msgstr ""
-
 msgctxt "#30031"
 msgid "> TWB64 - Pack 3 Palette"
 msgstr ""
@@ -368,3 +312,115 @@ msgstr ""
 msgctxt "#30085"
 msgid "GBA"
 msgstr ""
+
+msgctxt "#30086"
+msgid "Link Mode"
+msgstr ""
+
+msgctxt "#30087"
+msgid "Port"
+msgstr "Θύρα"
+
+msgctxt "#30088"
+msgid "Server Address Pt. 01: x__.___.___.___"
+msgstr ""
+
+msgctxt "#30089"
+msgid "Server Address Pt. 02: _x_.___.___.___"
+msgstr ""
+
+msgctxt "#30090"
+msgid "Server Address Pt. 03: __x.___.___.___"
+msgstr ""
+
+msgctxt "#30091"
+msgid "Server Address Pt. 04: ___.x__.___.___"
+msgstr ""
+
+msgctxt "#30092"
+msgid "Server Address Pt. 05: ___._x_.___.___"
+msgstr ""
+
+msgctxt "#30093"
+msgid "Server Address Pt. 06: ___.__x.___.___"
+msgstr ""
+
+msgctxt "#30094"
+msgid "Server Address Pt. 07: ___.___.x__.___"
+msgstr ""
+
+msgctxt "#30095"
+msgid "Server Address Pt. 08: ___.___._x_.___"
+msgstr ""
+
+msgctxt "#30096"
+msgid "Server Address Pt. 09: ___.___.__x.___"
+msgstr ""
+
+msgctxt "#30097"
+msgid "Server Address Pt. 10: ___.___.___.x__"
+msgstr ""
+
+msgctxt "#30098"
+msgid "Server Address Pt. 11: ___.___.___._x_"
+msgstr ""
+
+msgctxt "#30099"
+msgid "Server Address Pt. 12: ___.___.___.__x"
+msgstr ""
+
+#~ msgctxt "#30017"
+#~ msgid "Game Link Mode"
+#~ msgstr ""
+
+#~ msgctxt "#30018"
+#~ msgid "Network Link Port"
+#~ msgstr ""
+
+#~ msgctxt "#30019"
+#~ msgid "Network Link Server Address Pt. 01: x__.___.___.___"
+#~ msgstr ""
+
+#~ msgctxt "#30020"
+#~ msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
+#~ msgstr ""
+
+#~ msgctxt "#30021"
+#~ msgid "Network Link Server Address Pt. 03: __x.___.___.___"
+#~ msgstr ""
+
+#~ msgctxt "#30022"
+#~ msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
+#~ msgstr ""
+
+#~ msgctxt "#30023"
+#~ msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
+#~ msgstr ""
+
+#~ msgctxt "#30024"
+#~ msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
+#~ msgstr ""
+
+#~ msgctxt "#30025"
+#~ msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
+#~ msgstr ""
+
+#~ msgctxt "#30026"
+#~ msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
+#~ msgstr ""
+
+#~ msgctxt "#30027"
+#~ msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
+#~ msgstr ""
+
+#~ msgctxt "#30028"
+#~ msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
+#~ msgstr ""
+
+#~ msgctxt "#30029"
+#~ msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
+#~ msgstr ""
+
+#~ msgctxt "#30030"
+#~ msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
+#~ msgstr ""
